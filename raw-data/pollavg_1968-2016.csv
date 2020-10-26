@@ -1,0 +1,2805 @@
+"year","party","candidate_name","poll_date","weeks_left","days_left","before_convention","avg_support"
+1968,"democrat","Hubert Humphrey, Jr.",1968-04-09,30,210,TRUE,35.15829
+1968,"democrat","Hubert Humphrey, Jr.",1968-05-07,26,182,TRUE,36.24287
+1968,"democrat","Hubert Humphrey, Jr.",1968-05-28,23,161,TRUE,40.54136
+1968,"democrat","Hubert Humphrey, Jr.",1968-06-18,20,140,TRUE,41.74232
+1968,"democrat","Hubert Humphrey, Jr.",1968-07-01,18,127,TRUE,40.93461
+1968,"democrat","Hubert Humphrey, Jr.",1968-07-23,15,105,TRUE,39.54803
+1968,"democrat","Hubert Humphrey, Jr.",1968-08-12,12,85,TRUE,34.05531
+1968,"democrat","Hubert Humphrey, Jr.",1968-09-06,9,60,FALSE,33.45343
+1968,"democrat","Hubert Humphrey, Jr.",1968-09-24,6,42,FALSE,32.06116
+1968,"democrat","Hubert Humphrey, Jr.",1968-10-01,5,35,FALSE,31.86193
+1968,"democrat","Hubert Humphrey, Jr.",1968-10-22,2,14,FALSE,33.66005
+1968,"democrat","Hubert Humphrey, Jr.",1968-11-02,0,3,FALSE,39.06675
+1968,"republican","Richard M. Nixon",1968-04-09,30,210,TRUE,47.40974
+1968,"republican","Richard M. Nixon",1968-05-07,26,182,TRUE,45.22699
+1968,"republican","Richard M. Nixon",1968-05-28,23,161,TRUE,41.9394
+1968,"republican","Richard M. Nixon",1968-06-18,20,140,TRUE,42.11079
+1968,"republican","Richard M. Nixon",1968-07-01,18,127,TRUE,41.10148
+1968,"republican","Richard M. Nixon",1968-07-23,15,105,TRUE,43.3008
+1968,"republican","Richard M. Nixon",1968-08-12,12,85,FALSE,46.88525
+1968,"republican","Richard M. Nixon",1968-09-06,9,60,FALSE,46.88179
+1968,"republican","Richard M. Nixon",1968-09-24,6,42,FALSE,46.91171
+1968,"republican","Richard M. Nixon",1968-10-01,5,35,FALSE,47.17408
+1968,"republican","Richard M. Nixon",1968-10-22,2,14,FALSE,47.54012
+1968,"republican","Richard M. Nixon",1968-11-02,0,3,FALSE,47.72081
+1972,"democrat","George S. McGovern",1972-03-07,35,245,TRUE,32
+1972,"democrat","George S. McGovern",1972-04-07,31,214,TRUE,33.06337
+1972,"democrat","George S. McGovern",1972-05-01,27,190,TRUE,36.37833
+1972,"democrat","George S. McGovern",1972-05-10,26,181,TRUE,38.77167
+1972,"democrat","George S. McGovern",1972-05-29,23,162,TRUE,35.91431
+1972,"democrat","George S. McGovern",1972-06-12,21,148,TRUE,36.94213
+1972,"democrat","George S. McGovern",1972-06-19,20,141,TRUE,37.1908
+1972,"democrat","George S. McGovern",1972-07-06,18,124,TRUE,36.16322
+1972,"democrat","George S. McGovern",1972-07-17,16,113,FALSE,36.51277
+1972,"democrat","George S. McGovern",1972-07-26,15,104,FALSE,39.09926
+1972,"democrat","George S. McGovern",1972-08-03,14,96,FALSE,35.6276366666667
+1972,"democrat","George S. McGovern",1972-08-12,12,87,FALSE,32.2136133333333
+1972,"democrat","George S. McGovern",1972-08-24,11,75,FALSE,27.36038
+1972,"democrat","George S. McGovern",1972-08-27,10,72,FALSE,28.64448
+1972,"democrat","George S. McGovern",1972-09-01,10,67,FALSE,29.04683
+1972,"democrat","George S. McGovern",1972-09-12,8,56,FALSE,28.15784
+1972,"democrat","George S. McGovern",1972-09-16,7,52,FALSE,29.10125
+1972,"democrat","George S. McGovern",1972-09-21,7,47,FALSE,26.30798
+1972,"democrat","George S. McGovern",1972-09-25,6,43,FALSE,27.863058
+1972,"democrat","George S. McGovern",1972-10-05,5,33,FALSE,29.67064
+1972,"democrat","George S. McGovern",1972-10-10,4,28,FALSE,30.02094375
+1972,"democrat","George S. McGovern",1972-10-18,3,20,FALSE,31.84777
+1972,"democrat","George S. McGovern",1972-10-19,3,19,FALSE,32.23738
+1972,"democrat","George S. McGovern",1972-10-24,2,14,FALSE,32.50386
+1972,"democrat","George S. McGovern",1972-10-26,2,12,FALSE,32.3338455555556
+1972,"democrat","George S. McGovern",1972-11-04,0,3,FALSE,33.71223
+1972,"republican","Richard M. Nixon",1972-03-07,35,245,TRUE,59
+1972,"republican","Richard M. Nixon",1972-04-07,31,214,TRUE,56.34058
+1972,"republican","Richard M. Nixon",1972-05-01,27,190,TRUE,52.49701
+1972,"republican","Richard M. Nixon",1972-05-10,26,181,TRUE,50.25888
+1972,"republican","Richard M. Nixon",1972-05-29,23,162,TRUE,52.75179
+1972,"republican","Richard M. Nixon",1972-06-12,21,148,TRUE,53.43283
+1972,"republican","Richard M. Nixon",1972-06-19,20,141,TRUE,53.58097
+1972,"republican","Richard M. Nixon",1972-07-06,18,124,TRUE,54.27803
+1972,"republican","Richard M. Nixon",1972-07-17,16,113,TRUE,55.64867
+1972,"republican","Richard M. Nixon",1972-07-26,15,104,TRUE,53.86614
+1972,"republican","Richard M. Nixon",1972-08-03,14,96,TRUE,55.2297333333333
+1972,"republican","Richard M. Nixon",1972-08-12,12,87,TRUE,56.7029066666667
+1972,"republican","Richard M. Nixon",1972-08-24,11,75,FALSE,56.40391
+1972,"republican","Richard M. Nixon",1972-08-27,10,72,FALSE,59.67793
+1972,"republican","Richard M. Nixon",1972-09-01,10,67,FALSE,60.28228
+1972,"republican","Richard M. Nixon",1972-09-12,8,56,FALSE,61.12826
+1972,"republican","Richard M. Nixon",1972-09-16,7,52,FALSE,61.63593
+1972,"republican","Richard M. Nixon",1972-09-21,7,47,FALSE,61.41904
+1972,"republican","Richard M. Nixon",1972-09-25,6,43,FALSE,61.452385
+1972,"republican","Richard M. Nixon",1972-10-05,5,33,FALSE,60.847205
+1972,"republican","Richard M. Nixon",1972-10-09,4,29,FALSE,60.39091
+1972,"republican","Richard M. Nixon",1972-10-10,4,28,FALSE,59.3916625
+1972,"republican","Richard M. Nixon",1972-10-18,3,20,FALSE,59.11809
+1972,"republican","Richard M. Nixon",1972-10-19,3,19,FALSE,58.810716
+1972,"republican","Richard M. Nixon",1972-10-24,2,14,FALSE,58.35372
+1972,"republican","Richard M. Nixon",1972-10-26,2,12,FALSE,58.3294777777778
+1972,"republican","Richard M. Nixon",1972-11-04,0,3,FALSE,57.92342
+1976,"democrat","Jimmy Carter",1976-02-16,37,260,TRUE,39.416481
+1976,"democrat","Jimmy Carter",1976-03-13,33,234,TRUE,43.248674
+1976,"democrat","Jimmy Carter",1976-03-16,33,231,TRUE,41.141149
+1976,"democrat","Jimmy Carter",1976-03-22,32,225,TRUE,42.281451
+1976,"democrat","Jimmy Carter",1976-03-29,31,218,TRUE,43.602956
+1976,"democrat","Jimmy Carter",1976-04-12,29,204,TRUE,44.991575
+1976,"democrat","Jimmy Carter",1976-04-15,29,201,TRUE,46.022055
+1976,"democrat","Jimmy Carter",1976-05-16,24,170,TRUE,43.76374
+1976,"democrat","Jimmy Carter",1976-06-14,20,141,TRUE,52.2389878857143
+1976,"democrat","Jimmy Carter",1976-07-19,15,106,FALSE,54.291895
+1976,"democrat","Jimmy Carter",1976-08-04,13,90,FALSE,55.1673264
+1976,"democrat","Jimmy Carter",1976-08-09,12,85,FALSE,55.0624922307692
+1976,"democrat","Jimmy Carter",1976-08-22,10,72,FALSE,51.382796
+1976,"democrat","Jimmy Carter",1976-08-27,10,67,FALSE,50.424224
+1976,"democrat","Jimmy Carter",1976-08-30,9,64,FALSE,51.826859
+1976,"democrat","Jimmy Carter",1976-09-03,9,60,FALSE,49.5945297692308
+1976,"democrat","Jimmy Carter",1976-09-16,7,47,FALSE,47.5806658571429
+1976,"democrat","Jimmy Carter",1976-09-23,6,40,FALSE,47.5945765
+1976,"democrat","Jimmy Carter",1976-09-27,5,36,FALSE,46.9765972857143
+1976,"democrat","Jimmy Carter",1976-10-04,4,29,FALSE,46.3252654285714
+1976,"democrat","Jimmy Carter",1976-10-11,3,22,FALSE,45.662252
+1976,"democrat","Jimmy Carter",1976-10-13,3,20,FALSE,43.000971
+1976,"democrat","Jimmy Carter",1976-10-14,3,19,FALSE,42.523463
+1976,"democrat","Jimmy Carter",1976-10-15,3,18,FALSE,42.982978
+1976,"democrat","Jimmy Carter",1976-10-16,2,17,FALSE,43.052324
+1976,"democrat","Jimmy Carter",1976-10-18,2,15,FALSE,43.535908
+1976,"democrat","Jimmy Carter",1976-10-20,2,13,FALSE,43.1489656
+1976,"democrat","Jimmy Carter",1976-10-21,2,12,FALSE,43.161415
+1976,"democrat","Jimmy Carter",1976-10-26,1,7,FALSE,43.35113675
+1976,"democrat","Jimmy Carter",1976-10-30,0,3,FALSE,43.278179
+1976,"democrat","Jimmy Carter",1976-10-31,0,2,FALSE,45.599425
+1976,"republican","Gerald R. Ford",1976-02-16,37,260,TRUE,49.367782
+1976,"republican","Gerald R. Ford",1976-03-13,33,234,TRUE,45.680087
+1976,"republican","Gerald R. Ford",1976-03-16,33,231,TRUE,46.839628
+1976,"republican","Gerald R. Ford",1976-03-22,32,225,TRUE,47.422559
+1976,"republican","Gerald R. Ford",1976-03-29,31,218,TRUE,47.706367
+1976,"republican","Gerald R. Ford",1976-04-12,29,204,TRUE,46.63453
+1976,"republican","Gerald R. Ford",1976-04-15,29,201,TRUE,45.246056
+1976,"republican","Gerald R. Ford",1976-05-16,24,170,TRUE,47.252952
+1976,"republican","Gerald R. Ford",1976-06-14,20,141,TRUE,48.3386980571429
+1976,"republican","Gerald R. Ford",1976-07-19,15,106,TRUE,35.79025
+1976,"republican","Gerald R. Ford",1976-08-04,13,90,TRUE,35.1591858
+1976,"republican","Gerald R. Ford",1976-08-09,12,85,TRUE,34.9650754615385
+1976,"republican","Gerald R. Ford",1976-08-22,10,72,FALSE,37.882155
+1976,"republican","Gerald R. Ford",1976-08-27,10,67,FALSE,38.739916
+1976,"republican","Gerald R. Ford",1976-08-30,9,64,FALSE,37.737861
+1976,"republican","Gerald R. Ford",1976-09-03,9,60,FALSE,37.1497065384615
+1976,"republican","Gerald R. Ford",1976-09-16,7,47,FALSE,38.5564404285714
+1976,"republican","Gerald R. Ford",1976-09-23,6,40,FALSE,40.6502245
+1976,"republican","Gerald R. Ford",1976-09-27,5,36,FALSE,42.300427
+1976,"republican","Gerald R. Ford",1976-10-04,4,29,FALSE,43.8882177142857
+1976,"republican","Gerald R. Ford",1976-10-11,3,22,FALSE,42.353407
+1976,"republican","Gerald R. Ford",1976-10-13,3,20,FALSE,41.047803
+1976,"republican","Gerald R. Ford",1976-10-14,3,19,FALSE,39.975726
+1976,"republican","Gerald R. Ford",1976-10-15,3,18,FALSE,40.896913
+1976,"republican","Gerald R. Ford",1976-10-16,2,17,FALSE,41.875956
+1976,"republican","Gerald R. Ford",1976-10-18,2,15,FALSE,41.7513495
+1976,"republican","Gerald R. Ford",1976-10-20,2,13,FALSE,41.601941
+1976,"republican","Gerald R. Ford",1976-10-21,2,12,FALSE,41.5591015
+1976,"republican","Gerald R. Ford",1976-10-26,1,7,FALSE,41.735712
+1976,"republican","Gerald R. Ford",1976-10-30,0,3,FALSE,43.30295
+1976,"republican","Gerald R. Ford",1976-10-31,0,2,FALSE,45.014414
+1980,"democrat","Jimmy Carter",1980-02-03,39,275,TRUE,58.713226
+1980,"democrat","Jimmy Carter",1980-03-02,35,247,TRUE,56.372978
+1980,"democrat","Jimmy Carter",1980-03-08,34,241,TRUE,56.075183
+1980,"democrat","Jimmy Carter",1980-03-20,33,229,TRUE,51.932444
+1980,"democrat","Jimmy Carter",1980-03-30,31,219,TRUE,42.924485
+1980,"democrat","Jimmy Carter",1980-04-08,30,210,TRUE,41.17038
+1980,"democrat","Jimmy Carter",1980-04-13,29,205,TRUE,40.486455
+1980,"democrat","Jimmy Carter",1980-04-14,29,204,TRUE,40.6003655454545
+1980,"democrat","Jimmy Carter",1980-04-25,28,193,TRUE,37.316465
+1980,"democrat","Jimmy Carter",1980-04-27,27,191,TRUE,38.146762
+1980,"democrat","Jimmy Carter",1980-04-30,27,188,TRUE,37.648578
+1980,"democrat","Jimmy Carter",1980-05-05,26,183,TRUE,37.8571619230769
+1980,"democrat","Jimmy Carter",1980-05-18,24,170,TRUE,37.4409001428571
+1980,"democrat","Jimmy Carter",1980-06-01,22,156,TRUE,38.037738
+1980,"democrat","Jimmy Carter",1980-06-08,21,149,TRUE,36.702727
+1980,"democrat","Jimmy Carter",1980-06-09,21,148,TRUE,35.979732
+1980,"democrat","Jimmy Carter",1980-06-12,21,145,TRUE,33.732236
+1980,"democrat","Jimmy Carter",1980-06-15,20,142,TRUE,33.280508
+1980,"democrat","Jimmy Carter",1980-06-16,20,141,TRUE,34.5982593333333
+1980,"democrat","Jimmy Carter",1980-06-22,19,135,TRUE,32.890032
+1980,"democrat","Jimmy Carter",1980-06-29,18,128,TRUE,31.7416412142857
+1980,"democrat","Jimmy Carter",1980-07-13,16,114,TRUE,32.646476
+1980,"democrat","Jimmy Carter",1980-07-14,16,113,TRUE,32.616573
+1980,"democrat","Jimmy Carter",1980-07-16,16,111,TRUE,30.276522
+1980,"democrat","Jimmy Carter",1980-07-21,15,106,TRUE,27.9938410769231
+1980,"democrat","Jimmy Carter",1980-08-03,13,93,TRUE,27.578794
+1980,"democrat","Jimmy Carter",1980-08-04,13,92,TRUE,28.199014
+1980,"democrat","Jimmy Carter",1980-08-06,13,90,TRUE,26.8522926666667
+1980,"democrat","Jimmy Carter",1980-08-07,13,89,TRUE,26.0342146666667
+1980,"democrat","Jimmy Carter",1980-08-18,11,78,FALSE,32.369552
+1980,"democrat","Jimmy Carter",1980-08-23,10,73,FALSE,33.8684172
+1980,"democrat","Jimmy Carter",1980-08-28,10,68,FALSE,35.723231
+1980,"democrat","Jimmy Carter",1980-09-03,9,62,FALSE,37.53759475
+1980,"democrat","Jimmy Carter",1980-09-07,8,58,FALSE,36.8003337142857
+1980,"democrat","Jimmy Carter",1980-09-14,7,51,FALSE,37.077087
+1980,"democrat","Jimmy Carter",1980-09-15,7,50,FALSE,37.054643
+1980,"democrat","Jimmy Carter",1980-09-21,6,44,FALSE,37.510105
+1980,"democrat","Jimmy Carter",1980-09-24,6,41,FALSE,36.442552
+1980,"democrat","Jimmy Carter",1980-09-25,6,40,FALSE,35.8784543333333
+1980,"democrat","Jimmy Carter",1980-10-01,5,34,FALSE,35.4616102
+1980,"democrat","Jimmy Carter",1980-10-06,4,29,FALSE,35.9352305
+1980,"democrat","Jimmy Carter",1980-10-10,4,25,FALSE,36.2223095
+1980,"democrat","Jimmy Carter",1980-10-12,3,23,FALSE,36.7032996666667
+1980,"democrat","Jimmy Carter",1980-10-15,3,20,FALSE,36.88153
+1980,"democrat","Jimmy Carter",1980-10-16,3,19,FALSE,37.8657225
+1980,"democrat","Jimmy Carter",1980-10-20,2,15,FALSE,38.4934855
+1980,"democrat","Jimmy Carter",1980-10-22,2,13,FALSE,38.524311
+1980,"democrat","Jimmy Carter",1980-10-26,1,9,FALSE,39.448215
+1980,"democrat","Jimmy Carter",1980-10-27,1,8,FALSE,39.6457196666667
+1980,"democrat","Jimmy Carter",1980-10-30,1,5,FALSE,41.058518
+1980,"democrat","Jimmy Carter",1980-11-01,0,3,FALSE,41.4894855
+1980,"republican","Ronald Reagan",1980-02-03,39,275,TRUE,34.568326
+1980,"republican","Ronald Reagan",1980-03-02,35,247,TRUE,36.307819
+1980,"republican","Ronald Reagan",1980-03-08,34,241,TRUE,37.945648
+1980,"republican","Ronald Reagan",1980-03-20,33,229,TRUE,41.096472
+1980,"republican","Ronald Reagan",1980-03-30,31,219,TRUE,41.087329
+1980,"republican","Ronald Reagan",1980-04-08,30,210,TRUE,43.462819
+1980,"republican","Ronald Reagan",1980-04-13,29,205,TRUE,41.844472
+1980,"republican","Ronald Reagan",1980-04-14,29,204,TRUE,40.8743753636364
+1980,"republican","Ronald Reagan",1980-04-25,28,193,TRUE,40.945323
+1980,"republican","Ronald Reagan",1980-04-27,27,191,TRUE,38.492578
+1980,"republican","Ronald Reagan",1980-04-30,27,188,TRUE,38.229797
+1980,"republican","Ronald Reagan",1980-05-05,26,183,TRUE,37.5740393076923
+1980,"republican","Ronald Reagan",1980-05-18,24,170,TRUE,36.1153311428571
+1980,"republican","Ronald Reagan",1980-06-01,22,156,TRUE,36.448809
+1980,"republican","Ronald Reagan",1980-06-08,21,149,TRUE,38.1155186666667
+1980,"republican","Ronald Reagan",1980-06-09,21,148,TRUE,38.022939
+1980,"republican","Ronald Reagan",1980-06-12,21,145,TRUE,38.068759
+1980,"republican","Ronald Reagan",1980-06-15,20,142,TRUE,38.129699
+1980,"republican","Ronald Reagan",1980-06-16,20,141,TRUE,39.1336383333333
+1980,"republican","Ronald Reagan",1980-06-22,19,135,TRUE,40.855057
+1980,"republican","Ronald Reagan",1980-06-29,18,128,TRUE,41.5954432142857
+1980,"republican","Ronald Reagan",1980-07-13,16,114,TRUE,37.546539
+1980,"republican","Ronald Reagan",1980-07-14,16,113,TRUE,38.532178
+1980,"republican","Ronald Reagan",1980-07-16,16,111,TRUE,40.295683
+1980,"republican","Ronald Reagan",1980-07-21,15,106,FALSE,45.9969537692308
+1980,"republican","Ronald Reagan",1980-08-03,13,93,FALSE,45.867919
+1980,"republican","Ronald Reagan",1980-08-04,13,92,FALSE,46.709317
+1980,"republican","Ronald Reagan",1980-08-06,13,90,FALSE,47.583605
+1980,"republican","Ronald Reagan",1980-08-07,13,89,FALSE,47.8135904
+1980,"republican","Ronald Reagan",1980-08-18,11,78,FALSE,43.167258
+1980,"republican","Ronald Reagan",1980-08-23,10,73,FALSE,42.6831434
+1980,"republican","Ronald Reagan",1980-08-28,10,68,FALSE,41.5276943333333
+1980,"republican","Ronald Reagan",1980-09-03,9,62,FALSE,40.067608
+1980,"republican","Ronald Reagan",1980-09-07,8,58,FALSE,40.4224624285714
+1980,"republican","Ronald Reagan",1980-09-14,7,51,FALSE,38.33357
+1980,"republican","Ronald Reagan",1980-09-15,7,50,FALSE,38.9394283333333
+1980,"republican","Ronald Reagan",1980-09-21,6,44,FALSE,38.417617
+1980,"republican","Ronald Reagan",1980-09-24,6,41,FALSE,39.79991
+1980,"republican","Ronald Reagan",1980-09-25,6,40,FALSE,39.6856245
+1980,"republican","Ronald Reagan",1980-10-01,5,34,FALSE,39.8395784
+1980,"republican","Ronald Reagan",1980-10-06,4,29,FALSE,40.417509
+1980,"republican","Ronald Reagan",1980-10-10,4,25,FALSE,40.9685875
+1980,"republican","Ronald Reagan",1980-10-12,3,23,FALSE,41.7509073333333
+1980,"republican","Ronald Reagan",1980-10-15,3,20,FALSE,42.243886
+1980,"republican","Ronald Reagan",1980-10-16,3,19,FALSE,42.089053
+1980,"republican","Ronald Reagan",1980-10-20,2,15,FALSE,41.2545393333333
+1980,"republican","Ronald Reagan",1980-10-22,2,13,FALSE,41.2455156666667
+1980,"republican","Ronald Reagan",1980-10-26,1,9,FALSE,41.60229
+1980,"republican","Ronald Reagan",1980-10-27,1,8,FALSE,41.552632
+1980,"republican","Ronald Reagan",1980-10-30,1,5,FALSE,41.818028
+1980,"republican","Ronald Reagan",1980-11-01,0,3,FALSE,43.855999
+1984,"democrat","Walter F. Mondale",1984-02-15,38,265,TRUE,41.726277
+1984,"democrat","Walter F. Mondale",1984-03-02,36,249,TRUE,42.183237
+1984,"democrat","Walter F. Mondale",1984-03-03,35,248,TRUE,42.005485
+1984,"democrat","Walter F. Mondale",1984-03-06,35,245,TRUE,42.605671
+1984,"democrat","Walter F. Mondale",1984-03-16,34,235,TRUE,40.918725
+1984,"democrat","Walter F. Mondale",1984-03-17,33,234,TRUE,39.786032
+1984,"democrat","Walter F. Mondale",1984-03-18,33,233,TRUE,40.0067589047619
+1984,"democrat","Walter F. Mondale",1984-04-08,30,212,TRUE,39.20216
+1984,"democrat","Walter F. Mondale",1984-04-15,29,205,TRUE,40.516625
+1984,"democrat","Walter F. Mondale",1984-04-26,28,194,TRUE,39.767136
+1984,"democrat","Walter F. Mondale",1984-05-03,27,187,TRUE,41.084326
+1984,"democrat","Walter F. Mondale",1984-05-13,25,177,TRUE,41.280575
+1984,"democrat","Walter F. Mondale",1984-05-24,24,166,TRUE,41.301592
+1984,"democrat","Walter F. Mondale",1984-06-01,23,158,TRUE,39.623055
+1984,"democrat","Walter F. Mondale",1984-06-08,22,151,TRUE,41.105649
+1984,"democrat","Walter F. Mondale",1984-06-11,21,148,TRUE,40.997824
+1984,"democrat","Walter F. Mondale",1984-06-25,19,134,TRUE,39.196803
+1984,"democrat","Walter F. Mondale",1984-06-26,19,133,TRUE,38.270674
+1984,"democrat","Walter F. Mondale",1984-06-28,19,131,TRUE,38.023193
+1984,"democrat","Walter F. Mondale",1984-07-07,17,122,TRUE,39.845784
+1984,"democrat","Walter F. Mondale",1984-07-10,17,119,TRUE,37.582628
+1984,"democrat","Walter F. Mondale",1984-07-11,17,118,TRUE,39.10236
+1984,"democrat","Walter F. Mondale",1984-07-12,17,117,TRUE,39.423049
+1984,"democrat","Walter F. Mondale",1984-07-13,17,116,TRUE,40.2856111428571
+1984,"democrat","Walter F. Mondale",1984-07-20,16,109,FALSE,44.43194
+1984,"democrat","Walter F. Mondale",1984-07-24,15,105,FALSE,45.088561375
+1984,"democrat","Walter F. Mondale",1984-08-09,13,89,FALSE,41.8658964
+1984,"democrat","Walter F. Mondale",1984-08-14,12,84,FALSE,40.231573
+1984,"democrat","Walter F. Mondale",1984-08-16,12,82,FALSE,39.650636
+1984,"democrat","Walter F. Mondale",1984-08-25,10,73,FALSE,39.034293
+1984,"democrat","Walter F. Mondale",1984-08-30,10,68,FALSE,37.655495125
+1984,"democrat","Walter F. Mondale",1984-09-07,9,60,FALSE,37.574071
+1984,"democrat","Walter F. Mondale",1984-09-09,8,58,FALSE,38.41014
+1984,"democrat","Walter F. Mondale",1984-09-11,8,56,FALSE,37.8966978
+1984,"democrat","Walter F. Mondale",1984-09-16,7,51,FALSE,37.2943751428571
+1984,"democrat","Walter F. Mondale",1984-09-23,6,44,FALSE,37.5097117142857
+1984,"democrat","Walter F. Mondale",1984-09-30,5,37,FALSE,37.381567
+1984,"democrat","Walter F. Mondale",1984-10-03,5,34,FALSE,36.331691
+1984,"democrat","Walter F. Mondale",1984-10-09,4,28,FALSE,37.2277205
+1984,"democrat","Walter F. Mondale",1984-10-10,4,27,FALSE,37.4550543333333
+1984,"democrat","Walter F. Mondale",1984-10-14,3,23,FALSE,39.08427
+1984,"democrat","Walter F. Mondale",1984-10-16,3,21,FALSE,39.085769
+1984,"democrat","Walter F. Mondale",1984-10-17,3,20,FALSE,39.6883616666667
+1984,"democrat","Walter F. Mondale",1984-10-18,3,19,FALSE,39.670373
+1984,"democrat","Walter F. Mondale",1984-10-21,2,16,FALSE,39.7927305
+1984,"democrat","Walter F. Mondale",1984-10-23,2,14,FALSE,40.18135
+1984,"democrat","Walter F. Mondale",1984-10-25,2,12,FALSE,39.930774
+1984,"democrat","Walter F. Mondale",1984-10-26,2,11,FALSE,38.527534
+1984,"democrat","Walter F. Mondale",1984-10-27,1,10,FALSE,38.331213
+1984,"democrat","Walter F. Mondale",1984-10-28,1,9,FALSE,38.36052425
+1984,"democrat","Walter F. Mondale",1984-11-01,1,5,FALSE,37.983104
+1984,"democrat","Walter F. Mondale",1984-11-03,0,3,FALSE,38.87221
+1984,"democrat","Walter F. Mondale",1984-11-04,0,2,FALSE,38.947609
+1984,"republican","Ronald Reagan",1984-02-15,38,265,TRUE,52.884249
+1984,"republican","Ronald Reagan",1984-03-02,36,249,TRUE,53.2276273333333
+1984,"republican","Ronald Reagan",1984-03-03,35,248,TRUE,53.259522
+1984,"republican","Ronald Reagan",1984-03-06,35,245,TRUE,52.751384
+1984,"republican","Ronald Reagan",1984-03-16,34,235,TRUE,53.09083
+1984,"republican","Ronald Reagan",1984-03-17,33,234,TRUE,53.942015
+1984,"republican","Ronald Reagan",1984-03-18,33,233,TRUE,54.2814932380952
+1984,"republican","Ronald Reagan",1984-04-08,30,212,TRUE,54.315811
+1984,"republican","Ronald Reagan",1984-04-15,29,205,TRUE,54.083137
+1984,"republican","Ronald Reagan",1984-04-26,28,194,TRUE,54.888211
+1984,"republican","Ronald Reagan",1984-05-03,27,187,TRUE,54.463382
+1984,"republican","Ronald Reagan",1984-05-13,25,177,TRUE,53.912046
+1984,"republican","Ronald Reagan",1984-05-24,24,166,TRUE,54.089603
+1984,"republican","Ronald Reagan",1984-06-01,23,158,TRUE,55.905951
+1984,"republican","Ronald Reagan",1984-06-08,22,151,TRUE,55.23218
+1984,"republican","Ronald Reagan",1984-06-11,21,148,TRUE,55.25421
+1984,"republican","Ronald Reagan",1984-06-25,19,134,TRUE,56.055052
+1984,"republican","Ronald Reagan",1984-06-26,19,133,TRUE,55.22805175
+1984,"republican","Ronald Reagan",1984-06-28,19,131,TRUE,54.976408
+1984,"republican","Ronald Reagan",1984-07-07,17,122,TRUE,53.437521
+1984,"republican","Ronald Reagan",1984-07-10,17,119,TRUE,55.390213
+1984,"republican","Ronald Reagan",1984-07-11,17,118,TRUE,54.755239
+1984,"republican","Ronald Reagan",1984-07-12,17,117,TRUE,54.222451
+1984,"republican","Ronald Reagan",1984-07-13,17,116,TRUE,53.1033718571429
+1984,"republican","Ronald Reagan",1984-07-20,16,109,TRUE,49.910574
+1984,"republican","Ronald Reagan",1984-07-24,15,105,TRUE,50.1284800625
+1984,"republican","Ronald Reagan",1984-08-09,13,89,TRUE,53.1897896
+1984,"republican","Ronald Reagan",1984-08-14,12,84,TRUE,54.232769
+1984,"republican","Ronald Reagan",1984-08-16,12,82,TRUE,54.477283
+1984,"republican","Ronald Reagan",1984-08-25,10,73,FALSE,54.720348
+1984,"republican","Ronald Reagan",1984-08-30,10,68,FALSE,56.9478125
+1984,"republican","Ronald Reagan",1984-09-07,9,60,FALSE,57.116837
+1984,"republican","Ronald Reagan",1984-09-09,8,58,FALSE,57.197665
+1984,"republican","Ronald Reagan",1984-09-11,8,56,FALSE,57.9247796
+1984,"republican","Ronald Reagan",1984-09-16,7,51,FALSE,57.0808554285714
+1984,"republican","Ronald Reagan",1984-09-23,6,44,FALSE,55.722242
+1984,"republican","Ronald Reagan",1984-09-30,5,37,FALSE,55.749117
+1984,"republican","Ronald Reagan",1984-10-03,5,34,FALSE,56.8651195
+1984,"republican","Ronald Reagan",1984-10-09,4,28,FALSE,57.22135
+1984,"republican","Ronald Reagan",1984-10-10,4,27,FALSE,57.3082856666667
+1984,"republican","Ronald Reagan",1984-10-14,3,23,FALSE,56.434955
+1984,"republican","Ronald Reagan",1984-10-16,3,21,FALSE,56.544634
+1984,"republican","Ronald Reagan",1984-10-17,3,20,FALSE,56.60277
+1984,"republican","Ronald Reagan",1984-10-18,3,19,FALSE,56.83764
+1984,"republican","Ronald Reagan",1984-10-21,2,16,FALSE,56.576853
+1984,"republican","Ronald Reagan",1984-10-23,2,14,FALSE,55.728918
+1984,"republican","Ronald Reagan",1984-10-25,2,12,FALSE,55.800697
+1984,"republican","Ronald Reagan",1984-10-26,2,11,FALSE,55.456338
+1984,"republican","Ronald Reagan",1984-10-27,1,10,FALSE,55.616445
+1984,"republican","Ronald Reagan",1984-10-28,1,9,FALSE,55.86481025
+1984,"republican","Ronald Reagan",1984-11-01,1,5,FALSE,56.9409895
+1984,"republican","Ronald Reagan",1984-11-03,0,3,FALSE,56.66412
+1984,"republican","Ronald Reagan",1984-11-04,0,2,FALSE,56.92206
+1988,"democrat","Michael S. Dukakis",1988-02-16,38,266,TRUE,28.622527
+1988,"democrat","Michael S. Dukakis",1988-03-09,35,244,TRUE,33.437483
+1988,"democrat","Michael S. Dukakis",1988-03-10,35,243,TRUE,36.258797
+1988,"democrat","Michael S. Dukakis",1988-03-11,35,242,TRUE,40.28026
+1988,"democrat","Michael S. Dukakis",1988-03-21,33,232,TRUE,45.7025572
+1988,"democrat","Michael S. Dukakis",1988-03-22,33,231,TRUE,45.488792
+1988,"democrat","Michael S. Dukakis",1988-03-31,32,222,TRUE,44.509537
+1988,"democrat","Michael S. Dukakis",1988-04-07,31,215,TRUE,45.9878562857143
+1988,"democrat","Michael S. Dukakis",1988-04-21,29,201,TRUE,47.016525
+1988,"democrat","Michael S. Dukakis",1988-04-23,28,199,TRUE,47.0185994444444
+1988,"democrat","Michael S. Dukakis",1988-05-02,27,190,TRUE,47.6570457
+1988,"democrat","Michael S. Dukakis",1988-05-12,26,180,TRUE,48.01512
+1988,"democrat","Michael S. Dukakis",1988-05-15,25,177,TRUE,50.347055
+1988,"democrat","Michael S. Dukakis",1988-05-16,25,176,TRUE,50.369422
+1988,"democrat","Michael S. Dukakis",1988-05-22,24,170,TRUE,51.234247
+1988,"democrat","Michael S. Dukakis",1988-05-25,24,167,TRUE,51.8832330714286
+1988,"democrat","Michael S. Dukakis",1988-06-08,22,153,TRUE,50.065231
+1988,"democrat","Michael S. Dukakis",1988-06-09,22,152,TRUE,48.91691
+1988,"democrat","Michael S. Dukakis",1988-06-12,21,149,TRUE,49.761134
+1988,"democrat","Michael S. Dukakis",1988-06-19,20,142,TRUE,49.358313
+1988,"democrat","Michael S. Dukakis",1988-06-26,19,135,TRUE,47.1307791666667
+1988,"democrat","Michael S. Dukakis",1988-07-08,18,123,TRUE,47.112713
+1988,"democrat","Michael S. Dukakis",1988-07-10,17,121,TRUE,47.118189
+1988,"democrat","Michael S. Dukakis",1988-07-11,17,120,TRUE,47.2729811666667
+1988,"democrat","Michael S. Dukakis",1988-07-17,16,114,TRUE,46.394023
+1988,"democrat","Michael S. Dukakis",1988-07-20,16,111,TRUE,47.698072
+1988,"democrat","Michael S. Dukakis",1988-07-22,16,109,FALSE,51.767841
+1988,"democrat","Michael S. Dukakis",1988-07-24,15,107,FALSE,52.072932
+1988,"democrat","Michael S. Dukakis",1988-07-25,15,106,FALSE,52.5972672222222
+1988,"democrat","Michael S. Dukakis",1988-08-03,14,97,FALSE,53.51698175
+1988,"democrat","Michael S. Dukakis",1988-08-07,13,93,FALSE,52.900809
+1988,"democrat","Michael S. Dukakis",1988-08-08,13,92,FALSE,52.395196
+1988,"democrat","Michael S. Dukakis",1988-08-09,13,91,FALSE,51.951905
+1988,"democrat","Michael S. Dukakis",1988-08-10,13,90,FALSE,51.311509
+1988,"democrat","Michael S. Dukakis",1988-08-13,12,87,FALSE,50.683935
+1988,"democrat","Michael S. Dukakis",1988-08-14,12,86,FALSE,51.206111
+1988,"democrat","Michael S. Dukakis",1988-08-15,12,85,FALSE,50.718384
+1988,"democrat","Michael S. Dukakis",1988-08-16,12,84,FALSE,49.419021
+1988,"democrat","Michael S. Dukakis",1988-08-17,12,83,FALSE,46.914178
+1988,"democrat","Michael S. Dukakis",1988-08-18,12,82,FALSE,46.12789
+1988,"democrat","Michael S. Dukakis",1988-08-19,12,81,FALSE,44.782918
+1988,"democrat","Michael S. Dukakis",1988-08-20,11,80,FALSE,44.817045
+1988,"democrat","Michael S. Dukakis",1988-08-21,11,79,FALSE,43.75093
+1988,"democrat","Michael S. Dukakis",1988-08-22,11,78,FALSE,43.347690875
+1988,"democrat","Michael S. Dukakis",1988-08-30,10,70,FALSE,43.428524
+1988,"democrat","Michael S. Dukakis",1988-09-06,9,63,FALSE,42.7422195
+1988,"democrat","Michael S. Dukakis",1988-09-08,9,61,FALSE,43.522986
+1988,"democrat","Michael S. Dukakis",1988-09-11,8,58,FALSE,43.317226
+1988,"democrat","Michael S. Dukakis",1988-09-14,8,55,FALSE,43.9013728
+1988,"democrat","Michael S. Dukakis",1988-09-19,7,50,FALSE,44.227459
+1988,"democrat","Michael S. Dukakis",1988-09-20,7,49,FALSE,43.6476316666667
+1988,"democrat","Michael S. Dukakis",1988-09-23,7,46,FALSE,43.964677
+1988,"democrat","Michael S. Dukakis",1988-09-27,6,42,FALSE,43.874673
+1988,"democrat","Michael S. Dukakis",1988-09-28,6,41,FALSE,43.6148478
+1988,"democrat","Michael S. Dukakis",1988-10-03,5,36,FALSE,43.716085
+1988,"democrat","Michael S. Dukakis",1988-10-09,4,30,FALSE,43.153587
+1988,"democrat","Michael S. Dukakis",1988-10-10,4,29,FALSE,43.2705375
+1988,"democrat","Michael S. Dukakis",1988-10-13,4,26,FALSE,43.235101
+1988,"democrat","Michael S. Dukakis",1988-10-14,4,25,FALSE,42.919092
+1988,"democrat","Michael S. Dukakis",1988-10-15,3,24,FALSE,42.838547
+1988,"democrat","Michael S. Dukakis",1988-10-16,3,23,FALSE,41.938818
+1988,"democrat","Michael S. Dukakis",1988-10-17,3,22,FALSE,42.024434
+1988,"democrat","Michael S. Dukakis",1988-10-18,3,21,FALSE,42.131546
+1988,"democrat","Michael S. Dukakis",1988-10-19,3,20,FALSE,42.075316
+1988,"democrat","Michael S. Dukakis",1988-10-20,3,19,FALSE,41.983983
+1988,"democrat","Michael S. Dukakis",1988-10-21,3,18,FALSE,42.0166
+1988,"democrat","Michael S. Dukakis",1988-10-22,2,17,FALSE,41.95655
+1988,"democrat","Michael S. Dukakis",1988-10-23,2,16,FALSE,41.494011
+1988,"democrat","Michael S. Dukakis",1988-10-24,2,15,FALSE,41.418955
+1988,"democrat","Michael S. Dukakis",1988-10-25,2,14,FALSE,41.349683
+1988,"democrat","Michael S. Dukakis",1988-10-26,2,13,FALSE,41.502212
+1988,"democrat","Michael S. Dukakis",1988-10-28,2,11,FALSE,41.380086
+1988,"democrat","Michael S. Dukakis",1988-10-29,1,10,FALSE,41.280893
+1988,"democrat","Michael S. Dukakis",1988-10-30,1,9,FALSE,41.41399
+1988,"democrat","Michael S. Dukakis",1988-10-31,1,8,FALSE,41.263334
+1988,"democrat","Michael S. Dukakis",1988-11-01,1,7,FALSE,41.240158
+1988,"democrat","Michael S. Dukakis",1988-11-02,1,6,FALSE,41.237925
+1988,"democrat","Michael S. Dukakis",1988-11-03,1,5,FALSE,41.236063
+1988,"democrat","Michael S. Dukakis",1988-11-04,1,4,FALSE,41.358929
+1988,"democrat","Michael S. Dukakis",1988-11-05,0,3,FALSE,41.726162
+1988,"democrat","Michael S. Dukakis",1988-11-07,0,1,FALSE,41.668574
+1988,"republican","George Bush",1988-02-16,38,266,TRUE,66.252556
+1988,"republican","George Bush",1988-03-09,35,244,TRUE,56.709566
+1988,"republican","George Bush",1988-03-10,35,243,TRUE,48.258236
+1988,"republican","George Bush",1988-03-11,35,242,TRUE,50.001349
+1988,"republican","George Bush",1988-03-21,33,232,TRUE,48.03678975
+1988,"republican","George Bush",1988-03-22,33,231,TRUE,48.08021
+1988,"republican","George Bush",1988-03-31,32,222,TRUE,48.685563
+1988,"republican","George Bush",1988-04-07,31,215,TRUE,48.0639172857143
+1988,"republican","George Bush",1988-04-21,29,201,TRUE,46.743025
+1988,"republican","George Bush",1988-04-23,28,199,TRUE,46.4387176666667
+1988,"republican","George Bush",1988-05-02,27,190,TRUE,45.4063298
+1988,"republican","George Bush",1988-05-12,26,180,TRUE,43.305729
+1988,"republican","George Bush",1988-05-15,25,177,TRUE,42.449717
+1988,"republican","George Bush",1988-05-16,25,176,TRUE,42.624463
+1988,"republican","George Bush",1988-05-22,24,170,TRUE,42.957542
+1988,"republican","George Bush",1988-05-25,24,167,TRUE,42.4049798571429
+1988,"republican","George Bush",1988-06-08,22,153,TRUE,44.172258
+1988,"republican","George Bush",1988-06-09,22,152,TRUE,43.06067
+1988,"republican","George Bush",1988-06-12,21,149,TRUE,40.917461
+1988,"republican","George Bush",1988-06-19,20,142,TRUE,40.551107
+1988,"republican","George Bush",1988-06-26,19,135,TRUE,42.4497661666667
+1988,"republican","George Bush",1988-07-08,18,123,TRUE,42.293852
+1988,"republican","George Bush",1988-07-10,17,121,TRUE,43.105733
+1988,"republican","George Bush",1988-07-11,17,120,TRUE,42.9725786666667
+1988,"republican","George Bush",1988-07-17,16,114,TRUE,44.46563
+1988,"republican","George Bush",1988-07-20,16,111,TRUE,44.414636
+1988,"republican","George Bush",1988-07-22,16,109,TRUE,41.016712
+1988,"republican","George Bush",1988-07-24,15,107,TRUE,40.558815
+1988,"republican","George Bush",1988-07-25,15,106,TRUE,39.2889487777778
+1988,"republican","George Bush",1988-08-03,14,97,TRUE,37.489639
+1988,"republican","George Bush",1988-08-07,13,93,TRUE,38.436254
+1988,"republican","George Bush",1988-08-08,13,92,TRUE,39.702597
+1988,"republican","George Bush",1988-08-09,13,91,TRUE,40.349992
+1988,"republican","George Bush",1988-08-10,13,90,TRUE,41.1076466666667
+1988,"republican","George Bush",1988-08-13,12,87,TRUE,41.725831
+1988,"republican","George Bush",1988-08-14,12,86,TRUE,41.303996
+1988,"republican","George Bush",1988-08-15,12,85,TRUE,41.284998
+1988,"republican","George Bush",1988-08-16,12,84,TRUE,42.341477
+1988,"republican","George Bush",1988-08-17,12,83,TRUE,44.122928
+1988,"republican","George Bush",1988-08-18,12,82,FALSE,44.415205
+1988,"republican","George Bush",1988-08-19,12,81,FALSE,46.252182
+1988,"republican","George Bush",1988-08-20,11,80,FALSE,46.640269
+1988,"republican","George Bush",1988-08-21,11,79,FALSE,46.965155
+1988,"republican","George Bush",1988-08-22,11,78,FALSE,47.642910125
+1988,"republican","George Bush",1988-08-30,10,70,FALSE,47.84305
+1988,"republican","George Bush",1988-09-06,9,63,FALSE,48.6369325
+1988,"republican","George Bush",1988-09-08,9,61,FALSE,48.4988266666667
+1988,"republican","George Bush",1988-09-11,8,58,FALSE,48.5030283333333
+1988,"republican","George Bush",1988-09-14,8,55,FALSE,48.3291086
+1988,"republican","George Bush",1988-09-19,7,50,FALSE,48.542847
+1988,"republican","George Bush",1988-09-20,7,49,FALSE,48.2490743333333
+1988,"republican","George Bush",1988-09-23,7,46,FALSE,48.344334
+1988,"republican","George Bush",1988-09-27,6,42,FALSE,48.403
+1988,"republican","George Bush",1988-09-28,6,41,FALSE,48.4534276
+1988,"republican","George Bush",1988-10-03,5,36,FALSE,48.9205726666667
+1988,"republican","George Bush",1988-10-09,4,30,FALSE,49.3230585
+1988,"republican","George Bush",1988-10-10,4,29,FALSE,49.330909
+1988,"republican","George Bush",1988-10-13,4,26,FALSE,49.554009
+1988,"republican","George Bush",1988-10-14,4,25,FALSE,49.806409
+1988,"republican","George Bush",1988-10-15,3,24,FALSE,49.878513
+1988,"republican","George Bush",1988-10-16,3,23,FALSE,51.527747
+1988,"republican","George Bush",1988-10-17,3,22,FALSE,51.616251
+1988,"republican","George Bush",1988-10-18,3,21,FALSE,51.746325
+1988,"republican","George Bush",1988-10-19,3,20,FALSE,51.886367
+1988,"republican","George Bush",1988-10-20,3,19,FALSE,52.070777
+1988,"republican","George Bush",1988-10-21,3,18,FALSE,51.700378
+1988,"republican","George Bush",1988-10-22,2,17,FALSE,51.810155
+1988,"republican","George Bush",1988-10-23,2,16,FALSE,51.884515
+1988,"republican","George Bush",1988-10-24,2,15,FALSE,52.364587
+1988,"republican","George Bush",1988-10-25,2,14,FALSE,52.460673
+1988,"republican","George Bush",1988-10-26,2,13,FALSE,52.3303575
+1988,"republican","George Bush",1988-10-28,2,11,FALSE,52.426647
+1988,"republican","George Bush",1988-10-29,1,10,FALSE,52.514922
+1988,"republican","George Bush",1988-10-30,1,9,FALSE,52.414437
+1988,"republican","George Bush",1988-10-31,1,8,FALSE,52.68368
+1988,"republican","George Bush",1988-11-01,1,7,FALSE,52.737158
+1988,"republican","George Bush",1988-11-02,1,6,FALSE,52.710175
+1988,"republican","George Bush",1988-11-03,1,5,FALSE,52.719273
+1988,"republican","George Bush",1988-11-04,1,4,FALSE,52.658727
+1988,"republican","George Bush",1988-11-05,0,3,FALSE,52.193928
+1988,"republican","George Bush",1988-11-06,0,2,FALSE,52.218202
+1988,"republican","George Bush",1988-11-07,0,1,FALSE,52.292803
+1992,"democrat","Bill Clinton",1992-02-20,37,257,TRUE,38.584397
+1992,"democrat","Bill Clinton",1992-03-01,35,247,TRUE,38.777881
+1992,"democrat","Bill Clinton",1992-03-02,35,246,TRUE,41.17919
+1992,"democrat","Bill Clinton",1992-03-08,34,240,TRUE,41.481741
+1992,"democrat","Bill Clinton",1992-03-12,34,236,TRUE,43.146195
+1992,"democrat","Bill Clinton",1992-03-20,33,228,TRUE,43.3835455
+1992,"democrat","Bill Clinton",1992-03-22,32,226,TRUE,43.2029
+1992,"democrat","Bill Clinton",1992-03-29,31,219,TRUE,38.821974
+1992,"democrat","Bill Clinton",1992-04-01,31,216,TRUE,35.30685675
+1992,"democrat","Bill Clinton",1992-04-02,31,215,TRUE,34.82079625
+1992,"democrat","Bill Clinton",1992-04-09,30,208,TRUE,31.407251
+1992,"democrat","Bill Clinton",1992-04-10,30,207,TRUE,30.331141
+1992,"democrat","Bill Clinton",1992-04-12,29,205,TRUE,31.140703
+1992,"democrat","Bill Clinton",1992-04-14,29,203,TRUE,30.408421
+1992,"democrat","Bill Clinton",1992-04-15,29,202,TRUE,30.099275
+1992,"democrat","Bill Clinton",1992-04-16,29,201,TRUE,29.742676
+1992,"democrat","Bill Clinton",1992-04-22,28,195,TRUE,27.270186
+1992,"democrat","Bill Clinton",1992-04-23,28,194,TRUE,27.831321
+1992,"democrat","Bill Clinton",1992-04-25,27,192,TRUE,27.709862
+1992,"democrat","Bill Clinton",1992-04-26,27,191,TRUE,28.147243
+1992,"democrat","Bill Clinton",1992-05-01,27,186,TRUE,27.138287
+1992,"democrat","Bill Clinton",1992-05-03,26,184,TRUE,27.5544375
+1992,"democrat","Bill Clinton",1992-05-07,26,180,TRUE,28.106226
+1992,"democrat","Bill Clinton",1992-05-08,26,179,TRUE,28.3376825
+1992,"democrat","Bill Clinton",1992-05-10,25,177,TRUE,28.621617
+1992,"democrat","Bill Clinton",1992-05-12,25,175,TRUE,28.212801
+1992,"democrat","Bill Clinton",1992-05-14,25,173,TRUE,27.777538
+1992,"democrat","Bill Clinton",1992-05-19,24,168,TRUE,28.904906
+1992,"democrat","Bill Clinton",1992-05-20,24,167,TRUE,28.331604
+1992,"democrat","Bill Clinton",1992-05-22,24,165,TRUE,27.9416105
+1992,"democrat","Bill Clinton",1992-05-30,22,157,TRUE,28.071755
+1992,"democrat","Bill Clinton",1992-05-31,22,156,TRUE,28.007919
+1992,"democrat","Bill Clinton",1992-06-04,22,152,TRUE,27.502906
+1992,"democrat","Bill Clinton",1992-06-05,22,151,TRUE,26.7221243333333
+1992,"democrat","Bill Clinton",1992-06-08,21,148,TRUE,25.8265995
+1992,"democrat","Bill Clinton",1992-06-10,21,146,TRUE,25.500757
+1992,"democrat","Bill Clinton",1992-06-14,20,142,TRUE,25.1346121666667
+1992,"democrat","Bill Clinton",1992-06-20,19,136,TRUE,25.207375625
+1992,"democrat","Bill Clinton",1992-06-28,18,128,TRUE,27.733169
+1992,"democrat","Bill Clinton",1992-06-29,18,127,TRUE,27.401321375
+1992,"democrat","Bill Clinton",1992-07-07,17,119,TRUE,28.674023
+1992,"democrat","Bill Clinton",1992-07-08,17,118,TRUE,32.088036
+1992,"democrat","Bill Clinton",1992-07-09,17,117,TRUE,32.486999
+1992,"democrat","Bill Clinton",1992-07-10,17,116,TRUE,33.706309
+1992,"democrat","Bill Clinton",1992-07-11,16,115,TRUE,33.700719
+1992,"democrat","Bill Clinton",1992-07-13,16,113,TRUE,34.520695
+1992,"democrat","Bill Clinton",1992-07-14,16,112,TRUE,38.542166
+1992,"democrat","Bill Clinton",1992-07-15,16,111,TRUE,39.035419
+1992,"democrat","Bill Clinton",1992-07-16,16,110,FALSE,42.31425
+1992,"democrat","Bill Clinton",1992-07-17,16,109,FALSE,49.553323
+1992,"democrat","Bill Clinton",1992-07-18,15,108,FALSE,49.4911
+1992,"democrat","Bill Clinton",1992-07-19,15,107,FALSE,49.162104
+1992,"democrat","Bill Clinton",1992-07-23,15,103,FALSE,50.574891
+1992,"democrat","Bill Clinton",1992-07-24,15,102,FALSE,51.053368
+1992,"democrat","Bill Clinton",1992-07-26,14,100,FALSE,51.9812888333333
+1992,"democrat","Bill Clinton",1992-08-01,13,94,FALSE,53.79027125
+1992,"democrat","Bill Clinton",1992-08-05,13,90,FALSE,54.1287435
+1992,"democrat","Bill Clinton",1992-08-07,13,88,FALSE,54.520316
+1992,"democrat","Bill Clinton",1992-08-09,12,86,FALSE,54.954705
+1992,"democrat","Bill Clinton",1992-08-11,12,84,FALSE,53.022203
+1992,"democrat","Bill Clinton",1992-08-12,12,83,FALSE,51.8347145
+1992,"democrat","Bill Clinton",1992-08-14,12,81,FALSE,51.4573626666667
+1992,"democrat","Bill Clinton",1992-08-17,11,78,FALSE,51.164531
+1992,"democrat","Bill Clinton",1992-08-18,11,77,FALSE,51.529429
+1992,"democrat","Bill Clinton",1992-08-19,11,76,FALSE,51.439705
+1992,"democrat","Bill Clinton",1992-08-20,11,75,FALSE,49.869469
+1992,"democrat","Bill Clinton",1992-08-21,11,74,FALSE,49.4854675
+1992,"democrat","Bill Clinton",1992-08-23,10,72,FALSE,49.35796
+1992,"democrat","Bill Clinton",1992-08-24,10,71,FALSE,48.575596
+1992,"democrat","Bill Clinton",1992-08-27,10,68,FALSE,48.502969
+1992,"democrat","Bill Clinton",1992-08-28,10,67,FALSE,48.218082
+1992,"democrat","Bill Clinton",1992-08-30,9,65,FALSE,49.0575935
+1992,"democrat","Bill Clinton",1992-09-01,9,63,FALSE,48.933167
+1992,"democrat","Bill Clinton",1992-09-02,9,62,FALSE,48.9129116666667
+1992,"democrat","Bill Clinton",1992-09-05,8,59,FALSE,47.526964
+1992,"democrat","Bill Clinton",1992-09-06,8,58,FALSE,48.7716066666667
+1992,"democrat","Bill Clinton",1992-09-09,8,55,FALSE,48.920787
+1992,"democrat","Bill Clinton",1992-09-10,8,54,FALSE,49.004106
+1992,"democrat","Bill Clinton",1992-09-11,8,53,FALSE,49.078573
+1992,"democrat","Bill Clinton",1992-09-13,7,51,FALSE,48.9949185
+1992,"democrat","Bill Clinton",1992-09-15,7,49,FALSE,48.568229
+1992,"democrat","Bill Clinton",1992-09-16,7,48,FALSE,48.540953
+1992,"democrat","Bill Clinton",1992-09-17,7,47,FALSE,48.5015016666667
+1992,"democrat","Bill Clinton",1992-09-20,6,44,FALSE,48.979066
+1992,"democrat","Bill Clinton",1992-09-21,6,43,FALSE,48.995818
+1992,"democrat","Bill Clinton",1992-09-22,6,42,FALSE,49.017334
+1992,"democrat","Bill Clinton",1992-09-23,6,41,FALSE,48.381905
+1992,"democrat","Bill Clinton",1992-09-24,6,40,FALSE,47.756345
+1992,"democrat","Bill Clinton",1992-09-25,6,39,FALSE,47.42636
+1992,"democrat","Bill Clinton",1992-09-27,5,37,FALSE,47.413579
+1992,"democrat","Bill Clinton",1992-09-28,5,36,FALSE,47.276982
+1992,"democrat","Bill Clinton",1992-09-29,5,35,FALSE,47.200791
+1992,"democrat","Bill Clinton",1992-09-30,5,34,FALSE,47.405328
+1992,"democrat","Bill Clinton",1992-10-01,5,33,FALSE,47.400157
+1992,"democrat","Bill Clinton",1992-10-02,5,32,FALSE,45.965501
+1992,"democrat","Bill Clinton",1992-10-03,4,31,FALSE,45.776086
+1992,"democrat","Bill Clinton",1992-10-04,4,30,FALSE,47.439048
+1992,"democrat","Bill Clinton",1992-10-05,4,29,FALSE,47.57178
+1992,"democrat","Bill Clinton",1992-10-06,4,28,FALSE,47.541234
+1992,"democrat","Bill Clinton",1992-10-07,4,27,FALSE,47.679192
+1992,"democrat","Bill Clinton",1992-10-08,4,26,FALSE,47.816324
+1992,"democrat","Bill Clinton",1992-10-09,4,25,FALSE,47.564692
+1992,"democrat","Bill Clinton",1992-10-10,3,24,FALSE,47.680849
+1992,"democrat","Bill Clinton",1992-10-11,3,23,FALSE,47.730264
+1992,"democrat","Bill Clinton",1992-10-12,3,22,FALSE,47.588886
+1992,"democrat","Bill Clinton",1992-10-13,3,21,FALSE,47.033835
+1992,"democrat","Bill Clinton",1992-10-14,3,20,FALSE,46.342423
+1992,"democrat","Bill Clinton",1992-10-15,3,19,FALSE,46.053771
+1992,"democrat","Bill Clinton",1992-10-16,3,18,FALSE,45.220241
+1992,"democrat","Bill Clinton",1992-10-17,2,17,FALSE,46.792979
+1992,"democrat","Bill Clinton",1992-10-18,2,16,FALSE,46.980985
+1992,"democrat","Bill Clinton",1992-10-19,2,15,FALSE,46.79961
+1992,"democrat","Bill Clinton",1992-10-20,2,14,FALSE,46.250828
+1992,"democrat","Bill Clinton",1992-10-21,2,13,FALSE,46.488125
+1992,"democrat","Bill Clinton",1992-10-22,2,12,FALSE,45.556558
+1992,"democrat","Bill Clinton",1992-10-23,2,11,FALSE,44.94718
+1992,"democrat","Bill Clinton",1992-10-24,1,10,FALSE,44.724119
+1992,"democrat","Bill Clinton",1992-10-25,1,9,FALSE,44.597704
+1992,"democrat","Bill Clinton",1992-10-26,1,8,FALSE,44.209815
+1992,"democrat","Bill Clinton",1992-10-27,1,7,FALSE,44.007533
+1992,"democrat","Bill Clinton",1992-10-28,1,6,FALSE,43.856493
+1992,"democrat","Bill Clinton",1992-10-29,1,5,FALSE,43.2716
+1992,"democrat","Bill Clinton",1992-10-30,1,4,FALSE,43.068711
+1992,"democrat","Bill Clinton",1992-10-31,0,3,FALSE,42.818811
+1992,"democrat","Bill Clinton",1992-11-01,0,2,FALSE,42.686611
+1992,"democrat","Bill Clinton",1992-11-02,0,1,FALSE,42.673484
+1992,"republican","George Bush",1992-02-20,37,257,TRUE,51.342087
+1992,"republican","George Bush",1992-03-01,35,247,TRUE,51.16355
+1992,"republican","George Bush",1992-03-02,35,246,TRUE,51.3773803333333
+1992,"republican","George Bush",1992-03-08,34,240,TRUE,49.7137
+1992,"republican","George Bush",1992-03-12,34,236,TRUE,48.484036
+1992,"republican","George Bush",1992-03-20,33,228,TRUE,48.20931
+1992,"republican","George Bush",1992-03-22,32,226,TRUE,48.8220302857143
+1992,"republican","George Bush",1992-03-29,31,219,TRUE,46.9935
+1992,"republican","George Bush",1992-04-01,31,216,TRUE,46.06764
+1992,"republican","George Bush",1992-04-02,31,215,TRUE,45.8659263333333
+1992,"republican","George Bush",1992-04-09,30,208,TRUE,44.053873
+1992,"republican","George Bush",1992-04-10,30,207,TRUE,43.875414
+1992,"republican","George Bush",1992-04-12,29,205,TRUE,44.047043
+1992,"republican","George Bush",1992-04-14,29,203,TRUE,42.44077
+1992,"republican","George Bush",1992-04-15,29,202,TRUE,42.199453
+1992,"republican","George Bush",1992-04-16,29,201,TRUE,42.160324
+1992,"republican","George Bush",1992-04-22,28,195,TRUE,40.939252
+1992,"republican","George Bush",1992-04-23,28,194,TRUE,40.594126
+1992,"republican","George Bush",1992-04-25,27,192,TRUE,40.187571
+1992,"republican","George Bush",1992-04-26,27,191,TRUE,39.968984
+1992,"republican","George Bush",1992-05-01,27,186,TRUE,39.04653
+1992,"republican","George Bush",1992-05-03,26,184,TRUE,37.99714925
+1992,"republican","George Bush",1992-05-07,26,180,TRUE,38.818368
+1992,"republican","George Bush",1992-05-08,26,179,TRUE,38.4790585
+1992,"republican","George Bush",1992-05-10,25,177,TRUE,37.589493
+1992,"republican","George Bush",1992-05-12,25,175,TRUE,37.060335
+1992,"republican","George Bush",1992-05-14,25,173,TRUE,35.8756156
+1992,"republican","George Bush",1992-05-19,24,168,TRUE,35.498281
+1992,"republican","George Bush",1992-05-20,24,167,TRUE,35.2908705
+1992,"republican","George Bush",1992-05-22,24,165,TRUE,35.475712625
+1992,"republican","George Bush",1992-05-30,22,157,TRUE,34.759221
+1992,"republican","George Bush",1992-05-31,22,156,TRUE,34.332282
+1992,"republican","George Bush",1992-06-04,22,152,TRUE,32.677173
+1992,"republican","George Bush",1992-06-05,22,151,TRUE,32.328266
+1992,"republican","George Bush",1992-06-07,21,149,TRUE,32.172294
+1992,"republican","George Bush",1992-06-08,21,148,TRUE,31.631855
+1992,"republican","George Bush",1992-06-10,21,146,TRUE,31.72723825
+1992,"republican","George Bush",1992-06-14,20,142,TRUE,31.5221075
+1992,"republican","George Bush",1992-06-20,19,136,TRUE,32.12853275
+1992,"republican","George Bush",1992-06-28,18,128,TRUE,31.836814
+1992,"republican","George Bush",1992-06-29,18,127,TRUE,31.818445375
+1992,"republican","George Bush",1992-07-07,17,119,TRUE,31.967035
+1992,"republican","George Bush",1992-07-08,17,118,TRUE,37.235944
+1992,"republican","George Bush",1992-07-09,17,117,TRUE,36.224011
+1992,"republican","George Bush",1992-07-10,17,116,TRUE,36.585816
+1992,"republican","George Bush",1992-07-11,16,115,TRUE,36.6488765
+1992,"republican","George Bush",1992-07-13,16,113,TRUE,36.559471
+1992,"republican","George Bush",1992-07-14,16,112,TRUE,35.975119
+1992,"republican","George Bush",1992-07-15,16,111,TRUE,35.846322
+1992,"republican","George Bush",1992-07-16,16,110,TRUE,32.446439
+1992,"republican","George Bush",1992-07-17,16,109,TRUE,30.278607
+1992,"republican","George Bush",1992-07-18,15,108,TRUE,30.220426
+1992,"republican","George Bush",1992-07-19,15,107,TRUE,29.815459
+1992,"republican","George Bush",1992-07-23,15,103,TRUE,28.827675
+1992,"republican","George Bush",1992-07-24,15,102,TRUE,29.7641735
+1992,"republican","George Bush",1992-07-26,14,100,TRUE,30.1106191666667
+1992,"republican","George Bush",1992-08-01,13,94,TRUE,30.01231375
+1992,"republican","George Bush",1992-08-05,13,90,TRUE,30.773593
+1992,"republican","George Bush",1992-08-07,13,88,TRUE,31.244087
+1992,"republican","George Bush",1992-08-09,12,86,TRUE,32.861786
+1992,"republican","George Bush",1992-08-11,12,84,TRUE,32.522829
+1992,"republican","George Bush",1992-08-12,12,83,TRUE,31.9192765
+1992,"republican","George Bush",1992-08-14,12,81,TRUE,32.5673546666667
+1992,"republican","George Bush",1992-08-17,11,78,TRUE,33.284092
+1992,"republican","George Bush",1992-08-18,11,77,TRUE,34.750076
+1992,"republican","George Bush",1992-08-19,11,76,TRUE,37.083661
+1992,"republican","George Bush",1992-08-20,11,75,FALSE,39.388669
+1992,"republican","George Bush",1992-08-21,11,74,FALSE,40.578081
+1992,"republican","George Bush",1992-08-23,10,72,FALSE,40.973292
+1992,"republican","George Bush",1992-08-24,10,71,FALSE,40.5955356666667
+1992,"republican","George Bush",1992-08-27,10,68,FALSE,41.861348
+1992,"republican","George Bush",1992-08-28,10,67,FALSE,41.6915626666667
+1992,"republican","George Bush",1992-08-30,9,65,FALSE,41.36549
+1992,"republican","George Bush",1992-09-01,9,63,FALSE,41.731201
+1992,"republican","George Bush",1992-09-02,9,62,FALSE,41.5178086666667
+1992,"republican","George Bush",1992-09-05,8,59,FALSE,40.554369
+1992,"republican","George Bush",1992-09-06,8,58,FALSE,41.0048995
+1992,"republican","George Bush",1992-09-08,8,56,FALSE,40.946865
+1992,"republican","George Bush",1992-09-09,8,55,FALSE,40.771292
+1992,"republican","George Bush",1992-09-10,8,54,FALSE,40.720686
+1992,"republican","George Bush",1992-09-11,8,53,FALSE,40.650993
+1992,"republican","George Bush",1992-09-13,7,51,FALSE,39.3053645
+1992,"republican","George Bush",1992-09-15,7,49,FALSE,39.004696
+1992,"republican","George Bush",1992-09-16,7,48,FALSE,38.909078
+1992,"republican","George Bush",1992-09-17,7,47,FALSE,38.829935
+1992,"republican","George Bush",1992-09-20,6,44,FALSE,38.277098
+1992,"republican","George Bush",1992-09-21,6,43,FALSE,37.914338
+1992,"republican","George Bush",1992-09-22,6,42,FALSE,37.710277
+1992,"republican","George Bush",1992-09-23,6,41,FALSE,36.981638
+1992,"republican","George Bush",1992-09-24,6,40,FALSE,36.713552
+1992,"republican","George Bush",1992-09-25,6,39,FALSE,36.7045215
+1992,"republican","George Bush",1992-09-27,5,37,FALSE,36.663806
+1992,"republican","George Bush",1992-09-28,5,36,FALSE,36.487485
+1992,"republican","George Bush",1992-09-29,5,35,FALSE,36.291261
+1992,"republican","George Bush",1992-09-30,5,34,FALSE,35.897577
+1992,"republican","George Bush",1992-10-01,5,33,FALSE,35.621098
+1992,"republican","George Bush",1992-10-02,5,32,FALSE,35.253946
+1992,"republican","George Bush",1992-10-03,4,31,FALSE,35.250111
+1992,"republican","George Bush",1992-10-04,4,30,FALSE,35.582969
+1992,"republican","George Bush",1992-10-05,4,29,FALSE,35.594723
+1992,"republican","George Bush",1992-10-06,4,28,FALSE,35.590129
+1992,"republican","George Bush",1992-10-07,4,27,FALSE,35.440159
+1992,"republican","George Bush",1992-10-08,4,26,FALSE,35.278443
+1992,"republican","George Bush",1992-10-09,4,25,FALSE,35.2186815
+1992,"republican","George Bush",1992-10-11,3,23,FALSE,35.018436
+1992,"republican","George Bush",1992-10-12,3,22,FALSE,35.405617
+1992,"republican","George Bush",1992-10-13,3,21,FALSE,34.824994
+1992,"republican","George Bush",1992-10-14,3,20,FALSE,35.475278
+1992,"republican","George Bush",1992-10-15,3,19,FALSE,34.973423
+1992,"republican","George Bush",1992-10-16,3,18,FALSE,34.122238
+1992,"republican","George Bush",1992-10-17,2,17,FALSE,34.123847
+1992,"republican","George Bush",1992-10-18,2,16,FALSE,33.468803
+1992,"republican","George Bush",1992-10-19,2,15,FALSE,33.167369
+1992,"republican","George Bush",1992-10-20,2,14,FALSE,32.408242
+1992,"republican","George Bush",1992-10-21,2,13,FALSE,32.412017
+1992,"republican","George Bush",1992-10-22,2,12,FALSE,33.107383
+1992,"republican","George Bush",1992-10-23,2,11,FALSE,33.129732
+1992,"republican","George Bush",1992-10-24,1,10,FALSE,33.130291
+1992,"republican","George Bush",1992-10-25,1,9,FALSE,33.073898
+1992,"republican","George Bush",1992-10-26,1,8,FALSE,33.222566
+1992,"republican","George Bush",1992-10-27,1,7,FALSE,33.685326
+1992,"republican","George Bush",1992-10-28,1,6,FALSE,34.00939
+1992,"republican","George Bush",1992-10-29,1,5,FALSE,34.401347
+1992,"republican","George Bush",1992-10-30,1,4,FALSE,34.611604
+1992,"republican","George Bush",1992-10-31,0,3,FALSE,34.727836
+1992,"republican","George Bush",1992-11-01,0,2,FALSE,35.189058
+1992,"republican","George Bush",1992-11-02,0,1,FALSE,35.376987
+1996,"democrat","Bill Clinton",1996-02-29,36,250,TRUE,50.7975762
+1996,"democrat","Bill Clinton",1996-03-05,35,245,TRUE,50.233135
+1996,"democrat","Bill Clinton",1996-03-10,34,240,TRUE,49.689336
+1996,"democrat","Bill Clinton",1996-03-11,34,239,TRUE,50.7364912
+1996,"democrat","Bill Clinton",1996-03-16,33,234,TRUE,50.231869
+1996,"democrat","Bill Clinton",1996-03-17,33,233,TRUE,49.3968231333333
+1996,"democrat","Bill Clinton",1996-04-01,31,218,TRUE,47.683562
+1996,"democrat","Bill Clinton",1996-04-02,31,217,TRUE,46.461734875
+1996,"democrat","Bill Clinton",1996-04-10,30,209,TRUE,45.1236201666667
+1996,"democrat","Bill Clinton",1996-04-16,29,203,TRUE,46.000896
+1996,"democrat","Bill Clinton",1996-04-22,28,197,TRUE,47.6040286666667
+1996,"democrat","Bill Clinton",1996-04-25,28,194,TRUE,49.143301
+1996,"democrat","Bill Clinton",1996-04-26,28,193,TRUE,47.252183
+1996,"democrat","Bill Clinton",1996-04-28,27,191,TRUE,47.1757076363636
+1996,"democrat","Bill Clinton",1996-05-09,26,180,TRUE,46.5850833333333
+1996,"democrat","Bill Clinton",1996-05-12,25,177,TRUE,46.077851
+1996,"democrat","Bill Clinton",1996-05-14,25,175,TRUE,47.227807
+1996,"democrat","Bill Clinton",1996-05-15,25,174,TRUE,48.487935
+1996,"democrat","Bill Clinton",1996-05-16,25,173,TRUE,49.223004
+1996,"democrat","Bill Clinton",1996-05-17,25,172,TRUE,49.4465308
+1996,"democrat","Bill Clinton",1996-05-22,24,167,TRUE,50.126206
+1996,"democrat","Bill Clinton",1996-05-23,24,166,TRUE,50.495167
+1996,"democrat","Bill Clinton",1996-05-29,23,160,TRUE,50.479716
+1996,"democrat","Bill Clinton",1996-05-31,23,158,TRUE,49.6067746666667
+1996,"democrat","Bill Clinton",1996-06-03,22,155,TRUE,48.461817
+1996,"democrat","Bill Clinton",1996-06-09,21,149,TRUE,49.169316
+1996,"democrat","Bill Clinton",1996-06-10,21,148,TRUE,48.703265
+1996,"democrat","Bill Clinton",1996-06-13,21,145,TRUE,48.35823
+1996,"democrat","Bill Clinton",1996-06-18,20,140,TRUE,49.20004
+1996,"democrat","Bill Clinton",1996-06-19,20,139,TRUE,48.879306
+1996,"democrat","Bill Clinton",1996-06-23,19,135,TRUE,48.4597755
+1996,"democrat","Bill Clinton",1996-06-25,19,133,TRUE,47.7530233333333
+1996,"democrat","Bill Clinton",1996-06-28,19,130,TRUE,47.5907305
+1996,"democrat","Bill Clinton",1996-06-30,18,128,TRUE,47.6328923636364
+1996,"democrat","Bill Clinton",1996-07-11,17,117,TRUE,46.626252
+1996,"democrat","Bill Clinton",1996-07-12,17,116,TRUE,47.1043985
+1996,"democrat","Bill Clinton",1996-07-14,16,114,TRUE,48.0055995
+1996,"democrat","Bill Clinton",1996-07-16,16,112,TRUE,47.756552
+1996,"democrat","Bill Clinton",1996-07-17,16,111,TRUE,48.0762465
+1996,"democrat","Bill Clinton",1996-07-21,15,107,TRUE,47.6603826
+1996,"democrat","Bill Clinton",1996-07-26,15,102,TRUE,47.146441
+1996,"democrat","Bill Clinton",1996-07-28,14,100,TRUE,46.401968
+1996,"democrat","Bill Clinton",1996-07-30,14,98,TRUE,47.4319378333333
+1996,"democrat","Bill Clinton",1996-08-05,13,92,TRUE,48.471739
+1996,"democrat","Bill Clinton",1996-08-06,13,91,TRUE,46.642347
+1996,"democrat","Bill Clinton",1996-08-07,13,90,TRUE,46.819293
+1996,"democrat","Bill Clinton",1996-08-08,13,89,TRUE,46.410425
+1996,"democrat","Bill Clinton",1996-08-09,13,88,TRUE,46.9256775
+1996,"democrat","Bill Clinton",1996-08-11,12,86,TRUE,46.936411
+1996,"democrat","Bill Clinton",1996-08-12,12,85,TRUE,46.894206
+1996,"democrat","Bill Clinton",1996-08-13,12,84,TRUE,46.297888
+1996,"democrat","Bill Clinton",1996-08-14,12,83,TRUE,47.061123
+1996,"democrat","Bill Clinton",1996-08-15,12,82,TRUE,46.711839
+1996,"democrat","Bill Clinton",1996-08-16,12,81,TRUE,46.770778
+1996,"democrat","Bill Clinton",1996-08-18,11,79,TRUE,45.769017
+1996,"democrat","Bill Clinton",1996-08-19,11,78,TRUE,46.185015
+1996,"democrat","Bill Clinton",1996-08-20,11,77,TRUE,45.639203
+1996,"democrat","Bill Clinton",1996-08-21,11,76,TRUE,43.642998
+1996,"democrat","Bill Clinton",1996-08-22,11,75,TRUE,43.670066
+1996,"democrat","Bill Clinton",1996-08-23,11,74,TRUE,44.500465
+1996,"democrat","Bill Clinton",1996-08-25,10,72,TRUE,44.71346
+1996,"democrat","Bill Clinton",1996-08-26,10,71,TRUE,44.889912
+1996,"democrat","Bill Clinton",1996-08-27,10,70,TRUE,45.720314
+1996,"democrat","Bill Clinton",1996-08-28,10,69,TRUE,46.293103
+1996,"democrat","Bill Clinton",1996-08-29,10,68,FALSE,47.892064
+1996,"democrat","Bill Clinton",1996-09-01,9,65,FALSE,49.0736766666667
+1996,"democrat","Bill Clinton",1996-09-04,9,62,FALSE,49.292053
+1996,"democrat","Bill Clinton",1996-09-05,9,61,FALSE,49.352682
+1996,"democrat","Bill Clinton",1996-09-06,9,60,FALSE,49.874324
+1996,"democrat","Bill Clinton",1996-09-07,8,59,FALSE,50.040109
+1996,"democrat","Bill Clinton",1996-09-08,8,58,FALSE,50.262387
+1996,"democrat","Bill Clinton",1996-09-09,8,57,FALSE,50.471022
+1996,"democrat","Bill Clinton",1996-09-10,8,56,FALSE,50.632859
+1996,"democrat","Bill Clinton",1996-09-11,8,55,FALSE,50.750401
+1996,"democrat","Bill Clinton",1996-09-12,8,54,FALSE,50.926102
+1996,"democrat","Bill Clinton",1996-09-14,7,52,FALSE,51.026272
+1996,"democrat","Bill Clinton",1996-09-15,7,51,FALSE,50.708132
+1996,"democrat","Bill Clinton",1996-09-16,7,50,FALSE,50.651606
+1996,"democrat","Bill Clinton",1996-09-17,7,49,FALSE,50.973582
+1996,"democrat","Bill Clinton",1996-09-18,7,48,FALSE,51.042865
+1996,"democrat","Bill Clinton",1996-09-19,7,47,FALSE,51.130203
+1996,"democrat","Bill Clinton",1996-09-20,7,46,FALSE,51.096649
+1996,"democrat","Bill Clinton",1996-09-21,6,45,FALSE,51.137259
+1996,"democrat","Bill Clinton",1996-09-22,6,44,FALSE,51.005592
+1996,"democrat","Bill Clinton",1996-09-23,6,43,FALSE,51.045962
+1996,"democrat","Bill Clinton",1996-09-24,6,42,FALSE,51.096042
+1996,"democrat","Bill Clinton",1996-09-25,6,41,FALSE,51.042871
+1996,"democrat","Bill Clinton",1996-09-26,6,40,FALSE,51.071949
+1996,"democrat","Bill Clinton",1996-09-27,6,39,FALSE,50.913607
+1996,"democrat","Bill Clinton",1996-09-28,5,38,FALSE,50.734129
+1996,"democrat","Bill Clinton",1996-09-29,5,37,FALSE,50.428952
+1996,"democrat","Bill Clinton",1996-09-30,5,36,FALSE,50.719485
+1996,"democrat","Bill Clinton",1996-10-01,5,35,FALSE,50.608578
+1996,"democrat","Bill Clinton",1996-10-02,5,34,FALSE,50.622081
+1996,"democrat","Bill Clinton",1996-10-03,5,33,FALSE,50.759091
+1996,"democrat","Bill Clinton",1996-10-04,5,32,FALSE,50.712177
+1996,"democrat","Bill Clinton",1996-10-05,4,31,FALSE,50.578339
+1996,"democrat","Bill Clinton",1996-10-06,4,30,FALSE,50.475712
+1996,"democrat","Bill Clinton",1996-10-07,4,29,FALSE,49.892923
+1996,"democrat","Bill Clinton",1996-10-08,4,28,FALSE,50.669552
+1996,"democrat","Bill Clinton",1996-10-09,4,27,FALSE,50.065417
+1996,"democrat","Bill Clinton",1996-10-10,4,26,FALSE,49.546626
+1996,"democrat","Bill Clinton",1996-10-11,4,25,FALSE,49.9184
+1996,"democrat","Bill Clinton",1996-10-12,3,24,FALSE,49.961226
+1996,"democrat","Bill Clinton",1996-10-13,3,23,FALSE,50.095891
+1996,"democrat","Bill Clinton",1996-10-14,3,22,FALSE,50.066582
+1996,"democrat","Bill Clinton",1996-10-15,3,21,FALSE,50.03074
+1996,"democrat","Bill Clinton",1996-10-16,3,20,FALSE,49.996338
+1996,"democrat","Bill Clinton",1996-10-17,3,19,FALSE,50.311747
+1996,"democrat","Bill Clinton",1996-10-18,3,18,FALSE,49.799678
+1996,"democrat","Bill Clinton",1996-10-19,2,17,FALSE,49.886354
+1996,"democrat","Bill Clinton",1996-10-20,2,16,FALSE,50.488646
+1996,"democrat","Bill Clinton",1996-10-21,2,15,FALSE,50.394765
+1996,"democrat","Bill Clinton",1996-10-22,2,14,FALSE,50.51407
+1996,"democrat","Bill Clinton",1996-10-23,2,13,FALSE,50.688515
+1996,"democrat","Bill Clinton",1996-10-24,2,12,FALSE,50.616655
+1996,"democrat","Bill Clinton",1996-10-25,2,11,FALSE,50.545089
+1996,"democrat","Bill Clinton",1996-10-26,1,10,FALSE,50.597211
+1996,"democrat","Bill Clinton",1996-10-27,1,9,FALSE,50.967289
+1996,"democrat","Bill Clinton",1996-10-28,1,8,FALSE,50.954256
+1996,"democrat","Bill Clinton",1996-10-29,1,7,FALSE,50.39878
+1996,"democrat","Bill Clinton",1996-10-30,1,6,FALSE,50.386012
+1996,"democrat","Bill Clinton",1996-10-31,1,5,FALSE,50.284964
+1996,"democrat","Bill Clinton",1996-11-01,1,4,FALSE,50.125468
+1996,"democrat","Bill Clinton",1996-11-02,0,3,FALSE,49.898307
+1996,"democrat","Bill Clinton",1996-11-03,0,2,FALSE,49.765499
+1996,"democrat","Bill Clinton",1996-11-04,0,1,FALSE,49.651302
+1996,"democrat","Bill Clinton",1996-11-05,0,0,FALSE,49.616052
+1996,"republican","Bob Dole",1996-02-29,36,250,TRUE,39.4101002
+1996,"republican","Bob Dole",1996-03-05,35,245,TRUE,37.9895878
+1996,"republican","Bob Dole",1996-03-10,34,240,TRUE,37.148941
+1996,"republican","Bob Dole",1996-03-11,34,239,TRUE,37.6887436
+1996,"republican","Bob Dole",1996-03-16,33,234,TRUE,37.938049
+1996,"republican","Bob Dole",1996-03-17,33,233,TRUE,38.8304178666667
+1996,"republican","Bob Dole",1996-04-01,31,218,TRUE,38.002779
+1996,"republican","Bob Dole",1996-04-02,31,217,TRUE,37.629250875
+1996,"republican","Bob Dole",1996-04-10,30,209,TRUE,36.5409568333333
+1996,"republican","Bob Dole",1996-04-16,29,203,TRUE,37.423926
+1996,"republican","Bob Dole",1996-04-22,28,197,TRUE,37.3348943333333
+1996,"republican","Bob Dole",1996-04-25,28,194,TRUE,38.321169
+1996,"republican","Bob Dole",1996-04-26,28,193,TRUE,36.215258
+1996,"republican","Bob Dole",1996-04-28,27,191,TRUE,35.8185611818182
+1996,"republican","Bob Dole",1996-05-09,26,180,TRUE,35.576771
+1996,"republican","Bob Dole",1996-05-12,25,177,TRUE,34.550706
+1996,"republican","Bob Dole",1996-05-14,25,175,TRUE,34.579692
+1996,"republican","Bob Dole",1996-05-15,25,174,TRUE,36.029285
+1996,"republican","Bob Dole",1996-05-16,25,173,TRUE,36.18067
+1996,"republican","Bob Dole",1996-05-17,25,172,TRUE,36.0588536
+1996,"republican","Bob Dole",1996-05-22,24,167,TRUE,35.120223
+1996,"republican","Bob Dole",1996-05-23,24,166,TRUE,35.226057
+1996,"republican","Bob Dole",1996-05-29,23,160,TRUE,34.892454
+1996,"republican","Bob Dole",1996-05-31,23,158,TRUE,34.4539943333333
+1996,"republican","Bob Dole",1996-06-03,22,155,TRUE,34.5552343333333
+1996,"republican","Bob Dole",1996-06-09,21,149,TRUE,35.503756
+1996,"republican","Bob Dole",1996-06-10,21,148,TRUE,35.192279
+1996,"republican","Bob Dole",1996-06-13,21,145,TRUE,36.8415366
+1996,"republican","Bob Dole",1996-06-18,20,140,TRUE,37.291744
+1996,"republican","Bob Dole",1996-06-19,20,139,TRUE,37.111328
+1996,"republican","Bob Dole",1996-06-23,19,135,TRUE,36.140706
+1996,"republican","Bob Dole",1996-06-25,19,133,TRUE,35.7643343333333
+1996,"republican","Bob Dole",1996-06-28,19,130,TRUE,35.431075
+1996,"republican","Bob Dole",1996-06-30,18,128,TRUE,35.817858
+1996,"republican","Bob Dole",1996-07-11,17,117,TRUE,35.244631
+1996,"republican","Bob Dole",1996-07-12,17,116,TRUE,34.5550675
+1996,"republican","Bob Dole",1996-07-14,16,114,TRUE,33.4583815
+1996,"republican","Bob Dole",1996-07-16,16,112,TRUE,33.343349
+1996,"republican","Bob Dole",1996-07-17,16,111,TRUE,33.50392475
+1996,"republican","Bob Dole",1996-07-21,15,107,TRUE,32.8744054
+1996,"republican","Bob Dole",1996-07-26,15,102,TRUE,31.949157
+1996,"republican","Bob Dole",1996-07-28,14,100,TRUE,32.207215
+1996,"republican","Bob Dole",1996-07-30,14,98,TRUE,32.3466191666667
+1996,"republican","Bob Dole",1996-08-05,13,92,TRUE,32.291429
+1996,"republican","Bob Dole",1996-08-06,13,91,TRUE,30.705102
+1996,"republican","Bob Dole",1996-08-07,13,90,TRUE,30.390651
+1996,"republican","Bob Dole",1996-08-08,13,89,TRUE,30.475722
+1996,"republican","Bob Dole",1996-08-09,13,88,TRUE,31.2276635
+1996,"republican","Bob Dole",1996-08-11,12,86,TRUE,31.660901
+1996,"republican","Bob Dole",1996-08-12,12,85,TRUE,32.289213
+1996,"republican","Bob Dole",1996-08-13,12,84,TRUE,34.232578
+1996,"republican","Bob Dole",1996-08-14,12,83,TRUE,36.20894
+1996,"republican","Bob Dole",1996-08-15,12,82,FALSE,37.627314
+1996,"republican","Bob Dole",1996-08-16,12,81,FALSE,39.888346
+1996,"republican","Bob Dole",1996-08-18,11,79,FALSE,39.685881
+1996,"republican","Bob Dole",1996-08-19,11,78,FALSE,39.946964
+1996,"republican","Bob Dole",1996-08-20,11,77,FALSE,40.09925
+1996,"republican","Bob Dole",1996-08-21,11,76,FALSE,39.106951
+1996,"republican","Bob Dole",1996-08-22,11,75,FALSE,38.587327
+1996,"republican","Bob Dole",1996-08-23,11,74,FALSE,39.3231575
+1996,"republican","Bob Dole",1996-08-25,10,72,FALSE,39.412724
+1996,"republican","Bob Dole",1996-08-26,10,71,FALSE,39.463929
+1996,"republican","Bob Dole",1996-08-27,10,70,FALSE,39.060585
+1996,"republican","Bob Dole",1996-08-28,10,69,FALSE,38.577577
+1996,"republican","Bob Dole",1996-08-29,10,68,FALSE,37.064335
+1996,"republican","Bob Dole",1996-09-01,9,65,FALSE,36.027713
+1996,"republican","Bob Dole",1996-09-04,9,62,FALSE,36.421856
+1996,"republican","Bob Dole",1996-09-05,9,61,FALSE,35.91838
+1996,"republican","Bob Dole",1996-09-06,9,60,FALSE,35.798574
+1996,"republican","Bob Dole",1996-09-08,8,58,FALSE,35.735666
+1996,"republican","Bob Dole",1996-09-09,8,57,FALSE,35.576313
+1996,"republican","Bob Dole",1996-09-10,8,56,FALSE,35.4344
+1996,"republican","Bob Dole",1996-09-11,8,55,FALSE,35.366521
+1996,"republican","Bob Dole",1996-09-12,8,54,FALSE,35.390119
+1996,"republican","Bob Dole",1996-09-14,7,52,FALSE,35.324435
+1996,"republican","Bob Dole",1996-09-15,7,51,FALSE,35.488046
+1996,"republican","Bob Dole",1996-09-16,7,50,FALSE,35.490465
+1996,"republican","Bob Dole",1996-09-17,7,49,FALSE,36.596473
+1996,"republican","Bob Dole",1996-09-18,7,48,FALSE,36.630929
+1996,"republican","Bob Dole",1996-09-19,7,47,FALSE,36.645146
+1996,"republican","Bob Dole",1996-09-20,7,46,FALSE,36.414029
+1996,"republican","Bob Dole",1996-09-21,6,45,FALSE,36.564501
+1996,"republican","Bob Dole",1996-09-22,6,44,FALSE,36.773228
+1996,"republican","Bob Dole",1996-09-23,6,43,FALSE,36.77563
+1996,"republican","Bob Dole",1996-09-24,6,42,FALSE,36.756828
+1996,"republican","Bob Dole",1996-09-25,6,41,FALSE,36.77212
+1996,"republican","Bob Dole",1996-09-26,6,40,FALSE,36.827555
+1996,"republican","Bob Dole",1996-09-27,6,39,FALSE,36.934239
+1996,"republican","Bob Dole",1996-09-28,5,38,FALSE,37.04656
+1996,"republican","Bob Dole",1996-09-29,5,37,FALSE,36.554702
+1996,"republican","Bob Dole",1996-09-30,5,36,FALSE,36.216372
+1996,"republican","Bob Dole",1996-10-01,5,35,FALSE,36.140434
+1996,"republican","Bob Dole",1996-10-02,5,34,FALSE,36.047616
+1996,"republican","Bob Dole",1996-10-03,5,33,FALSE,35.728793
+1996,"republican","Bob Dole",1996-10-04,5,32,FALSE,35.68217
+1996,"republican","Bob Dole",1996-10-05,4,31,FALSE,35.687548
+1996,"republican","Bob Dole",1996-10-06,4,30,FALSE,35.618377
+1996,"republican","Bob Dole",1996-10-07,4,29,FALSE,35.36963
+1996,"republican","Bob Dole",1996-10-08,4,28,FALSE,35.917176
+1996,"republican","Bob Dole",1996-10-09,4,27,FALSE,35.97081
+1996,"republican","Bob Dole",1996-10-10,4,26,FALSE,35.970916
+1996,"republican","Bob Dole",1996-10-11,4,25,FALSE,35.616618
+1996,"republican","Bob Dole",1996-10-12,3,24,FALSE,35.491569
+1996,"republican","Bob Dole",1996-10-13,3,23,FALSE,35.733135
+1996,"republican","Bob Dole",1996-10-14,3,22,FALSE,35.777329
+1996,"republican","Bob Dole",1996-10-15,3,21,FALSE,35.886903
+1996,"republican","Bob Dole",1996-10-16,3,20,FALSE,36.054573
+1996,"republican","Bob Dole",1996-10-17,3,19,FALSE,36.073468
+1996,"republican","Bob Dole",1996-10-18,3,18,FALSE,35.646779
+1996,"republican","Bob Dole",1996-10-19,2,17,FALSE,35.840261
+1996,"republican","Bob Dole",1996-10-20,2,16,FALSE,35.615885
+1996,"republican","Bob Dole",1996-10-21,2,15,FALSE,35.651165
+1996,"republican","Bob Dole",1996-10-22,2,14,FALSE,36.106518
+1996,"republican","Bob Dole",1996-10-23,2,13,FALSE,36.235596
+1996,"republican","Bob Dole",1996-10-24,2,12,FALSE,36.265367
+1996,"republican","Bob Dole",1996-10-25,2,11,FALSE,36.311989
+1996,"republican","Bob Dole",1996-10-26,1,10,FALSE,36.291795
+1996,"republican","Bob Dole",1996-10-27,1,9,FALSE,36.037661
+1996,"republican","Bob Dole",1996-10-28,1,8,FALSE,35.93864
+1996,"republican","Bob Dole",1996-10-29,1,7,FALSE,35.756565
+1996,"republican","Bob Dole",1996-10-30,1,6,FALSE,35.677759
+1996,"republican","Bob Dole",1996-10-31,1,5,FALSE,35.735224
+1996,"republican","Bob Dole",1996-11-01,1,4,FALSE,35.871217
+1996,"republican","Bob Dole",1996-11-02,0,3,FALSE,36.068797
+1996,"republican","Bob Dole",1996-11-03,0,2,FALSE,36.550688
+1996,"republican","Bob Dole",1996-11-04,0,1,FALSE,36.633899
+1996,"republican","Bob Dole",1996-11-05,0,0,FALSE,36.763277
+2000,"democrat","Al Gore",2000-02-27,36,254,TRUE,42.9606343333333
+2000,"democrat","Al Gore",2000-03-05,35,247,TRUE,43.3051693333333
+2000,"democrat","Al Gore",2000-03-08,35,244,TRUE,42.699338
+2000,"democrat","Al Gore",2000-03-09,35,243,TRUE,44.074208
+2000,"democrat","Al Gore",2000-03-10,35,242,TRUE,43.887505
+2000,"democrat","Al Gore",2000-03-11,34,241,TRUE,44.439554
+2000,"democrat","Al Gore",2000-03-12,34,240,TRUE,44.096046
+2000,"democrat","Al Gore",2000-03-13,34,239,TRUE,44.0765993333333
+2000,"democrat","Al Gore",2000-03-16,34,236,TRUE,44.7729343333333
+2000,"democrat","Al Gore",2000-03-19,33,233,TRUE,44.435377
+2000,"democrat","Al Gore",2000-03-21,33,231,TRUE,44.0891655
+2000,"democrat","Al Gore",2000-03-23,33,229,TRUE,43.7285332
+2000,"democrat","Al Gore",2000-03-24,33,228,TRUE,43.700309
+2000,"democrat","Al Gore",2000-04-02,31,219,TRUE,44.229996
+2000,"democrat","Al Gore",2000-04-04,31,217,TRUE,43.5791
+2000,"democrat","Al Gore",2000-04-05,31,216,TRUE,43.753276
+2000,"democrat","Al Gore",2000-04-06,31,215,TRUE,42.999717
+2000,"democrat","Al Gore",2000-04-07,31,214,TRUE,43.189588
+2000,"democrat","Al Gore",2000-04-09,30,212,TRUE,42.3050676
+2000,"democrat","Al Gore",2000-04-14,30,207,TRUE,41.9966726666667
+2000,"democrat","Al Gore",2000-04-17,29,204,TRUE,41.838082
+2000,"democrat","Al Gore",2000-04-18,29,203,TRUE,40.4344527777778
+2000,"democrat","Al Gore",2000-04-27,28,194,TRUE,38.09928
+2000,"democrat","Al Gore",2000-04-30,27,191,TRUE,38.205219
+2000,"democrat","Al Gore",2000-05-01,27,190,TRUE,38.0230676666667
+2000,"democrat","Al Gore",2000-05-07,26,184,TRUE,38.2844256666667
+2000,"democrat","Al Gore",2000-05-10,26,181,TRUE,37.979057
+2000,"democrat","Al Gore",2000-05-11,26,180,TRUE,37.629209
+2000,"democrat","Al Gore",2000-05-13,25,178,TRUE,38.256549
+2000,"democrat","Al Gore",2000-05-16,25,175,TRUE,38.9239145
+2000,"democrat","Al Gore",2000-05-24,24,167,TRUE,39.097754
+2000,"democrat","Al Gore",2000-05-25,24,166,TRUE,39.105124875
+2000,"democrat","Al Gore",2000-06-02,23,158,TRUE,40.2747843333333
+2000,"democrat","Al Gore",2000-06-05,22,155,TRUE,39.824342
+2000,"democrat","Al Gore",2000-06-07,22,153,TRUE,39.913581
+2000,"democrat","Al Gore",2000-06-08,22,152,TRUE,39.2395486666667
+2000,"democrat","Al Gore",2000-06-11,21,149,TRUE,39.5165475
+2000,"democrat","Al Gore",2000-06-13,21,147,TRUE,39.7520952
+2000,"democrat","Al Gore",2000-06-18,20,142,TRUE,39.5034315
+2000,"democrat","Al Gore",2000-06-20,20,140,TRUE,39.0576005
+2000,"democrat","Al Gore",2000-06-21,20,139,TRUE,39.047414
+2000,"democrat","Al Gore",2000-06-23,20,137,TRUE,39.432662
+2000,"democrat","Al Gore",2000-06-25,19,135,TRUE,39.212533
+2000,"democrat","Al Gore",2000-06-29,19,131,TRUE,39.0987899
+2000,"democrat","Al Gore",2000-07-09,17,121,TRUE,38.932975
+2000,"democrat","Al Gore",2000-07-10,17,120,TRUE,38.718302
+2000,"democrat","Al Gore",2000-07-13,17,117,TRUE,38.942201
+2000,"democrat","Al Gore",2000-07-16,16,114,TRUE,39.020486
+2000,"democrat","Al Gore",2000-07-17,16,113,TRUE,38.8544378333333
+2000,"democrat","Al Gore",2000-07-23,15,107,TRUE,38.692295
+2000,"democrat","Al Gore",2000-07-24,15,106,TRUE,38.776313
+2000,"democrat","Al Gore",2000-07-26,15,104,TRUE,38.723015125
+2000,"democrat","Al Gore",2000-08-11,13,88,TRUE,39.834193
+2000,"democrat","Al Gore",2000-08-12,12,87,TRUE,39.332113
+2000,"democrat","Al Gore",2000-08-14,12,85,TRUE,39.053319
+2000,"democrat","Al Gore",2000-08-15,12,84,TRUE,38.862538
+2000,"democrat","Al Gore",2000-08-16,12,83,TRUE,38.432303
+2000,"democrat","Al Gore",2000-08-17,12,82,FALSE,40.762496
+2000,"democrat","Al Gore",2000-08-18,12,81,FALSE,43.19089
+2000,"democrat","Al Gore",2000-08-19,11,80,FALSE,43.942333
+2000,"democrat","Al Gore",2000-08-20,11,79,FALSE,44.2640233333333
+2000,"democrat","Al Gore",2000-08-24,11,75,FALSE,45.375087
+2000,"democrat","Al Gore",2000-08-25,11,74,FALSE,45.408615
+2000,"democrat","Al Gore",2000-08-27,10,72,FALSE,45.261775
+2000,"democrat","Al Gore",2000-08-28,10,71,FALSE,45.1898485
+2000,"democrat","Al Gore",2000-08-31,10,68,FALSE,46.0936051666667
+2000,"democrat","Al Gore",2000-09-06,9,62,FALSE,45.944621
+2000,"democrat","Al Gore",2000-09-07,9,61,FALSE,45.763561
+2000,"democrat","Al Gore",2000-09-08,9,60,FALSE,45.817739
+2000,"democrat","Al Gore",2000-09-09,8,59,FALSE,45.813714
+2000,"democrat","Al Gore",2000-09-10,8,58,FALSE,45.576428
+2000,"democrat","Al Gore",2000-09-11,8,57,FALSE,45.492024
+2000,"democrat","Al Gore",2000-09-12,8,56,FALSE,45.275045
+2000,"democrat","Al Gore",2000-09-13,8,55,FALSE,45.153944
+2000,"democrat","Al Gore",2000-09-14,8,54,FALSE,45.040542
+2000,"democrat","Al Gore",2000-09-15,8,53,FALSE,44.878742
+2000,"democrat","Al Gore",2000-09-16,7,52,FALSE,44.862324
+2000,"democrat","Al Gore",2000-09-17,7,51,FALSE,44.856121
+2000,"democrat","Al Gore",2000-09-18,7,50,FALSE,44.83587
+2000,"democrat","Al Gore",2000-09-19,7,49,FALSE,44.435493
+2000,"democrat","Al Gore",2000-09-20,7,48,FALSE,44.506441
+2000,"democrat","Al Gore",2000-09-21,7,47,FALSE,44.540536
+2000,"democrat","Al Gore",2000-09-22,7,46,FALSE,44.528767
+2000,"democrat","Al Gore",2000-09-23,6,45,FALSE,44.235293
+2000,"democrat","Al Gore",2000-09-24,6,44,FALSE,44.169416
+2000,"democrat","Al Gore",2000-09-25,6,43,FALSE,43.707416
+2000,"democrat","Al Gore",2000-09-26,6,42,FALSE,43.645922
+2000,"democrat","Al Gore",2000-09-27,6,41,FALSE,43.510558
+2000,"democrat","Al Gore",2000-09-28,6,40,FALSE,43.514715
+2000,"democrat","Al Gore",2000-09-29,6,39,FALSE,43.501588
+2000,"democrat","Al Gore",2000-09-30,5,38,FALSE,43.863311
+2000,"democrat","Al Gore",2000-10-01,5,37,FALSE,44.281259
+2000,"democrat","Al Gore",2000-10-02,5,36,FALSE,44.332395
+2000,"democrat","Al Gore",2000-10-03,5,35,FALSE,44.442983
+2000,"democrat","Al Gore",2000-10-04,5,34,FALSE,44.830135
+2000,"democrat","Al Gore",2000-10-05,5,33,FALSE,44.913084
+2000,"democrat","Al Gore",2000-10-06,5,32,FALSE,44.055395
+2000,"democrat","Al Gore",2000-10-07,4,31,FALSE,43.564051
+2000,"democrat","Al Gore",2000-10-08,4,30,FALSE,43.103337
+2000,"democrat","Al Gore",2000-10-09,4,29,FALSE,43.167313
+2000,"democrat","Al Gore",2000-10-10,4,28,FALSE,43.239139
+2000,"democrat","Al Gore",2000-10-11,4,27,FALSE,43.06901
+2000,"democrat","Al Gore",2000-10-12,4,26,FALSE,42.849818
+2000,"democrat","Al Gore",2000-10-13,4,25,FALSE,42.734866
+2000,"democrat","Al Gore",2000-10-14,3,24,FALSE,42.47093
+2000,"democrat","Al Gore",2000-10-15,3,23,FALSE,42.502133
+2000,"democrat","Al Gore",2000-10-16,3,22,FALSE,42.602021
+2000,"democrat","Al Gore",2000-10-17,3,21,FALSE,42.657228
+2000,"democrat","Al Gore",2000-10-18,3,20,FALSE,42.211984
+2000,"democrat","Al Gore",2000-10-19,3,19,FALSE,42.7622165
+2000,"democrat","Al Gore",2000-10-21,2,17,FALSE,42.647424
+2000,"democrat","Al Gore",2000-10-22,2,16,FALSE,42.597101
+2000,"democrat","Al Gore",2000-10-23,2,15,FALSE,42.756733
+2000,"democrat","Al Gore",2000-10-24,2,14,FALSE,42.85544
+2000,"democrat","Al Gore",2000-10-25,2,13,FALSE,42.874883
+2000,"democrat","Al Gore",2000-10-26,2,12,FALSE,42.764783
+2000,"democrat","Al Gore",2000-10-27,2,11,FALSE,42.714982
+2000,"democrat","Al Gore",2000-10-28,1,10,FALSE,42.580821
+2000,"democrat","Al Gore",2000-10-29,1,9,FALSE,42.619625
+2000,"democrat","Al Gore",2000-10-30,1,8,FALSE,42.627367
+2000,"democrat","Al Gore",2000-10-31,1,7,FALSE,42.725262
+2000,"democrat","Al Gore",2000-11-01,1,6,FALSE,42.743869
+2000,"democrat","Al Gore",2000-11-02,1,5,FALSE,42.734543
+2000,"democrat","Al Gore",2000-11-03,1,4,FALSE,43.024576
+2000,"democrat","Al Gore",2000-11-04,0,3,FALSE,43.078329
+2000,"democrat","Al Gore",2000-11-05,0,2,FALSE,43.165373
+2000,"democrat","Al Gore",2000-11-06,0,1,FALSE,43.323453
+2000,"republican","George W. Bush",2000-02-27,36,254,TRUE,50.3730443333333
+2000,"republican","George W. Bush",2000-03-05,35,247,TRUE,50.2713916666667
+2000,"republican","George W. Bush",2000-03-08,35,244,TRUE,47.986589
+2000,"republican","George W. Bush",2000-03-09,35,243,TRUE,47.950329
+2000,"republican","George W. Bush",2000-03-10,35,242,TRUE,47.4713235
+2000,"republican","George W. Bush",2000-03-12,34,240,TRUE,47.22968
+2000,"republican","George W. Bush",2000-03-13,34,239,TRUE,47.2752256666667
+2000,"republican","George W. Bush",2000-03-16,34,236,TRUE,46.8180513333333
+2000,"republican","George W. Bush",2000-03-19,33,233,TRUE,46.062167
+2000,"republican","George W. Bush",2000-03-21,33,231,TRUE,46.557907
+2000,"republican","George W. Bush",2000-03-23,33,229,TRUE,46.24462625
+2000,"republican","George W. Bush",2000-03-24,33,228,TRUE,46.1932536666667
+2000,"republican","George W. Bush",2000-04-02,31,219,TRUE,45.692507
+2000,"republican","George W. Bush",2000-04-04,31,217,TRUE,45.676859
+2000,"republican","George W. Bush",2000-04-05,31,216,TRUE,46.006526
+2000,"republican","George W. Bush",2000-04-06,31,215,TRUE,45.845684
+2000,"republican","George W. Bush",2000-04-07,31,214,TRUE,45.982295
+2000,"republican","George W. Bush",2000-04-09,30,212,TRUE,46.0142352
+2000,"republican","George W. Bush",2000-04-14,30,207,TRUE,45.7350436666667
+2000,"republican","George W. Bush",2000-04-17,29,204,TRUE,46.196683
+2000,"republican","George W. Bush",2000-04-18,29,203,TRUE,45.6563771111111
+2000,"republican","George W. Bush",2000-04-27,28,194,TRUE,44.104784
+2000,"republican","George W. Bush",2000-04-30,27,191,TRUE,44.170235
+2000,"republican","George W. Bush",2000-05-01,27,190,TRUE,44.3310446666667
+2000,"republican","George W. Bush",2000-05-07,26,184,TRUE,45.2646793333333
+2000,"republican","George W. Bush",2000-05-10,26,181,TRUE,45.204433
+2000,"republican","George W. Bush",2000-05-11,26,180,TRUE,44.969285
+2000,"republican","George W. Bush",2000-05-13,25,178,TRUE,45.374846
+2000,"republican","George W. Bush",2000-05-16,25,175,TRUE,45.872097125
+2000,"republican","George W. Bush",2000-05-24,24,167,TRUE,45.727334
+2000,"republican","George W. Bush",2000-05-25,24,166,TRUE,45.704211625
+2000,"republican","George W. Bush",2000-06-02,23,158,TRUE,45.7698876666667
+2000,"republican","George W. Bush",2000-06-05,22,155,TRUE,45.80929
+2000,"republican","George W. Bush",2000-06-07,22,153,TRUE,45.67484
+2000,"republican","George W. Bush",2000-06-08,22,152,TRUE,45.129249
+2000,"republican","George W. Bush",2000-06-11,21,149,TRUE,45.568133
+2000,"republican","George W. Bush",2000-06-13,21,147,TRUE,47.3067798
+2000,"republican","George W. Bush",2000-06-18,20,142,TRUE,47.4029255
+2000,"republican","George W. Bush",2000-06-20,20,140,TRUE,46.670275
+2000,"republican","George W. Bush",2000-06-23,20,137,TRUE,46.2935335
+2000,"republican","George W. Bush",2000-06-25,19,135,TRUE,46.9908715
+2000,"republican","George W. Bush",2000-06-29,19,131,TRUE,46.7406725
+2000,"republican","George W. Bush",2000-07-09,17,121,TRUE,46.995054
+2000,"republican","George W. Bush",2000-07-10,17,120,TRUE,45.8744813333333
+2000,"republican","George W. Bush",2000-07-13,17,117,TRUE,46.3041486666667
+2000,"republican","George W. Bush",2000-07-16,16,114,TRUE,45.497731
+2000,"republican","George W. Bush",2000-07-17,16,113,TRUE,45.506907
+2000,"republican","George W. Bush",2000-07-23,15,107,TRUE,45.414209
+2000,"republican","George W. Bush",2000-07-24,15,106,TRUE,45.81965
+2000,"republican","George W. Bush",2000-07-26,15,104,TRUE,46.1010256875
+2000,"republican","George W. Bush",2000-08-11,13,88,FALSE,47.561933
+2000,"republican","George W. Bush",2000-08-12,12,87,FALSE,48.549065
+2000,"republican","George W. Bush",2000-08-14,12,85,FALSE,48.036107
+2000,"republican","George W. Bush",2000-08-15,12,84,FALSE,48.964898
+2000,"republican","George W. Bush",2000-08-16,12,83,FALSE,48.4586
+2000,"republican","George W. Bush",2000-08-17,12,82,FALSE,47.474195
+2000,"republican","George W. Bush",2000-08-18,12,81,FALSE,45.811845
+2000,"republican","George W. Bush",2000-08-19,11,80,FALSE,45.157149
+2000,"republican","George W. Bush",2000-08-20,11,79,FALSE,44.7634143333333
+2000,"republican","George W. Bush",2000-08-24,11,75,FALSE,43.628955
+2000,"republican","George W. Bush",2000-08-25,11,74,FALSE,43.584234
+2000,"republican","George W. Bush",2000-08-27,10,72,FALSE,43.486503
+2000,"republican","George W. Bush",2000-08-28,10,71,FALSE,43.4489726666667
+2000,"republican","George W. Bush",2000-08-31,10,68,FALSE,42.5270423333333
+2000,"republican","George W. Bush",2000-09-06,9,62,FALSE,42.97369
+2000,"republican","George W. Bush",2000-09-07,9,61,FALSE,43.201745
+2000,"republican","George W. Bush",2000-09-08,9,60,FALSE,43.124112
+2000,"republican","George W. Bush",2000-09-09,8,59,FALSE,43.15213
+2000,"republican","George W. Bush",2000-09-10,8,58,FALSE,42.734915
+2000,"republican","George W. Bush",2000-09-11,8,57,FALSE,42.544926
+2000,"republican","George W. Bush",2000-09-12,8,56,FALSE,42.440846
+2000,"republican","George W. Bush",2000-09-13,8,55,FALSE,42.394568
+2000,"republican","George W. Bush",2000-09-14,8,54,FALSE,42.368068
+2000,"republican","George W. Bush",2000-09-15,8,53,FALSE,42.433453
+2000,"republican","George W. Bush",2000-09-16,7,52,FALSE,42.553216
+2000,"republican","George W. Bush",2000-09-17,7,51,FALSE,42.638147
+2000,"republican","George W. Bush",2000-09-18,7,50,FALSE,42.57429
+2000,"republican","George W. Bush",2000-09-19,7,49,FALSE,42.481088
+2000,"republican","George W. Bush",2000-09-20,7,48,FALSE,42.589321
+2000,"republican","George W. Bush",2000-09-21,7,47,FALSE,42.575113
+2000,"republican","George W. Bush",2000-09-22,7,46,FALSE,42.584492
+2000,"republican","George W. Bush",2000-09-23,6,45,FALSE,42.942154
+2000,"republican","George W. Bush",2000-09-24,6,44,FALSE,43.090638
+2000,"republican","George W. Bush",2000-09-25,6,43,FALSE,43.314373
+2000,"republican","George W. Bush",2000-09-26,6,42,FALSE,43.323657
+2000,"republican","George W. Bush",2000-09-27,6,41,FALSE,43.427273
+2000,"republican","George W. Bush",2000-09-28,6,40,FALSE,43.502134
+2000,"republican","George W. Bush",2000-09-29,6,39,FALSE,43.560184
+2000,"republican","George W. Bush",2000-09-30,5,38,FALSE,43.591291
+2000,"republican","George W. Bush",2000-10-01,5,37,FALSE,43.728919
+2000,"republican","George W. Bush",2000-10-02,5,36,FALSE,43.643327
+2000,"republican","George W. Bush",2000-10-03,5,35,FALSE,43.879254
+2000,"republican","George W. Bush",2000-10-04,5,34,FALSE,43.795031
+2000,"republican","George W. Bush",2000-10-05,5,33,FALSE,43.806142
+2000,"republican","George W. Bush",2000-10-06,5,32,FALSE,44.30692
+2000,"republican","George W. Bush",2000-10-07,4,31,FALSE,44.67393
+2000,"republican","George W. Bush",2000-10-08,4,30,FALSE,44.773439
+2000,"republican","George W. Bush",2000-10-09,4,29,FALSE,44.982888
+2000,"republican","George W. Bush",2000-10-10,4,28,FALSE,44.716444
+2000,"republican","George W. Bush",2000-10-11,4,27,FALSE,44.978244
+2000,"republican","George W. Bush",2000-10-12,4,26,FALSE,45.139826
+2000,"republican","George W. Bush",2000-10-13,4,25,FALSE,45.237711
+2000,"republican","George W. Bush",2000-10-14,3,24,FALSE,45.479222
+2000,"republican","George W. Bush",2000-10-15,3,23,FALSE,45.675066
+2000,"republican","George W. Bush",2000-10-16,3,22,FALSE,45.571281
+2000,"republican","George W. Bush",2000-10-17,3,21,FALSE,45.346703
+2000,"republican","George W. Bush",2000-10-18,3,20,FALSE,45.646013
+2000,"republican","George W. Bush",2000-10-19,3,19,FALSE,45.537863
+2000,"republican","George W. Bush",2000-10-20,3,18,FALSE,45.773843
+2000,"republican","George W. Bush",2000-10-21,2,17,FALSE,45.885193
+2000,"republican","George W. Bush",2000-10-22,2,16,FALSE,45.561909
+2000,"republican","George W. Bush",2000-10-23,2,15,FALSE,45.506721
+2000,"republican","George W. Bush",2000-10-24,2,14,FALSE,45.611515
+2000,"republican","George W. Bush",2000-10-25,2,13,FALSE,45.671372
+2000,"republican","George W. Bush",2000-10-26,2,12,FALSE,46.076183
+2000,"republican","George W. Bush",2000-10-28,1,10,FALSE,46.200335
+2000,"republican","George W. Bush",2000-10-29,1,9,FALSE,46.091101
+2000,"republican","George W. Bush",2000-10-30,1,8,FALSE,46.06199
+2000,"republican","George W. Bush",2000-10-31,1,7,FALSE,46.150699
+2000,"republican","George W. Bush",2000-11-01,1,6,FALSE,46.18883
+2000,"republican","George W. Bush",2000-11-02,1,5,FALSE,46.411124
+2000,"republican","George W. Bush",2000-11-03,1,4,FALSE,46.576805
+2000,"republican","George W. Bush",2000-11-04,0,3,FALSE,46.714702
+2000,"republican","George W. Bush",2000-11-05,0,2,FALSE,46.799144
+2000,"republican","George W. Bush",2000-11-06,0,1,FALSE,46.945554
+2004,"democrat","John Kerry",2004-02-20,37,256,TRUE,48.886219
+2004,"democrat","John Kerry",2004-02-27,36,249,TRUE,49.0017645
+2004,"democrat","John Kerry",2004-02-29,35,247,TRUE,48.820321
+2004,"democrat","John Kerry",2004-03-01,35,246,TRUE,48.413003
+2004,"democrat","John Kerry",2004-03-03,35,244,TRUE,46.702723
+2004,"democrat","John Kerry",2004-03-04,35,243,TRUE,47.565287
+2004,"democrat","John Kerry",2004-03-07,34,240,TRUE,47.45744
+2004,"democrat","John Kerry",2004-03-08,34,239,TRUE,47.2701296666667
+2004,"democrat","John Kerry",2004-03-11,34,236,TRUE,46.612314
+2004,"democrat","John Kerry",2004-03-14,33,233,TRUE,45.1463846
+2004,"democrat","John Kerry",2004-03-19,33,228,TRUE,44.510273
+2004,"democrat","John Kerry",2004-03-21,32,226,TRUE,44.831978
+2004,"democrat","John Kerry",2004-03-24,32,223,TRUE,44.1940865
+2004,"democrat","John Kerry",2004-03-26,32,221,TRUE,44.191197
+2004,"democrat","John Kerry",2004-03-28,31,219,TRUE,44.0967855
+2004,"democrat","John Kerry",2004-03-30,31,217,TRUE,44.623677
+2004,"democrat","John Kerry",2004-03-31,31,216,TRUE,44.110879
+2004,"democrat","John Kerry",2004-04-01,31,215,TRUE,44.74771
+2004,"democrat","John Kerry",2004-04-03,30,213,TRUE,45.071847
+2004,"democrat","John Kerry",2004-04-04,30,212,TRUE,45.0411266666667
+2004,"democrat","John Kerry",2004-04-07,30,209,TRUE,44.9032
+2004,"democrat","John Kerry",2004-04-08,30,208,TRUE,44.829296
+2004,"democrat","John Kerry",2004-04-09,30,207,TRUE,45.2780372
+2004,"democrat","John Kerry",2004-04-14,29,202,TRUE,45.277105
+2004,"democrat","John Kerry",2004-04-17,28,199,TRUE,45.257046
+2004,"democrat","John Kerry",2004-04-18,28,198,TRUE,44.6227265
+2004,"democrat","John Kerry",2004-04-22,28,194,TRUE,44.16749825
+2004,"democrat","John Kerry",2004-04-23,28,193,TRUE,44.165302
+2004,"democrat","John Kerry",2004-04-27,27,189,TRUE,43.79933675
+2004,"democrat","John Kerry",2004-05-01,26,185,TRUE,43.8783285
+2004,"democrat","John Kerry",2004-05-03,26,183,TRUE,43.865798
+2004,"democrat","John Kerry",2004-05-04,26,182,TRUE,44.205996
+2004,"democrat","John Kerry",2004-05-05,26,181,TRUE,44.190327
+2004,"democrat","John Kerry",2004-05-06,26,180,TRUE,44.195211
+2004,"democrat","John Kerry",2004-05-09,25,177,TRUE,44.58705525
+2004,"democrat","John Kerry",2004-05-13,25,173,TRUE,45.442682
+2004,"democrat","John Kerry",2004-05-14,25,172,TRUE,45.47342575
+2004,"democrat","John Kerry",2004-05-18,24,168,TRUE,45.557653
+2004,"democrat","John Kerry",2004-05-19,24,167,TRUE,45.5880953333333
+2004,"democrat","John Kerry",2004-05-22,23,164,TRUE,45.88789
+2004,"democrat","John Kerry",2004-05-23,23,163,TRUE,46.525706
+2004,"democrat","John Kerry",2004-06-03,22,152,TRUE,47.341998
+2004,"democrat","John Kerry",2004-06-04,22,151,TRUE,47.387987
+2004,"democrat","John Kerry",2004-06-05,21,150,TRUE,46.870676
+2004,"democrat","John Kerry",2004-06-06,21,149,TRUE,46.859536
+2004,"democrat","John Kerry",2004-06-08,21,147,TRUE,47.357371
+2004,"democrat","John Kerry",2004-06-09,21,146,TRUE,47.591068
+2004,"democrat","John Kerry",2004-06-13,20,142,TRUE,47.3221435
+2004,"democrat","John Kerry",2004-06-15,20,140,TRUE,46.6327575
+2004,"democrat","John Kerry",2004-06-17,20,138,TRUE,46.8866905
+2004,"democrat","John Kerry",2004-06-19,19,136,TRUE,46.725682
+2004,"democrat","John Kerry",2004-06-20,19,135,TRUE,47.4415433333333
+2004,"democrat","John Kerry",2004-06-23,19,132,TRUE,47.40101125
+2004,"democrat","John Kerry",2004-06-27,18,128,TRUE,46.946555
+2004,"democrat","John Kerry",2004-06-28,18,127,TRUE,47.2283532
+2004,"democrat","John Kerry",2004-07-03,17,122,TRUE,47.162086
+2004,"democrat","John Kerry",2004-07-06,17,119,TRUE,47.933156
+2004,"democrat","John Kerry",2004-07-07,17,118,TRUE,47.625941
+2004,"democrat","John Kerry",2004-07-09,17,116,TRUE,48.412921
+2004,"democrat","John Kerry",2004-07-11,16,114,TRUE,48.0609705
+2004,"democrat","John Kerry",2004-07-13,16,112,TRUE,48.3420125
+2004,"democrat","John Kerry",2004-07-15,16,110,TRUE,48.0123284
+2004,"democrat","John Kerry",2004-07-17,15,108,TRUE,47.895641
+2004,"democrat","John Kerry",2004-07-21,15,104,TRUE,47.5646663333333
+2004,"democrat","John Kerry",2004-07-24,14,101,TRUE,47.694476
+2004,"democrat","John Kerry",2004-07-25,14,100,TRUE,47.4195355
+2004,"democrat","John Kerry",2004-07-29,14,96,FALSE,46.520131
+2004,"democrat","John Kerry",2004-07-30,14,95,FALSE,48.051096
+2004,"democrat","John Kerry",2004-07-31,13,94,FALSE,47.351931
+2004,"democrat","John Kerry",2004-08-01,13,93,FALSE,47.428079
+2004,"democrat","John Kerry",2004-08-02,13,92,FALSE,47.386963
+2004,"democrat","John Kerry",2004-08-04,13,90,FALSE,47.824137
+2004,"democrat","John Kerry",2004-08-05,13,89,FALSE,48.456733
+2004,"democrat","John Kerry",2004-08-08,12,86,FALSE,48.5784495
+2004,"democrat","John Kerry",2004-08-10,12,84,FALSE,48.491528
+2004,"democrat","John Kerry",2004-08-11,12,83,FALSE,48.294305
+2004,"democrat","John Kerry",2004-08-14,11,80,FALSE,48.3950625
+2004,"democrat","John Kerry",2004-08-15,11,79,FALSE,48.385239
+2004,"democrat","John Kerry",2004-08-17,11,77,FALSE,48.51971
+2004,"democrat","John Kerry",2004-08-18,11,76,FALSE,48.4042816
+2004,"democrat","John Kerry",2004-08-23,10,71,FALSE,48.064765
+2004,"democrat","John Kerry",2004-08-24,10,70,FALSE,47.851834
+2004,"democrat","John Kerry",2004-08-25,10,69,FALSE,47.4243315
+2004,"democrat","John Kerry",2004-08-26,10,68,FALSE,47.38274
+2004,"democrat","John Kerry",2004-08-29,9,65,FALSE,47.3685606666667
+2004,"democrat","John Kerry",2004-09-01,9,62,FALSE,46.435518
+2004,"democrat","John Kerry",2004-09-02,9,61,FALSE,44.811726
+2004,"democrat","John Kerry",2004-09-03,9,60,FALSE,44.338241
+2004,"democrat","John Kerry",2004-09-05,8,58,FALSE,44.1412756666667
+2004,"democrat","John Kerry",2004-09-08,8,55,FALSE,44.072162
+2004,"democrat","John Kerry",2004-09-09,8,54,FALSE,44.147738
+2004,"democrat","John Kerry",2004-09-10,8,53,FALSE,43.6079245
+2004,"democrat","John Kerry",2004-09-12,7,51,FALSE,43.937772
+2004,"democrat","John Kerry",2004-09-13,7,50,FALSE,44.156569
+2004,"democrat","John Kerry",2004-09-14,7,49,FALSE,44.31848
+2004,"democrat","John Kerry",2004-09-15,7,48,FALSE,44.036039
+2004,"democrat","John Kerry",2004-09-16,7,47,FALSE,44.0652295
+2004,"democrat","John Kerry",2004-09-18,6,45,FALSE,44.004743
+2004,"democrat","John Kerry",2004-09-19,6,44,FALSE,44.171427
+2004,"democrat","John Kerry",2004-09-21,6,42,FALSE,44.188097
+2004,"democrat","John Kerry",2004-09-22,6,41,FALSE,44.183019
+2004,"democrat","John Kerry",2004-09-23,6,40,FALSE,44.266698
+2004,"democrat","John Kerry",2004-09-26,5,37,FALSE,44.140184
+2004,"democrat","John Kerry",2004-09-28,5,35,FALSE,44.1260345
+2004,"democrat","John Kerry",2004-09-30,5,33,FALSE,44.1368945
+2004,"democrat","John Kerry",2004-10-02,4,31,FALSE,44.93491
+2004,"democrat","John Kerry",2004-10-03,4,30,FALSE,45.100087
+2004,"democrat","John Kerry",2004-10-04,4,29,FALSE,45.195757
+2004,"democrat","John Kerry",2004-10-05,4,28,FALSE,45.456721
+2004,"democrat","John Kerry",2004-10-06,4,27,FALSE,45.927426
+2004,"democrat","John Kerry",2004-10-07,4,26,FALSE,45.927269
+2004,"democrat","John Kerry",2004-10-08,4,25,FALSE,45.992476
+2004,"democrat","John Kerry",2004-10-09,3,24,FALSE,46.150149
+2004,"democrat","John Kerry",2004-10-10,3,23,FALSE,46.355543
+2004,"democrat","John Kerry",2004-10-11,3,22,FALSE,46.196642
+2004,"democrat","John Kerry",2004-10-12,3,21,FALSE,46.144972
+2004,"democrat","John Kerry",2004-10-13,3,20,FALSE,46.156449
+2004,"democrat","John Kerry",2004-10-14,3,19,FALSE,45.95109
+2004,"democrat","John Kerry",2004-10-15,3,18,FALSE,45.8700965
+2004,"democrat","John Kerry",2004-10-17,2,16,FALSE,45.762796
+2004,"democrat","John Kerry",2004-10-18,2,15,FALSE,45.956175
+2004,"democrat","John Kerry",2004-10-19,2,14,FALSE,46.156341
+2004,"democrat","John Kerry",2004-10-20,2,13,FALSE,46.222102
+2004,"democrat","John Kerry",2004-10-21,2,12,FALSE,46.217662
+2004,"democrat","John Kerry",2004-10-22,2,11,FALSE,46.2740045
+2004,"democrat","John Kerry",2004-10-24,1,9,FALSE,46.220977
+2004,"democrat","John Kerry",2004-10-25,1,8,FALSE,46.238674
+2004,"democrat","John Kerry",2004-10-26,1,7,FALSE,46.261546
+2004,"democrat","John Kerry",2004-10-27,1,6,FALSE,46.249763
+2004,"democrat","John Kerry",2004-10-28,1,5,FALSE,46.273954
+2004,"democrat","John Kerry",2004-10-29,1,4,FALSE,46.232221
+2004,"democrat","John Kerry",2004-10-30,0,3,FALSE,46.321224
+2004,"democrat","John Kerry",2004-10-31,0,2,FALSE,46.697601
+2004,"democrat","John Kerry",2004-11-01,0,1,FALSE,46.975325
+2004,"republican","George W. Bush",2004-02-20,37,256,TRUE,46.169895
+2004,"republican","George W. Bush",2004-02-27,36,249,TRUE,46.1425305
+2004,"republican","George W. Bush",2004-02-29,35,247,TRUE,46.113582
+2004,"republican","George W. Bush",2004-03-01,35,246,TRUE,46.031926
+2004,"republican","George W. Bush",2004-03-03,35,244,TRUE,46.905646
+2004,"republican","George W. Bush",2004-03-04,35,243,TRUE,45.782209
+2004,"republican","George W. Bush",2004-03-07,34,240,TRUE,45.320812
+2004,"republican","George W. Bush",2004-03-08,34,239,TRUE,45.618126
+2004,"republican","George W. Bush",2004-03-11,34,236,TRUE,45.6778616666667
+2004,"republican","George W. Bush",2004-03-14,33,233,TRUE,45.7923248
+2004,"republican","George W. Bush",2004-03-19,33,228,TRUE,46.2436
+2004,"republican","George W. Bush",2004-03-21,32,226,TRUE,48.0447
+2004,"republican","George W. Bush",2004-03-24,32,223,TRUE,47.866399
+2004,"republican","George W. Bush",2004-03-26,32,221,TRUE,47.920842
+2004,"republican","George W. Bush",2004-03-28,31,219,TRUE,48.8423605
+2004,"republican","George W. Bush",2004-03-30,31,217,TRUE,48.695278
+2004,"republican","George W. Bush",2004-03-31,31,216,TRUE,48.231204
+2004,"republican","George W. Bush",2004-04-01,31,215,TRUE,47.726218
+2004,"republican","George W. Bush",2004-04-03,30,213,TRUE,47.391334
+2004,"republican","George W. Bush",2004-04-04,30,212,TRUE,47.34582
+2004,"republican","George W. Bush",2004-04-07,30,209,TRUE,46.9458545
+2004,"republican","George W. Bush",2004-04-09,30,207,TRUE,46.5548534
+2004,"republican","George W. Bush",2004-04-14,29,202,TRUE,45.2979446666667
+2004,"republican","George W. Bush",2004-04-17,28,199,TRUE,45.106378
+2004,"republican","George W. Bush",2004-04-18,28,198,TRUE,46.19332175
+2004,"republican","George W. Bush",2004-04-22,28,194,TRUE,45.933923
+2004,"republican","George W. Bush",2004-04-23,28,193,TRUE,46.0058116666667
+2004,"republican","George W. Bush",2004-04-27,27,189,TRUE,45.4576405
+2004,"republican","George W. Bush",2004-05-01,26,185,TRUE,45.866185
+2004,"republican","George W. Bush",2004-05-03,26,183,TRUE,46.030379
+2004,"republican","George W. Bush",2004-05-04,26,182,TRUE,46.116237
+2004,"republican","George W. Bush",2004-05-05,26,181,TRUE,46.1635273333333
+2004,"republican","George W. Bush",2004-05-06,26,180,TRUE,46.155631
+2004,"republican","George W. Bush",2004-05-09,25,177,TRUE,45.80968425
+2004,"republican","George W. Bush",2004-05-13,25,173,TRUE,45.488491
+2004,"republican","George W. Bush",2004-05-14,25,172,TRUE,45.53908475
+2004,"republican","George W. Bush",2004-05-18,24,168,TRUE,45.714776
+2004,"republican","George W. Bush",2004-05-19,24,167,TRUE,45.2281603333333
+2004,"republican","George W. Bush",2004-05-22,23,164,TRUE,45.347257
+2004,"republican","George W. Bush",2004-05-23,23,163,TRUE,45.6919240909091
+2004,"republican","George W. Bush",2004-06-03,22,152,TRUE,46.258694
+2004,"republican","George W. Bush",2004-06-04,22,151,TRUE,46.650018
+2004,"republican","George W. Bush",2004-06-05,21,150,TRUE,46.246775
+2004,"republican","George W. Bush",2004-06-06,21,149,TRUE,46.143966
+2004,"republican","George W. Bush",2004-06-08,21,147,TRUE,46.112013
+2004,"republican","George W. Bush",2004-06-09,21,146,TRUE,46.0759435
+2004,"republican","George W. Bush",2004-06-13,20,142,TRUE,46.0206235
+2004,"republican","George W. Bush",2004-06-15,20,140,TRUE,46.3933955
+2004,"republican","George W. Bush",2004-06-17,20,138,TRUE,46.608853
+2004,"republican","George W. Bush",2004-06-19,19,136,TRUE,46.601337
+2004,"republican","George W. Bush",2004-06-20,19,135,TRUE,46.5573
+2004,"republican","George W. Bush",2004-06-23,19,132,TRUE,47.368024
+2004,"republican","George W. Bush",2004-06-27,18,128,TRUE,47.455531
+2004,"republican","George W. Bush",2004-06-28,18,127,TRUE,47.3661802
+2004,"republican","George W. Bush",2004-07-03,17,122,TRUE,47.543502
+2004,"republican","George W. Bush",2004-07-06,17,119,TRUE,47.226585
+2004,"republican","George W. Bush",2004-07-07,17,118,TRUE,47.318906
+2004,"republican","George W. Bush",2004-07-09,17,116,TRUE,46.964029
+2004,"republican","George W. Bush",2004-07-11,16,114,TRUE,46.790601
+2004,"republican","George W. Bush",2004-07-13,16,112,TRUE,46.534236
+2004,"republican","George W. Bush",2004-07-15,16,110,TRUE,45.973617
+2004,"republican","George W. Bush",2004-07-17,15,108,TRUE,45.789471
+2004,"republican","George W. Bush",2004-07-21,15,104,TRUE,45.753462
+2004,"republican","George W. Bush",2004-07-22,15,103,TRUE,45.67429
+2004,"republican","George W. Bush",2004-07-24,14,101,TRUE,45.547139
+2004,"republican","George W. Bush",2004-07-25,14,100,TRUE,46.021869
+2004,"republican","George W. Bush",2004-07-29,14,96,TRUE,45.90114
+2004,"republican","George W. Bush",2004-07-30,14,95,TRUE,45.56056
+2004,"republican","George W. Bush",2004-07-31,13,94,TRUE,46.346845
+2004,"republican","George W. Bush",2004-08-01,13,93,TRUE,46.709191
+2004,"republican","George W. Bush",2004-08-02,13,92,TRUE,46.712438
+2004,"republican","George W. Bush",2004-08-04,13,90,TRUE,46.1545675
+2004,"republican","George W. Bush",2004-08-05,13,89,TRUE,45.968827
+2004,"republican","George W. Bush",2004-08-08,12,86,TRUE,46.208411
+2004,"republican","George W. Bush",2004-08-10,12,84,TRUE,45.98303
+2004,"republican","George W. Bush",2004-08-11,12,83,TRUE,46.090804
+2004,"republican","George W. Bush",2004-08-14,11,80,TRUE,46.026632
+2004,"republican","George W. Bush",2004-08-15,11,79,TRUE,46.0496865
+2004,"republican","George W. Bush",2004-08-17,11,77,TRUE,46.262247
+2004,"republican","George W. Bush",2004-08-18,11,76,TRUE,46.305534
+2004,"republican","George W. Bush",2004-08-23,10,71,TRUE,46.338425
+2004,"republican","George W. Bush",2004-08-24,10,70,TRUE,46.792021
+2004,"republican","George W. Bush",2004-08-25,10,69,TRUE,46.819123
+2004,"republican","George W. Bush",2004-08-26,10,68,TRUE,46.8813035
+2004,"republican","George W. Bush",2004-08-29,9,65,TRUE,46.8665203333333
+2004,"republican","George W. Bush",2004-09-01,9,62,TRUE,47.408288
+2004,"republican","George W. Bush",2004-09-02,9,61,FALSE,48.828662
+2004,"republican","George W. Bush",2004-09-03,9,60,FALSE,50.124267
+2004,"republican","George W. Bush",2004-09-05,8,58,FALSE,50.1640656666667
+2004,"republican","George W. Bush",2004-09-08,8,55,FALSE,50.198451
+2004,"republican","George W. Bush",2004-09-09,8,54,FALSE,50.298214
+2004,"republican","George W. Bush",2004-09-10,8,53,FALSE,50.3932735
+2004,"republican","George W. Bush",2004-09-12,7,51,FALSE,50.3696765
+2004,"republican","George W. Bush",2004-09-14,7,49,FALSE,49.987924
+2004,"republican","George W. Bush",2004-09-15,7,48,FALSE,50.213348
+2004,"republican","George W. Bush",2004-09-16,7,47,FALSE,50.2964655
+2004,"republican","George W. Bush",2004-09-18,6,45,FALSE,50.180503
+2004,"republican","George W. Bush",2004-09-19,6,44,FALSE,49.9423695
+2004,"republican","George W. Bush",2004-09-21,6,42,FALSE,49.668478
+2004,"republican","George W. Bush",2004-09-22,6,41,FALSE,49.624307
+2004,"republican","George W. Bush",2004-09-23,6,40,FALSE,49.5193605
+2004,"republican","George W. Bush",2004-09-26,5,37,FALSE,49.4420245
+2004,"republican","George W. Bush",2004-09-28,5,35,FALSE,49.521131
+2004,"republican","George W. Bush",2004-09-30,5,33,FALSE,49.552751
+2004,"republican","George W. Bush",2004-10-02,4,31,FALSE,48.755622
+2004,"republican","George W. Bush",2004-10-03,4,30,FALSE,48.846313
+2004,"republican","George W. Bush",2004-10-04,4,29,FALSE,48.784673
+2004,"republican","George W. Bush",2004-10-05,4,28,FALSE,48.710587
+2004,"republican","George W. Bush",2004-10-06,4,27,FALSE,48.257319
+2004,"republican","George W. Bush",2004-10-07,4,26,FALSE,48.19982
+2004,"republican","George W. Bush",2004-10-09,3,24,FALSE,48.198495
+2004,"republican","George W. Bush",2004-10-10,3,23,FALSE,47.978035
+2004,"republican","George W. Bush",2004-10-11,3,22,FALSE,47.799417
+2004,"republican","George W. Bush",2004-10-12,3,21,FALSE,47.755445
+2004,"republican","George W. Bush",2004-10-13,3,20,FALSE,47.741763
+2004,"republican","George W. Bush",2004-10-14,3,19,FALSE,48.126012
+2004,"republican","George W. Bush",2004-10-15,3,18,FALSE,48.053991
+2004,"republican","George W. Bush",2004-10-16,2,17,FALSE,48.370571
+2004,"republican","George W. Bush",2004-10-17,2,16,FALSE,48.422965
+2004,"republican","George W. Bush",2004-10-18,2,15,FALSE,48.275091
+2004,"republican","George W. Bush",2004-10-19,2,14,FALSE,48.311509
+2004,"republican","George W. Bush",2004-10-20,2,13,FALSE,48.20592
+2004,"republican","George W. Bush",2004-10-21,2,12,FALSE,48.241823
+2004,"republican","George W. Bush",2004-10-22,2,11,FALSE,48.230268
+2004,"republican","George W. Bush",2004-10-23,1,10,FALSE,48.283313
+2004,"republican","George W. Bush",2004-10-24,1,9,FALSE,48.317762
+2004,"republican","George W. Bush",2004-10-25,1,8,FALSE,48.307689
+2004,"republican","George W. Bush",2004-10-26,1,7,FALSE,48.364444
+2004,"republican","George W. Bush",2004-10-27,1,6,FALSE,48.3574
+2004,"republican","George W. Bush",2004-10-28,1,5,FALSE,48.554985
+2004,"republican","George W. Bush",2004-10-29,1,4,FALSE,48.515562
+2004,"republican","George W. Bush",2004-10-30,0,3,FALSE,48.503001
+2004,"republican","George W. Bush",2004-10-31,0,2,FALSE,48.455766
+2004,"republican","George W. Bush",2004-11-01,0,1,FALSE,48.585807
+2008,"democrat","Barack Obama",2008-02-26,36,252,TRUE,47.746814
+2008,"democrat","Barack Obama",2008-03-01,35,248,TRUE,47.638021
+2008,"democrat","Barack Obama",2008-03-02,35,247,TRUE,48.35319
+2008,"democrat","Barack Obama",2008-03-04,35,245,TRUE,48.149049
+2008,"democrat","Barack Obama",2008-03-05,35,244,TRUE,47.584853
+2008,"democrat","Barack Obama",2008-03-06,35,243,TRUE,47.65901
+2008,"democrat","Barack Obama",2008-03-09,34,240,TRUE,46.792827
+2008,"democrat","Barack Obama",2008-03-10,34,239,TRUE,46.9836153333333
+2008,"democrat","Barack Obama",2008-03-13,34,236,TRUE,46.802549
+2008,"democrat","Barack Obama",2008-03-14,34,235,TRUE,45.9504685
+2008,"democrat","Barack Obama",2008-03-16,33,233,TRUE,45.691851
+2008,"democrat","Barack Obama",2008-03-17,33,232,TRUE,45.505846
+2008,"democrat","Barack Obama",2008-03-18,33,231,TRUE,45.730834
+2008,"democrat","Barack Obama",2008-03-19,33,230,TRUE,45.54936
+2008,"democrat","Barack Obama",2008-03-21,33,228,TRUE,45.256457
+2008,"democrat","Barack Obama",2008-03-22,32,227,TRUE,45.574325
+2008,"democrat","Barack Obama",2008-03-24,32,225,TRUE,44.804064
+2008,"democrat","Barack Obama",2008-03-25,32,224,TRUE,44.6069085
+2008,"democrat","Barack Obama",2008-03-27,32,222,TRUE,44.497318
+2008,"democrat","Barack Obama",2008-03-29,31,220,TRUE,44.462079
+2008,"democrat","Barack Obama",2008-03-31,31,218,TRUE,44.2144185
+2008,"democrat","Barack Obama",2008-04-02,31,216,TRUE,44.2808495
+2008,"democrat","Barack Obama",2008-04-06,30,212,TRUE,44.525686
+2008,"democrat","Barack Obama",2008-04-07,30,211,TRUE,44.514799
+2008,"democrat","Barack Obama",2008-04-08,30,210,TRUE,44.455473
+2008,"democrat","Barack Obama",2008-04-09,30,209,TRUE,44.632418
+2008,"democrat","Barack Obama",2008-04-10,30,208,TRUE,44.845567
+2008,"democrat","Barack Obama",2008-04-12,29,206,TRUE,44.769175
+2008,"democrat","Barack Obama",2008-04-13,29,205,TRUE,45.262561
+2008,"democrat","Barack Obama",2008-04-14,29,204,TRUE,44.557986
+2008,"democrat","Barack Obama",2008-04-16,29,202,TRUE,44.478756
+2008,"democrat","Barack Obama",2008-04-17,29,201,TRUE,45.1163783333333
+2008,"democrat","Barack Obama",2008-04-20,28,198,TRUE,45.328144
+2008,"democrat","Barack Obama",2008-04-21,28,197,TRUE,45.388954
+2008,"democrat","Barack Obama",2008-04-22,28,196,TRUE,45.2771726666667
+2008,"democrat","Barack Obama",2008-04-25,28,193,TRUE,45.598576
+2008,"democrat","Barack Obama",2008-04-27,27,191,TRUE,46.046046
+2008,"democrat","Barack Obama",2008-04-28,27,190,TRUE,46.129256
+2008,"democrat","Barack Obama",2008-04-29,27,189,TRUE,45.849985
+2008,"democrat","Barack Obama",2008-04-30,27,188,TRUE,45.8692
+2008,"democrat","Barack Obama",2008-05-02,27,186,TRUE,45.81091
+2008,"democrat","Barack Obama",2008-05-03,26,185,TRUE,46.098626
+2008,"democrat","Barack Obama",2008-05-04,26,184,TRUE,46.0721985
+2008,"democrat","Barack Obama",2008-05-06,26,182,TRUE,46.062639
+2008,"democrat","Barack Obama",2008-05-08,26,180,TRUE,46.5443425
+2008,"democrat","Barack Obama",2008-05-10,25,178,TRUE,46.727955
+2008,"democrat","Barack Obama",2008-05-11,25,177,TRUE,47.07869
+2008,"democrat","Barack Obama",2008-05-12,25,176,TRUE,47.236516
+2008,"democrat","Barack Obama",2008-05-13,25,175,TRUE,47.383508
+2008,"democrat","Barack Obama",2008-05-15,25,173,TRUE,47.1124965
+2008,"democrat","Barack Obama",2008-05-16,25,172,TRUE,46.994007
+2008,"democrat","Barack Obama",2008-05-18,24,170,TRUE,47.0859685
+2008,"democrat","Barack Obama",2008-05-20,24,168,TRUE,46.951429
+2008,"democrat","Barack Obama",2008-05-21,24,167,TRUE,47.150007
+2008,"democrat","Barack Obama",2008-05-22,24,166,TRUE,47.028316
+2008,"democrat","Barack Obama",2008-05-24,23,164,TRUE,46.77817
+2008,"democrat","Barack Obama",2008-05-25,23,163,TRUE,46.584468
+2008,"democrat","Barack Obama",2008-05-27,23,161,TRUE,46.547016
+2008,"democrat","Barack Obama",2008-05-28,23,160,TRUE,46.203875
+2008,"democrat","Barack Obama",2008-05-31,22,157,TRUE,45.922351
+2008,"democrat","Barack Obama",2008-06-01,22,156,TRUE,46.058956
+2008,"democrat","Barack Obama",2008-06-03,22,154,TRUE,46.060981
+2008,"democrat","Barack Obama",2008-06-04,22,153,TRUE,46.3482
+2008,"democrat","Barack Obama",2008-06-05,22,152,TRUE,46.226886
+2008,"democrat","Barack Obama",2008-06-07,21,150,TRUE,46.976185
+2008,"democrat","Barack Obama",2008-06-08,21,149,TRUE,46.349934
+2008,"democrat","Barack Obama",2008-06-09,21,148,TRUE,46.681587
+2008,"democrat","Barack Obama",2008-06-10,21,147,TRUE,46.816689
+2008,"democrat","Barack Obama",2008-06-11,21,146,TRUE,46.4353395
+2008,"democrat","Barack Obama",2008-06-13,21,144,TRUE,46.466786
+2008,"democrat","Barack Obama",2008-06-14,20,143,TRUE,46.50985
+2008,"democrat","Barack Obama",2008-06-15,20,142,TRUE,46.205282
+2008,"democrat","Barack Obama",2008-06-16,20,141,TRUE,46.231519
+2008,"democrat","Barack Obama",2008-06-17,20,140,TRUE,45.998579
+2008,"democrat","Barack Obama",2008-06-18,20,139,TRUE,45.810377
+2008,"democrat","Barack Obama",2008-06-19,20,138,TRUE,46.2966606666667
+2008,"democrat","Barack Obama",2008-06-22,19,135,TRUE,46.301541
+2008,"democrat","Barack Obama",2008-06-23,19,134,TRUE,46.398908
+2008,"democrat","Barack Obama",2008-06-25,19,132,TRUE,46.3374696666667
+2008,"democrat","Barack Obama",2008-06-28,18,129,TRUE,46.529951
+2008,"democrat","Barack Obama",2008-06-29,18,128,TRUE,46.5310765
+2008,"democrat","Barack Obama",2008-07-01,18,126,TRUE,46.679091
+2008,"democrat","Barack Obama",2008-07-02,18,125,TRUE,46.47227575
+2008,"democrat","Barack Obama",2008-07-06,17,121,TRUE,46.774532
+2008,"democrat","Barack Obama",2008-07-09,17,118,TRUE,46.633654
+2008,"democrat","Barack Obama",2008-07-10,17,117,TRUE,46.0151315
+2008,"democrat","Barack Obama",2008-07-12,16,115,TRUE,45.787595
+2008,"democrat","Barack Obama",2008-07-13,16,114,TRUE,46.2798875
+2008,"democrat","Barack Obama",2008-07-15,16,112,TRUE,46.217773
+2008,"democrat","Barack Obama",2008-07-16,16,111,TRUE,46.206593
+2008,"democrat","Barack Obama",2008-07-17,16,110,TRUE,46.194509
+2008,"democrat","Barack Obama",2008-07-18,16,109,TRUE,46.127745
+2008,"democrat","Barack Obama",2008-07-19,15,108,TRUE,46.152266
+2008,"democrat","Barack Obama",2008-07-21,15,106,TRUE,46.28738
+2008,"democrat","Barack Obama",2008-07-22,15,105,TRUE,46.310291
+2008,"democrat","Barack Obama",2008-07-23,15,104,TRUE,45.955239
+2008,"democrat","Barack Obama",2008-07-24,15,103,TRUE,46.123134
+2008,"democrat","Barack Obama",2008-07-25,15,102,TRUE,46.206659
+2008,"democrat","Barack Obama",2008-07-27,14,100,TRUE,46.047697
+2008,"democrat","Barack Obama",2008-07-28,14,99,TRUE,46.066925
+2008,"democrat","Barack Obama",2008-07-29,14,98,TRUE,46.258168
+2008,"democrat","Barack Obama",2008-07-30,14,97,TRUE,46.183363
+2008,"democrat","Barack Obama",2008-07-31,14,96,TRUE,46.205255
+2008,"democrat","Barack Obama",2008-08-01,14,95,TRUE,45.842672
+2008,"democrat","Barack Obama",2008-08-02,13,94,TRUE,45.77293
+2008,"democrat","Barack Obama",2008-08-03,13,93,TRUE,45.7141595
+2008,"democrat","Barack Obama",2008-08-05,13,91,TRUE,45.607011
+2008,"democrat","Barack Obama",2008-08-06,13,90,TRUE,45.723149
+2008,"democrat","Barack Obama",2008-08-08,13,88,TRUE,45.837803
+2008,"democrat","Barack Obama",2008-08-09,12,87,TRUE,45.814974
+2008,"democrat","Barack Obama",2008-08-10,12,86,TRUE,45.70029
+2008,"democrat","Barack Obama",2008-08-11,12,85,TRUE,45.72953
+2008,"democrat","Barack Obama",2008-08-12,12,84,TRUE,45.803974
+2008,"democrat","Barack Obama",2008-08-13,12,83,TRUE,45.771024
+2008,"democrat","Barack Obama",2008-08-14,12,82,TRUE,45.641235
+2008,"democrat","Barack Obama",2008-08-15,12,81,TRUE,45.620815
+2008,"democrat","Barack Obama",2008-08-16,11,80,TRUE,45.517246
+2008,"democrat","Barack Obama",2008-08-17,11,79,TRUE,45.55118
+2008,"democrat","Barack Obama",2008-08-18,11,78,TRUE,45.426819
+2008,"democrat","Barack Obama",2008-08-20,11,76,TRUE,45.211636
+2008,"democrat","Barack Obama",2008-08-22,11,74,TRUE,45.303859
+2008,"democrat","Barack Obama",2008-08-23,10,73,TRUE,45.374062
+2008,"democrat","Barack Obama",2008-08-24,10,72,TRUE,45.402311
+2008,"democrat","Barack Obama",2008-08-26,10,70,TRUE,45.348238
+2008,"democrat","Barack Obama",2008-08-27,10,69,TRUE,45.544769
+2008,"democrat","Barack Obama",2008-08-29,10,67,FALSE,46.687839
+2008,"democrat","Barack Obama",2008-08-30,9,66,FALSE,46.99196
+2008,"democrat","Barack Obama",2008-08-31,9,65,FALSE,47.215505
+2008,"democrat","Barack Obama",2008-09-01,9,64,FALSE,47.618948
+2008,"democrat","Barack Obama",2008-09-03,9,62,FALSE,47.665866
+2008,"democrat","Barack Obama",2008-09-04,9,61,FALSE,47.319846
+2008,"democrat","Barack Obama",2008-09-06,8,59,FALSE,47.061028
+2008,"democrat","Barack Obama",2008-09-07,8,58,FALSE,46.327832
+2008,"democrat","Barack Obama",2008-09-08,8,57,FALSE,46.223382
+2008,"democrat","Barack Obama",2008-09-09,8,56,FALSE,45.7778655
+2008,"democrat","Barack Obama",2008-09-11,8,54,FALSE,45.530819
+2008,"democrat","Barack Obama",2008-09-12,8,53,FALSE,45.440861
+2008,"democrat","Barack Obama",2008-09-13,7,52,FALSE,45.441897
+2008,"democrat","Barack Obama",2008-09-14,7,51,FALSE,45.322825
+2008,"democrat","Barack Obama",2008-09-15,7,50,FALSE,45.374028
+2008,"democrat","Barack Obama",2008-09-16,7,49,FALSE,45.620322
+2008,"democrat","Barack Obama",2008-09-17,7,48,FALSE,45.618458
+2008,"democrat","Barack Obama",2008-09-18,7,47,FALSE,45.669558
+2008,"democrat","Barack Obama",2008-09-19,7,46,FALSE,45.669058
+2008,"democrat","Barack Obama",2008-09-20,6,45,FALSE,45.745082
+2008,"democrat","Barack Obama",2008-09-21,6,44,FALSE,45.967633
+2008,"democrat","Barack Obama",2008-09-22,6,43,FALSE,46.397426
+2008,"democrat","Barack Obama",2008-09-23,6,42,FALSE,46.497413
+2008,"democrat","Barack Obama",2008-09-24,6,41,FALSE,46.561096
+2008,"democrat","Barack Obama",2008-09-25,6,40,FALSE,46.547159
+2008,"democrat","Barack Obama",2008-09-26,6,39,FALSE,46.566972
+2008,"democrat","Barack Obama",2008-09-27,5,38,FALSE,47.375102
+2008,"democrat","Barack Obama",2008-09-28,5,37,FALSE,47.74482
+2008,"democrat","Barack Obama",2008-09-29,5,36,FALSE,47.395781
+2008,"democrat","Barack Obama",2008-09-30,5,35,FALSE,47.614383
+2008,"democrat","Barack Obama",2008-10-01,5,34,FALSE,47.799425
+2008,"democrat","Barack Obama",2008-10-02,5,33,FALSE,47.899612
+2008,"democrat","Barack Obama",2008-10-03,5,32,FALSE,48.054506
+2008,"democrat","Barack Obama",2008-10-04,4,31,FALSE,48.541455
+2008,"democrat","Barack Obama",2008-10-05,4,30,FALSE,48.4596495
+2008,"democrat","Barack Obama",2008-10-07,4,28,FALSE,48.553197
+2008,"democrat","Barack Obama",2008-10-08,4,27,FALSE,49.009696
+2008,"democrat","Barack Obama",2008-10-09,4,26,FALSE,49.5698315
+2008,"democrat","Barack Obama",2008-10-11,3,24,FALSE,49.743073
+2008,"democrat","Barack Obama",2008-10-12,3,23,FALSE,49.65258
+2008,"democrat","Barack Obama",2008-10-13,3,22,FALSE,49.546637
+2008,"democrat","Barack Obama",2008-10-14,3,21,FALSE,49.57785
+2008,"democrat","Barack Obama",2008-10-15,3,20,FALSE,49.585368
+2008,"democrat","Barack Obama",2008-10-16,3,19,FALSE,49.307017
+2008,"democrat","Barack Obama",2008-10-17,3,18,FALSE,49.242406
+2008,"democrat","Barack Obama",2008-10-18,2,17,FALSE,49.56732
+2008,"democrat","Barack Obama",2008-10-19,2,16,FALSE,49.582981
+2008,"democrat","Barack Obama",2008-10-20,2,15,FALSE,49.472382
+2008,"democrat","Barack Obama",2008-10-21,2,14,FALSE,49.805099
+2008,"democrat","Barack Obama",2008-10-22,2,13,FALSE,49.908416
+2008,"democrat","Barack Obama",2008-10-23,2,12,FALSE,50.14414
+2008,"democrat","Barack Obama",2008-10-24,2,11,FALSE,50.031062
+2008,"democrat","Barack Obama",2008-10-25,1,10,FALSE,50.025641
+2008,"democrat","Barack Obama",2008-10-26,1,9,FALSE,50.035474
+2008,"democrat","Barack Obama",2008-10-27,1,8,FALSE,50.213027
+2008,"democrat","Barack Obama",2008-10-28,1,7,FALSE,50.183024
+2008,"democrat","Barack Obama",2008-10-29,1,6,FALSE,50.12977
+2008,"democrat","Barack Obama",2008-10-31,1,4,FALSE,50.247106
+2008,"democrat","Barack Obama",2008-11-01,0,3,FALSE,50.477011
+2008,"democrat","Barack Obama",2008-11-02,0,2,FALSE,50.709337
+2008,"democrat","Barack Obama",2008-11-03,0,1,FALSE,50.990174
+2008,"republican","John McCain",2008-02-26,36,252,TRUE,45.2314415
+2008,"republican","John McCain",2008-03-01,35,248,TRUE,45.495214
+2008,"republican","John McCain",2008-03-02,35,247,TRUE,44.398736
+2008,"republican","John McCain",2008-03-04,35,245,TRUE,44.83242
+2008,"republican","John McCain",2008-03-05,35,244,TRUE,45.402484
+2008,"republican","John McCain",2008-03-06,35,243,TRUE,45.533502
+2008,"republican","John McCain",2008-03-09,34,240,TRUE,46.182698
+2008,"republican","John McCain",2008-03-10,34,239,TRUE,46.0348083333333
+2008,"republican","John McCain",2008-03-13,34,236,TRUE,46.042824
+2008,"republican","John McCain",2008-03-14,34,235,TRUE,46.170458
+2008,"republican","John McCain",2008-03-16,33,233,TRUE,46.465803
+2008,"republican","John McCain",2008-03-17,33,232,TRUE,46.682214
+2008,"republican","John McCain",2008-03-18,33,231,TRUE,46.739793
+2008,"republican","John McCain",2008-03-19,33,230,TRUE,46.778576
+2008,"republican","John McCain",2008-03-21,33,228,TRUE,47.029909
+2008,"republican","John McCain",2008-03-22,32,227,TRUE,46.869822
+2008,"republican","John McCain",2008-03-24,32,225,TRUE,46.351962
+2008,"republican","John McCain",2008-03-25,32,224,TRUE,46.455454
+2008,"republican","John McCain",2008-03-26,32,223,TRUE,46.500429
+2008,"republican","John McCain",2008-03-27,32,222,TRUE,46.855274
+2008,"republican","John McCain",2008-03-29,31,220,TRUE,46.8848365
+2008,"republican","John McCain",2008-03-31,31,218,TRUE,47.165623
+2008,"republican","John McCain",2008-04-02,31,216,TRUE,47.05994525
+2008,"republican","John McCain",2008-04-06,30,212,TRUE,46.894227
+2008,"republican","John McCain",2008-04-07,30,211,TRUE,46.973516
+2008,"republican","John McCain",2008-04-08,30,210,TRUE,47.068968
+2008,"republican","John McCain",2008-04-09,30,209,TRUE,47.172729
+2008,"republican","John McCain",2008-04-10,30,208,TRUE,47.173759
+2008,"republican","John McCain",2008-04-11,30,207,TRUE,46.825162
+2008,"republican","John McCain",2008-04-12,29,206,TRUE,46.43972
+2008,"republican","John McCain",2008-04-13,29,205,TRUE,46.317543
+2008,"republican","John McCain",2008-04-14,29,204,TRUE,45.576185
+2008,"republican","John McCain",2008-04-16,29,202,TRUE,45.714414
+2008,"republican","John McCain",2008-04-17,29,201,TRUE,45.6975095
+2008,"republican","John McCain",2008-04-18,29,200,TRUE,45.681317
+2008,"republican","John McCain",2008-04-20,28,198,TRUE,45.697944
+2008,"republican","John McCain",2008-04-21,28,197,TRUE,45.668046
+2008,"republican","John McCain",2008-04-22,28,196,TRUE,45.8268926666667
+2008,"republican","John McCain",2008-04-25,28,193,TRUE,45.74023
+2008,"republican","John McCain",2008-04-26,27,192,TRUE,45.888276
+2008,"republican","John McCain",2008-04-28,27,190,TRUE,45.828049
+2008,"republican","John McCain",2008-04-29,27,189,TRUE,46.1888315
+2008,"republican","John McCain",2008-05-01,27,187,TRUE,46.366887
+2008,"republican","John McCain",2008-05-02,27,186,TRUE,46.248259
+2008,"republican","John McCain",2008-05-03,26,185,TRUE,45.871877
+2008,"republican","John McCain",2008-05-04,26,184,TRUE,45.7768615
+2008,"republican","John McCain",2008-05-06,26,182,TRUE,45.823221
+2008,"republican","John McCain",2008-05-08,26,180,TRUE,45.349303
+2008,"republican","John McCain",2008-05-10,25,178,TRUE,45.062849
+2008,"republican","John McCain",2008-05-11,25,177,TRUE,45.182671
+2008,"republican","John McCain",2008-05-12,25,176,TRUE,44.966503
+2008,"republican","John McCain",2008-05-13,25,175,TRUE,44.9826265
+2008,"republican","John McCain",2008-05-15,25,173,TRUE,44.936075
+2008,"republican","John McCain",2008-05-16,25,172,TRUE,45.042371
+2008,"republican","John McCain",2008-05-18,24,170,TRUE,44.179489
+2008,"republican","John McCain",2008-05-20,24,168,TRUE,44.101661
+2008,"republican","John McCain",2008-05-21,24,167,TRUE,43.988518
+2008,"republican","John McCain",2008-05-22,24,166,TRUE,44.318533
+2008,"republican","John McCain",2008-05-24,23,164,TRUE,44.5315065
+2008,"republican","John McCain",2008-05-25,23,163,TRUE,44.557906
+2008,"republican","John McCain",2008-05-27,23,161,TRUE,44.762846
+2008,"republican","John McCain",2008-05-28,23,160,TRUE,44.959147
+2008,"republican","John McCain",2008-05-31,22,157,TRUE,45.054632
+2008,"republican","John McCain",2008-06-01,22,156,TRUE,45.0495295
+2008,"republican","John McCain",2008-06-03,22,154,TRUE,45.114395
+2008,"republican","John McCain",2008-06-04,22,153,TRUE,45.566392
+2008,"republican","John McCain",2008-06-05,22,152,TRUE,45.2222435
+2008,"republican","John McCain",2008-06-07,21,150,TRUE,44.932859
+2008,"republican","John McCain",2008-06-08,21,149,TRUE,44.77589
+2008,"republican","John McCain",2008-06-09,21,148,TRUE,44.296674
+2008,"republican","John McCain",2008-06-10,21,147,TRUE,44.28067
+2008,"republican","John McCain",2008-06-11,21,146,TRUE,43.491514
+2008,"republican","John McCain",2008-06-12,21,145,TRUE,43.496549
+2008,"republican","John McCain",2008-06-13,21,144,TRUE,43.162168
+2008,"republican","John McCain",2008-06-14,20,143,TRUE,43.119131
+2008,"republican","John McCain",2008-06-15,20,142,TRUE,43.489907
+2008,"republican","John McCain",2008-06-16,20,141,TRUE,43.464737
+2008,"republican","John McCain",2008-06-17,20,140,TRUE,43.206425
+2008,"republican","John McCain",2008-06-18,20,139,TRUE,42.97829
+2008,"republican","John McCain",2008-06-19,20,138,TRUE,42.6044553333333
+2008,"republican","John McCain",2008-06-22,19,135,TRUE,41.8016905
+2008,"republican","John McCain",2008-06-23,19,134,TRUE,41.5138
+2008,"republican","John McCain",2008-06-25,19,132,TRUE,41.7943803333333
+2008,"republican","John McCain",2008-06-28,18,129,TRUE,41.495615
+2008,"republican","John McCain",2008-06-29,18,128,TRUE,41.545826
+2008,"republican","John McCain",2008-07-01,18,126,TRUE,41.444693
+2008,"republican","John McCain",2008-07-02,18,125,TRUE,41.28438175
+2008,"republican","John McCain",2008-07-06,17,121,TRUE,41.124492
+2008,"republican","John McCain",2008-07-07,17,120,TRUE,41.081292
+2008,"republican","John McCain",2008-07-09,17,118,TRUE,41.227507
+2008,"republican","John McCain",2008-07-10,17,117,TRUE,41.5432775
+2008,"republican","John McCain",2008-07-12,16,115,TRUE,41.561564
+2008,"republican","John McCain",2008-07-13,16,114,TRUE,42.004913
+2008,"republican","John McCain",2008-07-15,16,112,TRUE,42.079322
+2008,"republican","John McCain",2008-07-16,16,111,TRUE,42.170621
+2008,"republican","John McCain",2008-07-17,16,110,TRUE,42.093179
+2008,"republican","John McCain",2008-07-18,16,109,TRUE,42.159152
+2008,"republican","John McCain",2008-07-19,15,108,TRUE,42.2435565
+2008,"republican","John McCain",2008-07-21,15,106,TRUE,42.056716
+2008,"republican","John McCain",2008-07-22,15,105,TRUE,42.146666
+2008,"republican","John McCain",2008-07-23,15,104,TRUE,41.7916845
+2008,"republican","John McCain",2008-07-25,15,102,TRUE,41.827077
+2008,"republican","John McCain",2008-07-27,14,100,TRUE,42.300657
+2008,"republican","John McCain",2008-07-28,14,99,TRUE,42.41852
+2008,"republican","John McCain",2008-07-29,14,98,TRUE,42.349688
+2008,"republican","John McCain",2008-07-30,14,97,TRUE,42.533529
+2008,"republican","John McCain",2008-07-31,14,96,TRUE,42.662244
+2008,"republican","John McCain",2008-08-01,14,95,TRUE,42.8908045
+2008,"republican","John McCain",2008-08-03,13,93,TRUE,43.186904
+2008,"republican","John McCain",2008-08-04,13,92,TRUE,43.047138
+2008,"republican","John McCain",2008-08-05,13,91,TRUE,43.071066
+2008,"republican","John McCain",2008-08-06,13,90,TRUE,43.00252
+2008,"republican","John McCain",2008-08-08,13,88,TRUE,42.891153
+2008,"republican","John McCain",2008-08-09,12,87,TRUE,42.793324
+2008,"republican","John McCain",2008-08-10,12,86,TRUE,42.877836
+2008,"republican","John McCain",2008-08-11,12,85,TRUE,42.971532
+2008,"republican","John McCain",2008-08-12,12,84,TRUE,43.048906
+2008,"republican","John McCain",2008-08-13,12,83,TRUE,43.11894
+2008,"republican","John McCain",2008-08-14,12,82,TRUE,43.461347
+2008,"republican","John McCain",2008-08-15,12,81,TRUE,43.5044
+2008,"republican","John McCain",2008-08-16,11,80,TRUE,43.59324
+2008,"republican","John McCain",2008-08-17,11,79,TRUE,43.497781
+2008,"republican","John McCain",2008-08-18,11,78,TRUE,43.708391
+2008,"republican","John McCain",2008-08-20,11,76,TRUE,43.672372
+2008,"republican","John McCain",2008-08-22,11,74,TRUE,43.496971
+2008,"republican","John McCain",2008-08-23,10,73,TRUE,43.428043
+2008,"republican","John McCain",2008-08-24,10,72,TRUE,43.734199
+2008,"republican","John McCain",2008-08-26,10,70,TRUE,43.608538
+2008,"republican","John McCain",2008-08-27,10,69,TRUE,43.812813
+2008,"republican","John McCain",2008-08-29,10,67,TRUE,42.914173
+2008,"republican","John McCain",2008-08-30,9,66,TRUE,44.439133
+2008,"republican","John McCain",2008-08-31,9,65,TRUE,44.181378
+2008,"republican","John McCain",2008-09-01,9,64,TRUE,43.98336
+2008,"republican","John McCain",2008-09-03,9,62,TRUE,43.560553
+2008,"republican","John McCain",2008-09-04,9,61,FALSE,43.4748335
+2008,"republican","John McCain",2008-09-06,8,59,FALSE,45.709368
+2008,"republican","John McCain",2008-09-07,8,58,FALSE,46.066115
+2008,"republican","John McCain",2008-09-08,8,57,FALSE,46.301945
+2008,"republican","John McCain",2008-09-09,8,56,FALSE,46.410919
+2008,"republican","John McCain",2008-09-10,8,55,FALSE,46.57984
+2008,"republican","John McCain",2008-09-11,8,54,FALSE,46.7134725
+2008,"republican","John McCain",2008-09-13,7,52,FALSE,46.782105
+2008,"republican","John McCain",2008-09-14,7,51,FALSE,46.754641
+2008,"republican","John McCain",2008-09-15,7,50,FALSE,46.82551
+2008,"republican","John McCain",2008-09-16,7,49,FALSE,46.785807
+2008,"republican","John McCain",2008-09-18,7,47,FALSE,46.831175
+2008,"republican","John McCain",2008-09-19,7,46,FALSE,46.874456
+2008,"republican","John McCain",2008-09-20,6,45,FALSE,46.77422
+2008,"republican","John McCain",2008-09-21,6,44,FALSE,46.709218
+2008,"republican","John McCain",2008-09-22,6,43,FALSE,46.402141
+2008,"republican","John McCain",2008-09-23,6,42,FALSE,46.086558
+2008,"republican","John McCain",2008-09-24,6,41,FALSE,45.902524
+2008,"republican","John McCain",2008-09-25,6,40,FALSE,45.908484
+2008,"republican","John McCain",2008-09-26,6,39,FALSE,45.919301
+2008,"republican","John McCain",2008-09-27,5,38,FALSE,45.0119255
+2008,"republican","John McCain",2008-09-29,5,36,FALSE,44.959908
+2008,"republican","John McCain",2008-09-30,5,35,FALSE,44.521761
+2008,"republican","John McCain",2008-10-01,5,34,FALSE,44.330482
+2008,"republican","John McCain",2008-10-02,5,33,FALSE,44.246407
+2008,"republican","John McCain",2008-10-03,5,32,FALSE,44.123372
+2008,"republican","John McCain",2008-10-04,4,31,FALSE,43.433486
+2008,"republican","John McCain",2008-10-05,4,30,FALSE,43.579247
+2008,"republican","John McCain",2008-10-06,4,29,FALSE,43.636479
+2008,"republican","John McCain",2008-10-07,4,28,FALSE,43.613906
+2008,"republican","John McCain",2008-10-08,4,27,FALSE,42.839614
+2008,"republican","John McCain",2008-10-09,4,26,FALSE,42.515634
+2008,"republican","John McCain",2008-10-10,4,25,FALSE,42.483611
+2008,"republican","John McCain",2008-10-11,3,24,FALSE,42.38148
+2008,"republican","John McCain",2008-10-12,3,23,FALSE,42.321051
+2008,"republican","John McCain",2008-10-13,3,22,FALSE,42.312876
+2008,"republican","John McCain",2008-10-14,3,21,FALSE,42.285643
+2008,"republican","John McCain",2008-10-15,3,20,FALSE,42.236779
+2008,"republican","John McCain",2008-10-16,3,19,FALSE,42.471682
+2008,"republican","John McCain",2008-10-17,3,18,FALSE,42.631904
+2008,"republican","John McCain",2008-10-18,2,17,FALSE,41.974271
+2008,"republican","John McCain",2008-10-19,2,16,FALSE,42.362896
+2008,"republican","John McCain",2008-10-20,2,15,FALSE,42.716766
+2008,"republican","John McCain",2008-10-21,2,14,FALSE,42.504601
+2008,"republican","John McCain",2008-10-22,2,13,FALSE,42.584982
+2008,"republican","John McCain",2008-10-23,2,12,FALSE,42.481469
+2008,"republican","John McCain",2008-10-25,1,10,FALSE,42.647584
+2008,"republican","John McCain",2008-10-26,1,9,FALSE,42.632959
+2008,"republican","John McCain",2008-10-27,1,8,FALSE,43.034993
+2008,"republican","John McCain",2008-10-28,1,7,FALSE,43.134892
+2008,"republican","John McCain",2008-10-29,1,6,FALSE,43.1099015
+2008,"republican","John McCain",2008-10-31,1,4,FALSE,43.303064
+2008,"republican","John McCain",2008-11-01,0,3,FALSE,43.712135
+2008,"republican","John McCain",2008-11-02,0,2,FALSE,43.64515
+2008,"republican","John McCain",2008-11-03,0,1,FALSE,43.820694
+2012,"democrat","Barack Obama",2012-03-01,36,250,TRUE,48.642708
+2012,"democrat","Barack Obama",2012-03-02,36,249,TRUE,48.662401
+2012,"democrat","Barack Obama",2012-03-03,35,248,TRUE,48.719149
+2012,"democrat","Barack Obama",2012-03-04,35,247,TRUE,48.231769
+2012,"democrat","Barack Obama",2012-03-05,35,246,TRUE,48.304396
+2012,"democrat","Barack Obama",2012-03-06,35,245,TRUE,48.452488
+2012,"democrat","Barack Obama",2012-03-07,35,244,TRUE,48.343239
+2012,"democrat","Barack Obama",2012-03-08,35,243,TRUE,48.085454
+2012,"democrat","Barack Obama",2012-03-09,35,242,TRUE,47.89747
+2012,"democrat","Barack Obama",2012-03-10,34,241,TRUE,47.645579
+2012,"democrat","Barack Obama",2012-03-11,34,240,TRUE,48.282782
+2012,"democrat","Barack Obama",2012-03-12,34,239,TRUE,48.153854
+2012,"democrat","Barack Obama",2012-03-13,34,238,TRUE,48.081948
+2012,"democrat","Barack Obama",2012-03-14,34,237,TRUE,48.050615
+2012,"democrat","Barack Obama",2012-03-15,34,236,TRUE,48.027574
+2012,"democrat","Barack Obama",2012-03-16,34,235,TRUE,48.446812
+2012,"democrat","Barack Obama",2012-03-17,33,234,TRUE,48.332318
+2012,"democrat","Barack Obama",2012-03-18,33,233,TRUE,48.268485
+2012,"democrat","Barack Obama",2012-03-19,33,232,TRUE,48.255672
+2012,"democrat","Barack Obama",2012-03-20,33,231,TRUE,48.337675
+2012,"democrat","Barack Obama",2012-03-21,33,230,TRUE,48.353688
+2012,"democrat","Barack Obama",2012-03-22,33,229,TRUE,47.873762
+2012,"democrat","Barack Obama",2012-03-24,32,227,TRUE,47.732746
+2012,"democrat","Barack Obama",2012-03-25,32,226,TRUE,48.433622
+2012,"democrat","Barack Obama",2012-03-26,32,225,TRUE,48.394576
+2012,"democrat","Barack Obama",2012-03-27,32,224,TRUE,48.284524
+2012,"democrat","Barack Obama",2012-03-28,32,223,TRUE,48.225771
+2012,"democrat","Barack Obama",2012-03-29,32,222,TRUE,48.295444
+2012,"democrat","Barack Obama",2012-03-30,32,221,TRUE,48.326333
+2012,"democrat","Barack Obama",2012-03-31,31,220,TRUE,48.344906
+2012,"democrat","Barack Obama",2012-04-01,31,219,TRUE,48.240922
+2012,"democrat","Barack Obama",2012-04-02,31,218,TRUE,48.120519
+2012,"democrat","Barack Obama",2012-04-03,31,217,TRUE,47.940741
+2012,"democrat","Barack Obama",2012-04-04,31,216,TRUE,47.951713
+2012,"democrat","Barack Obama",2012-04-05,31,215,TRUE,47.754883
+2012,"democrat","Barack Obama",2012-04-06,31,214,TRUE,47.822087
+2012,"democrat","Barack Obama",2012-04-07,30,213,TRUE,47.768054
+2012,"democrat","Barack Obama",2012-04-08,30,212,TRUE,48.180063
+2012,"democrat","Barack Obama",2012-04-09,30,211,TRUE,48.154042
+2012,"democrat","Barack Obama",2012-04-10,30,210,TRUE,47.987876
+2012,"democrat","Barack Obama",2012-04-11,30,209,TRUE,47.568006
+2012,"democrat","Barack Obama",2012-04-12,30,208,TRUE,47.687666
+2012,"democrat","Barack Obama",2012-04-13,30,207,TRUE,47.421559
+2012,"democrat","Barack Obama",2012-04-14,29,206,TRUE,47.392936
+2012,"democrat","Barack Obama",2012-04-15,29,205,TRUE,47.138702
+2012,"democrat","Barack Obama",2012-04-16,29,204,TRUE,47.268001
+2012,"democrat","Barack Obama",2012-04-17,29,203,TRUE,47.192467
+2012,"democrat","Barack Obama",2012-04-18,29,202,TRUE,47.1152
+2012,"democrat","Barack Obama",2012-04-19,29,201,TRUE,47.114696
+2012,"democrat","Barack Obama",2012-04-20,29,200,TRUE,47.17886
+2012,"democrat","Barack Obama",2012-04-21,28,199,TRUE,47.21352
+2012,"democrat","Barack Obama",2012-04-22,28,198,TRUE,47.215064
+2012,"democrat","Barack Obama",2012-04-23,28,197,TRUE,47.241314
+2012,"democrat","Barack Obama",2012-04-24,28,196,TRUE,47.238839
+2012,"democrat","Barack Obama",2012-04-25,28,195,TRUE,47.165688
+2012,"democrat","Barack Obama",2012-04-26,28,194,TRUE,47.805867
+2012,"democrat","Barack Obama",2012-04-27,28,193,TRUE,47.387006
+2012,"democrat","Barack Obama",2012-04-28,27,192,TRUE,47.181307
+2012,"democrat","Barack Obama",2012-04-29,27,191,TRUE,47.121088
+2012,"democrat","Barack Obama",2012-04-30,27,190,TRUE,47.267047
+2012,"democrat","Barack Obama",2012-05-01,27,189,TRUE,47.157751
+2012,"democrat","Barack Obama",2012-05-02,27,188,TRUE,47.262488
+2012,"democrat","Barack Obama",2012-05-03,27,187,TRUE,47.121028
+2012,"democrat","Barack Obama",2012-05-04,27,186,TRUE,47.139571
+2012,"democrat","Barack Obama",2012-05-05,26,185,TRUE,47.119357
+2012,"democrat","Barack Obama",2012-05-06,26,184,TRUE,46.980411
+2012,"democrat","Barack Obama",2012-05-07,26,183,TRUE,46.967797
+2012,"democrat","Barack Obama",2012-05-08,26,182,TRUE,46.750646
+2012,"democrat","Barack Obama",2012-05-10,26,180,TRUE,46.717927
+2012,"democrat","Barack Obama",2012-05-11,26,179,TRUE,46.694968
+2012,"democrat","Barack Obama",2012-05-12,25,178,TRUE,46.506013
+2012,"democrat","Barack Obama",2012-05-14,25,176,TRUE,46.097385
+2012,"democrat","Barack Obama",2012-05-15,25,175,TRUE,46.159944
+2012,"democrat","Barack Obama",2012-05-16,25,174,TRUE,45.892057
+2012,"democrat","Barack Obama",2012-05-17,25,173,TRUE,45.820104
+2012,"democrat","Barack Obama",2012-05-18,25,172,TRUE,45.76682
+2012,"democrat","Barack Obama",2012-05-19,24,171,TRUE,45.792301
+2012,"democrat","Barack Obama",2012-05-20,24,170,TRUE,46.080179
+2012,"democrat","Barack Obama",2012-05-21,24,169,TRUE,46.097213
+2012,"democrat","Barack Obama",2012-05-22,24,168,TRUE,46.088168
+2012,"democrat","Barack Obama",2012-05-23,24,167,TRUE,46.114068
+2012,"democrat","Barack Obama",2012-05-24,24,166,TRUE,46.078457
+2012,"democrat","Barack Obama",2012-05-25,24,165,TRUE,46.065455
+2012,"democrat","Barack Obama",2012-05-26,23,164,TRUE,46.086912
+2012,"democrat","Barack Obama",2012-05-27,23,163,TRUE,46.039228
+2012,"democrat","Barack Obama",2012-05-28,23,162,TRUE,46.052934
+2012,"democrat","Barack Obama",2012-05-29,23,161,TRUE,46.073273
+2012,"democrat","Barack Obama",2012-05-30,23,160,TRUE,46.114494
+2012,"democrat","Barack Obama",2012-05-31,23,159,TRUE,45.967689
+2012,"democrat","Barack Obama",2012-06-01,23,158,TRUE,45.994589
+2012,"democrat","Barack Obama",2012-06-02,22,157,TRUE,46.063917
+2012,"democrat","Barack Obama",2012-06-03,22,156,TRUE,46.333679
+2012,"democrat","Barack Obama",2012-06-04,22,155,TRUE,46.401446
+2012,"democrat","Barack Obama",2012-06-05,22,154,TRUE,46.206024
+2012,"democrat","Barack Obama",2012-06-06,22,153,TRUE,46.194505
+2012,"democrat","Barack Obama",2012-06-07,22,152,TRUE,46.307339
+2012,"democrat","Barack Obama",2012-06-08,22,151,TRUE,46.0848255
+2012,"democrat","Barack Obama",2012-06-10,21,149,TRUE,46.212047
+2012,"democrat","Barack Obama",2012-06-11,21,148,TRUE,46.129089
+2012,"democrat","Barack Obama",2012-06-12,21,147,TRUE,46.111329
+2012,"democrat","Barack Obama",2012-06-13,21,146,TRUE,46.104211
+2012,"democrat","Barack Obama",2012-06-14,21,145,TRUE,46.06737
+2012,"democrat","Barack Obama",2012-06-15,21,144,TRUE,46.055673
+2012,"democrat","Barack Obama",2012-06-16,20,143,TRUE,45.980301
+2012,"democrat","Barack Obama",2012-06-17,20,142,TRUE,46.222468
+2012,"democrat","Barack Obama",2012-06-18,20,141,TRUE,46.578373
+2012,"democrat","Barack Obama",2012-06-20,20,139,TRUE,46.558844
+2012,"democrat","Barack Obama",2012-06-21,20,138,TRUE,46.568538
+2012,"democrat","Barack Obama",2012-06-22,20,137,TRUE,46.641848
+2012,"democrat","Barack Obama",2012-06-23,19,136,TRUE,46.656219
+2012,"democrat","Barack Obama",2012-06-24,19,135,TRUE,46.527412
+2012,"democrat","Barack Obama",2012-06-25,19,134,TRUE,46.433961
+2012,"democrat","Barack Obama",2012-06-26,19,133,TRUE,46.491633
+2012,"democrat","Barack Obama",2012-06-27,19,132,TRUE,46.715661
+2012,"democrat","Barack Obama",2012-06-28,19,131,TRUE,46.8019285
+2012,"democrat","Barack Obama",2012-06-30,18,129,TRUE,46.828372
+2012,"democrat","Barack Obama",2012-07-01,18,128,TRUE,46.778837
+2012,"democrat","Barack Obama",2012-07-02,18,127,TRUE,46.8746686666667
+2012,"democrat","Barack Obama",2012-07-05,18,124,TRUE,46.602132
+2012,"democrat","Barack Obama",2012-07-06,18,123,TRUE,46.579958
+2012,"democrat","Barack Obama",2012-07-07,17,122,TRUE,46.60368
+2012,"democrat","Barack Obama",2012-07-08,17,121,TRUE,46.460609
+2012,"democrat","Barack Obama",2012-07-09,17,120,TRUE,46.323787
+2012,"democrat","Barack Obama",2012-07-10,17,119,TRUE,46.390526
+2012,"democrat","Barack Obama",2012-07-11,17,118,TRUE,46.60769
+2012,"democrat","Barack Obama",2012-07-13,17,116,TRUE,46.579077
+2012,"democrat","Barack Obama",2012-07-14,16,115,TRUE,46.59696
+2012,"democrat","Barack Obama",2012-07-15,16,114,TRUE,46.55637
+2012,"democrat","Barack Obama",2012-07-16,16,113,TRUE,46.657188
+2012,"democrat","Barack Obama",2012-07-17,16,112,TRUE,46.677533
+2012,"democrat","Barack Obama",2012-07-18,16,111,TRUE,46.65195
+2012,"democrat","Barack Obama",2012-07-19,16,110,TRUE,46.762579
+2012,"democrat","Barack Obama",2012-07-20,16,109,TRUE,46.787251
+2012,"democrat","Barack Obama",2012-07-21,15,108,TRUE,46.607399
+2012,"democrat","Barack Obama",2012-07-22,15,107,TRUE,46.579635
+2012,"democrat","Barack Obama",2012-07-23,15,106,TRUE,46.505713
+2012,"democrat","Barack Obama",2012-07-24,15,105,TRUE,46.437406
+2012,"democrat","Barack Obama",2012-07-25,15,104,TRUE,46.602904
+2012,"democrat","Barack Obama",2012-07-26,15,103,TRUE,46.743239
+2012,"democrat","Barack Obama",2012-07-27,15,102,TRUE,46.727591
+2012,"democrat","Barack Obama",2012-07-28,14,101,TRUE,46.777088
+2012,"democrat","Barack Obama",2012-07-29,14,100,TRUE,46.763254
+2012,"democrat","Barack Obama",2012-07-30,14,99,TRUE,46.720369
+2012,"democrat","Barack Obama",2012-07-31,14,98,TRUE,46.716841
+2012,"democrat","Barack Obama",2012-08-01,14,97,TRUE,46.73489
+2012,"democrat","Barack Obama",2012-08-02,14,96,TRUE,46.696961
+2012,"democrat","Barack Obama",2012-08-03,14,95,TRUE,46.708239
+2012,"democrat","Barack Obama",2012-08-04,13,94,TRUE,46.677239
+2012,"democrat","Barack Obama",2012-08-05,13,93,TRUE,47.038741
+2012,"democrat","Barack Obama",2012-08-06,13,92,TRUE,47.104868
+2012,"democrat","Barack Obama",2012-08-07,13,91,TRUE,47.399306
+2012,"democrat","Barack Obama",2012-08-08,13,90,TRUE,47.469511
+2012,"democrat","Barack Obama",2012-08-09,13,89,TRUE,47.364286
+2012,"democrat","Barack Obama",2012-08-10,13,88,TRUE,47.366301
+2012,"democrat","Barack Obama",2012-08-11,12,87,TRUE,47.365614
+2012,"democrat","Barack Obama",2012-08-12,12,86,TRUE,47.2788615
+2012,"democrat","Barack Obama",2012-08-14,12,84,TRUE,47.17029
+2012,"democrat","Barack Obama",2012-08-15,12,83,TRUE,47.158373
+2012,"democrat","Barack Obama",2012-08-16,12,82,TRUE,46.97707
+2012,"democrat","Barack Obama",2012-08-17,12,81,TRUE,46.949204
+2012,"democrat","Barack Obama",2012-08-18,11,80,TRUE,46.858765
+2012,"democrat","Barack Obama",2012-08-19,11,79,TRUE,46.814359
+2012,"democrat","Barack Obama",2012-08-20,11,78,TRUE,46.724851
+2012,"democrat","Barack Obama",2012-08-21,11,77,TRUE,46.615298
+2012,"democrat","Barack Obama",2012-08-22,11,76,TRUE,46.607243
+2012,"democrat","Barack Obama",2012-08-23,11,75,TRUE,46.725537
+2012,"democrat","Barack Obama",2012-08-24,11,74,TRUE,46.745032
+2012,"democrat","Barack Obama",2012-08-25,10,73,TRUE,46.758665
+2012,"democrat","Barack Obama",2012-08-26,10,72,TRUE,46.849587
+2012,"democrat","Barack Obama",2012-08-27,10,71,TRUE,46.887288
+2012,"democrat","Barack Obama",2012-08-28,10,70,TRUE,46.84883
+2012,"democrat","Barack Obama",2012-08-29,10,69,TRUE,46.558564
+2012,"democrat","Barack Obama",2012-08-30,10,68,TRUE,46.276403
+2012,"democrat","Barack Obama",2012-08-31,10,67,TRUE,46.283129
+2012,"democrat","Barack Obama",2012-09-01,9,66,TRUE,46.154188
+2012,"democrat","Barack Obama",2012-09-02,9,65,TRUE,46.187994
+2012,"democrat","Barack Obama",2012-09-03,9,64,TRUE,46.274605
+2012,"democrat","Barack Obama",2012-09-04,9,63,TRUE,46.39519
+2012,"democrat","Barack Obama",2012-09-05,9,62,TRUE,46.304931
+2012,"democrat","Barack Obama",2012-09-06,9,61,FALSE,46.295888
+2012,"democrat","Barack Obama",2012-09-07,9,60,FALSE,46.943731
+2012,"democrat","Barack Obama",2012-09-08,8,59,FALSE,47.603289
+2012,"democrat","Barack Obama",2012-09-09,8,58,FALSE,47.974949
+2012,"democrat","Barack Obama",2012-09-10,8,57,FALSE,48.297585
+2012,"democrat","Barack Obama",2012-09-11,8,56,FALSE,48.323779
+2012,"democrat","Barack Obama",2012-09-12,8,55,FALSE,48.569887
+2012,"democrat","Barack Obama",2012-09-14,8,53,FALSE,48.619786
+2012,"democrat","Barack Obama",2012-09-15,7,52,FALSE,48.659833
+2012,"democrat","Barack Obama",2012-09-16,7,51,FALSE,48.623156
+2012,"democrat","Barack Obama",2012-09-17,7,50,FALSE,48.657436
+2012,"democrat","Barack Obama",2012-09-18,7,49,FALSE,48.57245
+2012,"democrat","Barack Obama",2012-09-19,7,48,FALSE,48.662913
+2012,"democrat","Barack Obama",2012-09-20,7,47,FALSE,48.7011895
+2012,"democrat","Barack Obama",2012-09-22,6,45,FALSE,48.889531
+2012,"democrat","Barack Obama",2012-09-23,6,44,FALSE,48.914079
+2012,"democrat","Barack Obama",2012-09-24,6,43,FALSE,48.87979
+2012,"democrat","Barack Obama",2012-09-25,6,42,FALSE,48.953308
+2012,"democrat","Barack Obama",2012-09-26,6,41,FALSE,49.03867
+2012,"democrat","Barack Obama",2012-09-27,6,40,FALSE,48.909547
+2012,"democrat","Barack Obama",2012-09-28,6,39,FALSE,48.942899
+2012,"democrat","Barack Obama",2012-09-29,5,38,FALSE,48.972128
+2012,"democrat","Barack Obama",2012-09-30,5,37,FALSE,48.820485
+2012,"democrat","Barack Obama",2012-10-01,5,36,FALSE,48.850823
+2012,"democrat","Barack Obama",2012-10-02,5,35,FALSE,48.8885105
+2012,"democrat","Barack Obama",2012-10-04,5,33,FALSE,48.88635
+2012,"democrat","Barack Obama",2012-10-06,4,31,FALSE,48.675376
+2012,"democrat","Barack Obama",2012-10-07,4,30,FALSE,48.053283
+2012,"democrat","Barack Obama",2012-10-08,4,29,FALSE,48.029632
+2012,"democrat","Barack Obama",2012-10-09,4,28,FALSE,47.708023
+2012,"democrat","Barack Obama",2012-10-10,4,27,FALSE,47.585371
+2012,"democrat","Barack Obama",2012-10-11,4,26,FALSE,47.488692
+2012,"democrat","Barack Obama",2012-10-12,4,25,FALSE,47.213768
+2012,"democrat","Barack Obama",2012-10-13,3,24,FALSE,47.341729
+2012,"democrat","Barack Obama",2012-10-14,3,23,FALSE,47.243694
+2012,"democrat","Barack Obama",2012-10-15,3,22,FALSE,47.291474
+2012,"democrat","Barack Obama",2012-10-16,3,21,FALSE,47.201106
+2012,"democrat","Barack Obama",2012-10-17,3,20,FALSE,47.01539
+2012,"democrat","Barack Obama",2012-10-18,3,19,FALSE,46.849429
+2012,"democrat","Barack Obama",2012-10-20,2,17,FALSE,47.124943
+2012,"democrat","Barack Obama",2012-10-21,2,16,FALSE,47.145015
+2012,"democrat","Barack Obama",2012-10-22,2,15,FALSE,47.114657
+2012,"democrat","Barack Obama",2012-10-23,2,14,FALSE,47.096435
+2012,"democrat","Barack Obama",2012-10-25,2,12,FALSE,47.164564
+2012,"democrat","Barack Obama",2012-10-26,2,11,FALSE,47.27159
+2012,"democrat","Barack Obama",2012-10-27,1,10,FALSE,47.300917
+2012,"democrat","Barack Obama",2012-10-28,1,9,FALSE,47.334796
+2012,"democrat","Barack Obama",2012-10-29,1,8,FALSE,47.448834
+2012,"democrat","Barack Obama",2012-10-30,1,7,FALSE,47.349459
+2012,"democrat","Barack Obama",2012-10-31,1,6,FALSE,47.511828
+2012,"democrat","Barack Obama",2012-11-01,1,5,FALSE,47.421608
+2012,"democrat","Barack Obama",2012-11-02,1,4,FALSE,47.441645
+2012,"democrat","Barack Obama",2012-11-03,0,3,FALSE,47.749305
+2012,"democrat","Barack Obama",2012-11-04,0,2,FALSE,47.963961
+2012,"democrat","Barack Obama",2012-11-05,0,1,FALSE,48.100725
+2012,"republican","Mitt Romney",2012-03-01,36,250,TRUE,45.492803
+2012,"republican","Mitt Romney",2012-03-02,36,249,TRUE,45.440291
+2012,"republican","Mitt Romney",2012-03-03,35,248,TRUE,45.627869
+2012,"republican","Mitt Romney",2012-03-04,35,247,TRUE,45.651842
+2012,"republican","Mitt Romney",2012-03-05,35,246,TRUE,45.685224
+2012,"republican","Mitt Romney",2012-03-06,35,245,TRUE,45.535994
+2012,"republican","Mitt Romney",2012-03-07,35,244,TRUE,45.693832
+2012,"republican","Mitt Romney",2012-03-08,35,243,TRUE,45.974833
+2012,"republican","Mitt Romney",2012-03-09,35,242,TRUE,46.159583
+2012,"republican","Mitt Romney",2012-03-10,34,241,TRUE,46.770648
+2012,"republican","Mitt Romney",2012-03-11,34,240,TRUE,46.212422
+2012,"republican","Mitt Romney",2012-03-12,34,239,TRUE,46.082124
+2012,"republican","Mitt Romney",2012-03-13,34,238,TRUE,46.211108
+2012,"republican","Mitt Romney",2012-03-14,34,237,TRUE,46.321026
+2012,"republican","Mitt Romney",2012-03-15,34,236,TRUE,46.376592
+2012,"republican","Mitt Romney",2012-03-16,34,235,TRUE,46.298565
+2012,"republican","Mitt Romney",2012-03-17,33,234,TRUE,46.423142
+2012,"republican","Mitt Romney",2012-03-18,33,233,TRUE,46.54985
+2012,"republican","Mitt Romney",2012-03-19,33,232,TRUE,46.586142
+2012,"republican","Mitt Romney",2012-03-20,33,231,TRUE,46.472758
+2012,"republican","Mitt Romney",2012-03-21,33,230,TRUE,46.513921
+2012,"republican","Mitt Romney",2012-03-22,33,229,TRUE,46.547173
+2012,"republican","Mitt Romney",2012-03-24,32,227,TRUE,46.657674
+2012,"republican","Mitt Romney",2012-03-25,32,226,TRUE,44.794039
+2012,"republican","Mitt Romney",2012-03-26,32,225,TRUE,44.829295
+2012,"republican","Mitt Romney",2012-03-27,32,224,TRUE,44.882947
+2012,"republican","Mitt Romney",2012-03-28,32,223,TRUE,44.942651
+2012,"republican","Mitt Romney",2012-03-29,32,222,TRUE,44.892899
+2012,"republican","Mitt Romney",2012-03-30,32,221,TRUE,44.885243
+2012,"republican","Mitt Romney",2012-03-31,31,220,TRUE,44.797756
+2012,"republican","Mitt Romney",2012-04-01,31,219,TRUE,44.861952
+2012,"republican","Mitt Romney",2012-04-02,31,218,TRUE,44.926067
+2012,"republican","Mitt Romney",2012-04-03,31,217,TRUE,45.337291
+2012,"republican","Mitt Romney",2012-04-04,31,216,TRUE,45.39415
+2012,"republican","Mitt Romney",2012-04-05,31,215,TRUE,44.585817
+2012,"republican","Mitt Romney",2012-04-06,31,214,TRUE,44.41289
+2012,"republican","Mitt Romney",2012-04-07,30,213,TRUE,44.568862
+2012,"republican","Mitt Romney",2012-04-08,30,212,TRUE,44.565479
+2012,"republican","Mitt Romney",2012-04-09,30,211,TRUE,44.564482
+2012,"republican","Mitt Romney",2012-04-10,30,210,TRUE,44.666104
+2012,"republican","Mitt Romney",2012-04-11,30,209,TRUE,45.244852
+2012,"republican","Mitt Romney",2012-04-12,30,208,TRUE,45.217467
+2012,"republican","Mitt Romney",2012-04-13,30,207,TRUE,45.464339
+2012,"republican","Mitt Romney",2012-04-14,29,206,TRUE,45.584289
+2012,"republican","Mitt Romney",2012-04-15,29,205,TRUE,45.810876
+2012,"republican","Mitt Romney",2012-04-16,29,204,TRUE,45.75232
+2012,"republican","Mitt Romney",2012-04-17,29,203,TRUE,45.633284
+2012,"republican","Mitt Romney",2012-04-18,29,202,TRUE,45.660179
+2012,"republican","Mitt Romney",2012-04-19,29,201,TRUE,45.649352
+2012,"republican","Mitt Romney",2012-04-20,29,200,TRUE,45.605078
+2012,"republican","Mitt Romney",2012-04-21,28,199,TRUE,45.546322
+2012,"republican","Mitt Romney",2012-04-22,28,198,TRUE,45.155191
+2012,"republican","Mitt Romney",2012-04-23,28,197,TRUE,45.282429
+2012,"republican","Mitt Romney",2012-04-24,28,196,TRUE,45.566914
+2012,"republican","Mitt Romney",2012-04-25,28,195,TRUE,46.68694
+2012,"republican","Mitt Romney",2012-04-26,28,194,TRUE,46.094799
+2012,"republican","Mitt Romney",2012-04-27,28,193,TRUE,46.265716
+2012,"republican","Mitt Romney",2012-04-28,27,192,TRUE,46.873883
+2012,"republican","Mitt Romney",2012-04-29,27,191,TRUE,46.820844
+2012,"republican","Mitt Romney",2012-04-30,27,190,TRUE,46.413819
+2012,"republican","Mitt Romney",2012-05-01,27,189,TRUE,46.369921
+2012,"republican","Mitt Romney",2012-05-02,27,188,TRUE,46.340136
+2012,"republican","Mitt Romney",2012-05-03,27,187,TRUE,46.514954
+2012,"republican","Mitt Romney",2012-05-04,27,186,TRUE,46.493795
+2012,"republican","Mitt Romney",2012-05-05,26,185,TRUE,46.576921
+2012,"republican","Mitt Romney",2012-05-06,26,184,TRUE,46.686715
+2012,"republican","Mitt Romney",2012-05-07,26,183,TRUE,46.421481
+2012,"republican","Mitt Romney",2012-05-08,26,182,TRUE,46.761036
+2012,"republican","Mitt Romney",2012-05-09,26,181,TRUE,46.812828
+2012,"republican","Mitt Romney",2012-05-10,26,180,TRUE,46.869464
+2012,"republican","Mitt Romney",2012-05-11,26,179,TRUE,46.885286
+2012,"republican","Mitt Romney",2012-05-12,25,178,TRUE,46.712548
+2012,"republican","Mitt Romney",2012-05-13,25,177,TRUE,46.690522
+2012,"republican","Mitt Romney",2012-05-14,25,176,TRUE,46.866392
+2012,"republican","Mitt Romney",2012-05-15,25,175,TRUE,46.31713
+2012,"republican","Mitt Romney",2012-05-16,25,174,TRUE,46.31265
+2012,"republican","Mitt Romney",2012-05-17,25,173,TRUE,46.360073
+2012,"republican","Mitt Romney",2012-05-18,25,172,TRUE,46.388536
+2012,"republican","Mitt Romney",2012-05-19,24,171,TRUE,46.278671
+2012,"republican","Mitt Romney",2012-05-20,24,170,TRUE,46.257992
+2012,"republican","Mitt Romney",2012-05-21,24,169,TRUE,46.139045
+2012,"republican","Mitt Romney",2012-05-22,24,168,TRUE,46.144984
+2012,"republican","Mitt Romney",2012-05-23,24,167,TRUE,46.050058
+2012,"republican","Mitt Romney",2012-05-24,24,166,TRUE,46.109728
+2012,"republican","Mitt Romney",2012-05-25,24,165,TRUE,45.965231
+2012,"republican","Mitt Romney",2012-05-26,23,164,TRUE,45.942278
+2012,"republican","Mitt Romney",2012-05-27,23,163,TRUE,46.1614805
+2012,"republican","Mitt Romney",2012-05-29,23,161,TRUE,46.055555
+2012,"republican","Mitt Romney",2012-05-30,23,160,TRUE,45.937105
+2012,"republican","Mitt Romney",2012-05-31,23,159,TRUE,46.223044
+2012,"republican","Mitt Romney",2012-06-01,23,158,TRUE,46.229444
+2012,"republican","Mitt Romney",2012-06-02,22,157,TRUE,46.308925
+2012,"republican","Mitt Romney",2012-06-03,22,156,TRUE,45.825199
+2012,"republican","Mitt Romney",2012-06-04,22,155,TRUE,45.605659
+2012,"republican","Mitt Romney",2012-06-05,22,154,TRUE,45.623118
+2012,"republican","Mitt Romney",2012-06-06,22,153,TRUE,45.90046
+2012,"republican","Mitt Romney",2012-06-07,22,152,TRUE,45.74661
+2012,"republican","Mitt Romney",2012-06-08,22,151,TRUE,45.974166
+2012,"republican","Mitt Romney",2012-06-10,21,149,TRUE,45.877457
+2012,"republican","Mitt Romney",2012-06-11,21,148,TRUE,45.92375
+2012,"republican","Mitt Romney",2012-06-12,21,147,TRUE,46.007683
+2012,"republican","Mitt Romney",2012-06-13,21,146,TRUE,46.008269
+2012,"republican","Mitt Romney",2012-06-14,21,145,TRUE,46.067761
+2012,"republican","Mitt Romney",2012-06-15,21,144,TRUE,46.109753
+2012,"republican","Mitt Romney",2012-06-16,20,143,TRUE,46.136174
+2012,"republican","Mitt Romney",2012-06-17,20,142,TRUE,46.368666
+2012,"republican","Mitt Romney",2012-06-18,20,141,TRUE,45.957984
+2012,"republican","Mitt Romney",2012-06-20,20,139,TRUE,46.01709
+2012,"republican","Mitt Romney",2012-06-21,20,138,TRUE,46.038162
+2012,"republican","Mitt Romney",2012-06-22,20,137,TRUE,46.090904
+2012,"republican","Mitt Romney",2012-06-23,19,136,TRUE,46.084357
+2012,"republican","Mitt Romney",2012-06-24,19,135,TRUE,46.117482
+2012,"republican","Mitt Romney",2012-06-25,19,134,TRUE,46.229369
+2012,"republican","Mitt Romney",2012-06-26,19,133,TRUE,45.717705
+2012,"republican","Mitt Romney",2012-06-27,19,132,TRUE,45.717563
+2012,"republican","Mitt Romney",2012-06-28,19,131,TRUE,45.528722
+2012,"republican","Mitt Romney",2012-06-29,19,130,TRUE,45.547118
+2012,"republican","Mitt Romney",2012-06-30,18,129,TRUE,45.565128
+2012,"republican","Mitt Romney",2012-07-01,18,128,TRUE,45.686894
+2012,"republican","Mitt Romney",2012-07-02,18,127,TRUE,45.7408723333333
+2012,"republican","Mitt Romney",2012-07-05,18,124,TRUE,45.699712
+2012,"republican","Mitt Romney",2012-07-06,18,123,TRUE,45.722957
+2012,"republican","Mitt Romney",2012-07-07,17,122,TRUE,45.718674
+2012,"republican","Mitt Romney",2012-07-08,17,121,TRUE,45.675294
+2012,"republican","Mitt Romney",2012-07-09,17,120,TRUE,45.873116
+2012,"republican","Mitt Romney",2012-07-10,17,119,TRUE,45.827858
+2012,"republican","Mitt Romney",2012-07-11,17,118,TRUE,45.619428
+2012,"republican","Mitt Romney",2012-07-13,17,116,TRUE,45.735956
+2012,"republican","Mitt Romney",2012-07-14,16,115,TRUE,45.696654
+2012,"republican","Mitt Romney",2012-07-15,16,114,TRUE,45.838109
+2012,"republican","Mitt Romney",2012-07-16,16,113,TRUE,45.914506
+2012,"republican","Mitt Romney",2012-07-17,16,112,TRUE,45.822153
+2012,"republican","Mitt Romney",2012-07-18,16,111,TRUE,45.896135
+2012,"republican","Mitt Romney",2012-07-19,16,110,TRUE,45.80885
+2012,"republican","Mitt Romney",2012-07-20,16,109,TRUE,45.76553
+2012,"republican","Mitt Romney",2012-07-21,15,108,TRUE,45.82085
+2012,"republican","Mitt Romney",2012-07-22,15,107,TRUE,45.919245
+2012,"republican","Mitt Romney",2012-07-23,15,106,TRUE,45.952391
+2012,"republican","Mitt Romney",2012-07-24,15,105,TRUE,46.054344
+2012,"republican","Mitt Romney",2012-07-25,15,104,TRUE,46.10352
+2012,"republican","Mitt Romney",2012-07-26,15,103,TRUE,45.877473
+2012,"republican","Mitt Romney",2012-07-27,15,102,TRUE,45.885317
+2012,"republican","Mitt Romney",2012-07-28,14,101,TRUE,45.878867
+2012,"republican","Mitt Romney",2012-07-29,14,100,TRUE,46.014536
+2012,"republican","Mitt Romney",2012-07-30,14,99,TRUE,46.053518
+2012,"republican","Mitt Romney",2012-07-31,14,98,TRUE,46.081752
+2012,"republican","Mitt Romney",2012-08-01,14,97,TRUE,46.061721
+2012,"republican","Mitt Romney",2012-08-02,14,96,TRUE,46.096997
+2012,"republican","Mitt Romney",2012-08-03,14,95,TRUE,46.124511
+2012,"republican","Mitt Romney",2012-08-04,13,94,TRUE,46.186682
+2012,"republican","Mitt Romney",2012-08-05,13,93,TRUE,46.121544
+2012,"republican","Mitt Romney",2012-08-06,13,92,TRUE,46.142337
+2012,"republican","Mitt Romney",2012-08-07,13,91,TRUE,45.882043
+2012,"republican","Mitt Romney",2012-08-08,13,90,TRUE,45.9979555
+2012,"republican","Mitt Romney",2012-08-10,13,88,TRUE,45.856272
+2012,"republican","Mitt Romney",2012-08-11,12,87,TRUE,45.884451
+2012,"republican","Mitt Romney",2012-08-12,12,86,TRUE,46.309528
+2012,"republican","Mitt Romney",2012-08-13,12,85,TRUE,46.383255
+2012,"republican","Mitt Romney",2012-08-14,12,84,TRUE,46.44839
+2012,"republican","Mitt Romney",2012-08-15,12,83,TRUE,46.436484
+2012,"republican","Mitt Romney",2012-08-16,12,82,TRUE,46.6508405
+2012,"republican","Mitt Romney",2012-08-18,11,80,TRUE,46.62979
+2012,"republican","Mitt Romney",2012-08-19,11,79,TRUE,46.407906
+2012,"republican","Mitt Romney",2012-08-20,11,78,TRUE,46.527957
+2012,"republican","Mitt Romney",2012-08-21,11,77,TRUE,46.525521
+2012,"republican","Mitt Romney",2012-08-22,11,76,TRUE,46.419342
+2012,"republican","Mitt Romney",2012-08-23,11,75,TRUE,46.55627
+2012,"republican","Mitt Romney",2012-08-24,11,74,TRUE,46.530838
+2012,"republican","Mitt Romney",2012-08-25,10,73,TRUE,46.670899
+2012,"republican","Mitt Romney",2012-08-26,10,72,TRUE,46.652783
+2012,"republican","Mitt Romney",2012-08-27,10,71,TRUE,46.595157
+2012,"republican","Mitt Romney",2012-08-28,10,70,TRUE,46.591461
+2012,"republican","Mitt Romney",2012-08-29,10,69,TRUE,46.525767
+2012,"republican","Mitt Romney",2012-08-30,10,68,FALSE,46.36939
+2012,"republican","Mitt Romney",2012-08-31,10,67,FALSE,46.565335
+2012,"republican","Mitt Romney",2012-09-01,9,66,FALSE,46.753416
+2012,"republican","Mitt Romney",2012-09-02,9,65,FALSE,46.974103
+2012,"republican","Mitt Romney",2012-09-03,9,64,FALSE,46.667533
+2012,"republican","Mitt Romney",2012-09-04,9,63,FALSE,46.737932
+2012,"republican","Mitt Romney",2012-09-05,9,62,FALSE,46.752856
+2012,"republican","Mitt Romney",2012-09-06,9,61,FALSE,45.854526
+2012,"republican","Mitt Romney",2012-09-08,8,59,FALSE,45.62194
+2012,"republican","Mitt Romney",2012-09-09,8,58,FALSE,45.322825
+2012,"republican","Mitt Romney",2012-09-10,8,57,FALSE,45.508598
+2012,"republican","Mitt Romney",2012-09-11,8,56,FALSE,45.337615
+2012,"republican","Mitt Romney",2012-09-12,8,55,FALSE,45.289971
+2012,"republican","Mitt Romney",2012-09-13,8,54,FALSE,45.185541
+2012,"republican","Mitt Romney",2012-09-14,8,53,FALSE,45.348895
+2012,"republican","Mitt Romney",2012-09-15,7,52,FALSE,45.36759
+2012,"republican","Mitt Romney",2012-09-16,7,51,FALSE,45.117224
+2012,"republican","Mitt Romney",2012-09-17,7,50,FALSE,45.212978
+2012,"republican","Mitt Romney",2012-09-18,7,49,FALSE,45.143123
+2012,"republican","Mitt Romney",2012-09-19,7,48,FALSE,44.973007
+2012,"republican","Mitt Romney",2012-09-20,7,47,FALSE,45.158092
+2012,"republican","Mitt Romney",2012-09-21,7,46,FALSE,45.170935
+2012,"republican","Mitt Romney",2012-09-22,6,45,FALSE,45.147678
+2012,"republican","Mitt Romney",2012-09-23,6,44,FALSE,45.224564
+2012,"republican","Mitt Romney",2012-09-24,6,43,FALSE,45.158363
+2012,"republican","Mitt Romney",2012-09-25,6,42,FALSE,45.113991
+2012,"republican","Mitt Romney",2012-09-26,6,41,FALSE,45.054865
+2012,"republican","Mitt Romney",2012-09-27,6,40,FALSE,45.165767
+2012,"republican","Mitt Romney",2012-09-28,6,39,FALSE,45.148199
+2012,"republican","Mitt Romney",2012-09-29,5,38,FALSE,45.105024
+2012,"republican","Mitt Romney",2012-09-30,5,37,FALSE,45.286571
+2012,"republican","Mitt Romney",2012-10-01,5,36,FALSE,45.197178
+2012,"republican","Mitt Romney",2012-10-02,5,35,FALSE,45.2700795
+2012,"republican","Mitt Romney",2012-10-04,5,33,FALSE,45.751334
+2012,"republican","Mitt Romney",2012-10-06,4,31,FALSE,46.273739
+2012,"republican","Mitt Romney",2012-10-07,4,30,FALSE,46.64488
+2012,"republican","Mitt Romney",2012-10-08,4,29,FALSE,46.858422
+2012,"republican","Mitt Romney",2012-10-09,4,28,FALSE,47.124018
+2012,"republican","Mitt Romney",2012-10-10,4,27,FALSE,47.252426
+2012,"republican","Mitt Romney",2012-10-11,4,26,FALSE,47.389028
+2012,"republican","Mitt Romney",2012-10-12,4,25,FALSE,47.840687
+2012,"republican","Mitt Romney",2012-10-13,3,24,FALSE,47.653463
+2012,"republican","Mitt Romney",2012-10-14,3,23,FALSE,47.82597
+2012,"republican","Mitt Romney",2012-10-15,3,22,FALSE,47.7551975
+2012,"republican","Mitt Romney",2012-10-17,3,20,FALSE,48.239229
+2012,"republican","Mitt Romney",2012-10-18,3,19,FALSE,48.144836
+2012,"republican","Mitt Romney",2012-10-19,3,18,FALSE,48.018532
+2012,"republican","Mitt Romney",2012-10-20,2,17,FALSE,48.083689
+2012,"republican","Mitt Romney",2012-10-21,2,16,FALSE,48.043882
+2012,"republican","Mitt Romney",2012-10-22,2,15,FALSE,48.12185
+2012,"republican","Mitt Romney",2012-10-23,2,14,FALSE,48.185348
+2012,"republican","Mitt Romney",2012-10-25,2,12,FALSE,48.304652
+2012,"republican","Mitt Romney",2012-10-26,2,11,FALSE,48.158635
+2012,"republican","Mitt Romney",2012-10-27,1,10,FALSE,48.051885
+2012,"republican","Mitt Romney",2012-10-28,1,9,FALSE,48.067203
+2012,"republican","Mitt Romney",2012-10-29,1,8,FALSE,47.952167
+2012,"republican","Mitt Romney",2012-10-30,1,7,FALSE,47.903375
+2012,"republican","Mitt Romney",2012-10-31,1,6,FALSE,47.803806
+2012,"republican","Mitt Romney",2012-11-01,1,5,FALSE,47.849779
+2012,"republican","Mitt Romney",2012-11-02,1,4,FALSE,47.795708
+2012,"republican","Mitt Romney",2012-11-03,0,3,FALSE,47.597424
+2012,"republican","Mitt Romney",2012-11-04,0,2,FALSE,47.672613
+2012,"republican","Mitt Romney",2012-11-05,0,1,FALSE,47.74572
+2016,"democrat","Hillary Rodham Clinton",2016-03-03,36,250,TRUE,47.38879
+2016,"democrat","Hillary Rodham Clinton",2016-03-04,36,249,TRUE,47.35847
+2016,"democrat","Hillary Rodham Clinton",2016-03-05,35,248,TRUE,47.32251
+2016,"democrat","Hillary Rodham Clinton",2016-03-06,35,247,TRUE,48.23955
+2016,"democrat","Hillary Rodham Clinton",2016-03-07,35,246,TRUE,48.1249
+2016,"democrat","Hillary Rodham Clinton",2016-03-08,35,245,TRUE,48.21116
+2016,"democrat","Hillary Rodham Clinton",2016-03-09,35,244,TRUE,48.33816
+2016,"democrat","Hillary Rodham Clinton",2016-03-10,35,243,TRUE,48.2334
+2016,"democrat","Hillary Rodham Clinton",2016-03-11,35,242,TRUE,48.10286
+2016,"democrat","Hillary Rodham Clinton",2016-03-12,34,241,TRUE,47.46333
+2016,"democrat","Hillary Rodham Clinton",2016-03-13,34,240,TRUE,47.59109
+2016,"democrat","Hillary Rodham Clinton",2016-03-14,34,239,TRUE,47.49745
+2016,"democrat","Hillary Rodham Clinton",2016-03-15,34,238,TRUE,47.66542
+2016,"democrat","Hillary Rodham Clinton",2016-03-16,34,237,TRUE,47.58393
+2016,"democrat","Hillary Rodham Clinton",2016-03-17,34,236,TRUE,47.41105
+2016,"democrat","Hillary Rodham Clinton",2016-03-18,34,235,TRUE,47.29955
+2016,"democrat","Hillary Rodham Clinton",2016-03-19,33,234,TRUE,47.12518
+2016,"democrat","Hillary Rodham Clinton",2016-03-20,33,233,TRUE,47.40889
+2016,"democrat","Hillary Rodham Clinton",2016-03-21,33,232,TRUE,47.43297
+2016,"democrat","Hillary Rodham Clinton",2016-03-22,33,231,TRUE,48.24231
+2016,"democrat","Hillary Rodham Clinton",2016-03-23,33,230,TRUE,48.27962
+2016,"democrat","Hillary Rodham Clinton",2016-03-24,33,229,TRUE,48.77098
+2016,"democrat","Hillary Rodham Clinton",2016-03-25,33,228,TRUE,48.83969
+2016,"democrat","Hillary Rodham Clinton",2016-03-26,32,227,TRUE,48.903975
+2016,"democrat","Hillary Rodham Clinton",2016-03-28,32,225,TRUE,49.04003
+2016,"democrat","Hillary Rodham Clinton",2016-03-29,32,224,TRUE,49.0709
+2016,"democrat","Hillary Rodham Clinton",2016-03-31,32,222,TRUE,49.04155
+2016,"democrat","Hillary Rodham Clinton",2016-04-01,32,221,TRUE,49.0225
+2016,"democrat","Hillary Rodham Clinton",2016-04-02,31,220,TRUE,48.81142
+2016,"democrat","Hillary Rodham Clinton",2016-04-03,31,219,TRUE,48.2974
+2016,"democrat","Hillary Rodham Clinton",2016-04-05,31,217,TRUE,48.16624
+2016,"democrat","Hillary Rodham Clinton",2016-04-06,31,216,TRUE,48.11096
+2016,"democrat","Hillary Rodham Clinton",2016-04-07,31,215,TRUE,48.1279
+2016,"democrat","Hillary Rodham Clinton",2016-04-08,31,214,TRUE,48.16901
+2016,"democrat","Hillary Rodham Clinton",2016-04-09,30,213,TRUE,48.1686
+2016,"democrat","Hillary Rodham Clinton",2016-04-10,30,212,TRUE,48.36018
+2016,"democrat","Hillary Rodham Clinton",2016-04-11,30,211,TRUE,48.60903
+2016,"democrat","Hillary Rodham Clinton",2016-04-13,30,209,TRUE,48.669585
+2016,"democrat","Hillary Rodham Clinton",2016-04-15,30,207,TRUE,48.61714
+2016,"democrat","Hillary Rodham Clinton",2016-04-16,29,206,TRUE,48.6134
+2016,"democrat","Hillary Rodham Clinton",2016-04-17,29,205,TRUE,48.79501
+2016,"democrat","Hillary Rodham Clinton",2016-04-18,29,204,TRUE,48.73502
+2016,"democrat","Hillary Rodham Clinton",2016-04-19,29,203,TRUE,48.68856
+2016,"democrat","Hillary Rodham Clinton",2016-04-20,29,202,TRUE,48.33208
+2016,"democrat","Hillary Rodham Clinton",2016-04-22,29,200,TRUE,48.27682
+2016,"democrat","Hillary Rodham Clinton",2016-04-24,28,198,TRUE,48.53803
+2016,"democrat","Hillary Rodham Clinton",2016-04-25,28,197,TRUE,48.41153
+2016,"democrat","Hillary Rodham Clinton",2016-04-26,28,196,TRUE,47.538465
+2016,"democrat","Hillary Rodham Clinton",2016-04-28,28,194,TRUE,47.481765
+2016,"democrat","Hillary Rodham Clinton",2016-04-30,27,192,TRUE,47.46349
+2016,"democrat","Hillary Rodham Clinton",2016-05-01,27,191,TRUE,47.83271
+2016,"democrat","Hillary Rodham Clinton",2016-05-02,27,190,TRUE,47.88375
+2016,"democrat","Hillary Rodham Clinton",2016-05-03,27,189,TRUE,47.87336
+2016,"democrat","Hillary Rodham Clinton",2016-05-04,27,188,TRUE,48.28608
+2016,"democrat","Hillary Rodham Clinton",2016-05-05,27,187,TRUE,48.13321
+2016,"democrat","Hillary Rodham Clinton",2016-05-06,27,186,TRUE,47.91378
+2016,"democrat","Hillary Rodham Clinton",2016-05-07,26,185,TRUE,47.86022
+2016,"democrat","Hillary Rodham Clinton",2016-05-08,26,184,TRUE,47.58167
+2016,"democrat","Hillary Rodham Clinton",2016-05-09,26,183,TRUE,46.3755
+2016,"democrat","Hillary Rodham Clinton",2016-05-10,26,182,TRUE,46.678955
+2016,"democrat","Hillary Rodham Clinton",2016-05-12,26,180,TRUE,46.43602
+2016,"democrat","Hillary Rodham Clinton",2016-05-13,26,179,TRUE,46.50868
+2016,"democrat","Hillary Rodham Clinton",2016-05-14,25,178,TRUE,46.49825
+2016,"democrat","Hillary Rodham Clinton",2016-05-15,25,177,TRUE,45.28389
+2016,"democrat","Hillary Rodham Clinton",2016-05-16,25,176,TRUE,45.22824
+2016,"democrat","Hillary Rodham Clinton",2016-05-17,25,175,TRUE,44.87046
+2016,"democrat","Hillary Rodham Clinton",2016-05-18,25,174,TRUE,44.58748
+2016,"democrat","Hillary Rodham Clinton",2016-05-19,25,173,TRUE,44.44678
+2016,"democrat","Hillary Rodham Clinton",2016-05-20,25,172,TRUE,44.449385
+2016,"democrat","Hillary Rodham Clinton",2016-05-22,24,170,TRUE,44.39217
+2016,"democrat","Hillary Rodham Clinton",2016-05-23,24,169,TRUE,44.18473
+2016,"democrat","Hillary Rodham Clinton",2016-05-24,24,168,TRUE,44.1671133333333
+2016,"democrat","Hillary Rodham Clinton",2016-05-27,24,165,TRUE,44.07299
+2016,"democrat","Hillary Rodham Clinton",2016-05-28,23,164,TRUE,44.10684
+2016,"democrat","Hillary Rodham Clinton",2016-05-29,23,163,TRUE,44.29289
+2016,"democrat","Hillary Rodham Clinton",2016-05-30,23,162,TRUE,44.07858
+2016,"democrat","Hillary Rodham Clinton",2016-05-31,23,161,TRUE,44.05272
+2016,"democrat","Hillary Rodham Clinton",2016-06-01,23,160,TRUE,44.06859
+2016,"democrat","Hillary Rodham Clinton",2016-06-04,22,157,TRUE,44.26293
+2016,"democrat","Hillary Rodham Clinton",2016-06-05,22,156,TRUE,44.19832
+2016,"democrat","Hillary Rodham Clinton",2016-06-07,22,154,TRUE,43.91096
+2016,"democrat","Hillary Rodham Clinton",2016-06-08,22,153,TRUE,42.74662
+2016,"democrat","Hillary Rodham Clinton",2016-06-09,22,152,TRUE,42.9050633333333
+2016,"democrat","Hillary Rodham Clinton",2016-06-12,21,149,TRUE,43.05914
+2016,"democrat","Hillary Rodham Clinton",2016-06-13,21,148,TRUE,42.66788
+2016,"democrat","Hillary Rodham Clinton",2016-06-15,21,146,TRUE,43.20708
+2016,"democrat","Hillary Rodham Clinton",2016-06-16,21,145,TRUE,43.733315
+2016,"democrat","Hillary Rodham Clinton",2016-06-18,20,143,TRUE,43.97888
+2016,"democrat","Hillary Rodham Clinton",2016-06-19,20,142,TRUE,43.72672
+2016,"democrat","Hillary Rodham Clinton",2016-06-20,20,141,TRUE,44.06465
+2016,"democrat","Hillary Rodham Clinton",2016-06-21,20,140,TRUE,44.27093
+2016,"democrat","Hillary Rodham Clinton",2016-06-23,20,138,TRUE,44.242685
+2016,"democrat","Hillary Rodham Clinton",2016-06-25,19,136,TRUE,44.34155
+2016,"democrat","Hillary Rodham Clinton",2016-06-26,19,135,TRUE,44.49011
+2016,"democrat","Hillary Rodham Clinton",2016-06-27,19,134,TRUE,43.98907
+2016,"democrat","Hillary Rodham Clinton",2016-06-28,19,133,TRUE,44.30521
+2016,"democrat","Hillary Rodham Clinton",2016-06-29,19,132,TRUE,43.51782
+2016,"democrat","Hillary Rodham Clinton",2016-07-02,18,129,TRUE,43.48127
+2016,"democrat","Hillary Rodham Clinton",2016-07-03,18,128,TRUE,43.41246
+2016,"democrat","Hillary Rodham Clinton",2016-07-04,18,127,TRUE,43.48192
+2016,"democrat","Hillary Rodham Clinton",2016-07-05,18,126,TRUE,43.42197
+2016,"democrat","Hillary Rodham Clinton",2016-07-06,18,125,TRUE,43.407595
+2016,"democrat","Hillary Rodham Clinton",2016-07-08,18,123,TRUE,43.35671
+2016,"democrat","Hillary Rodham Clinton",2016-07-09,17,122,TRUE,42.88163
+2016,"democrat","Hillary Rodham Clinton",2016-07-10,17,121,TRUE,42.67928
+2016,"democrat","Hillary Rodham Clinton",2016-07-11,17,120,TRUE,42.60842
+2016,"democrat","Hillary Rodham Clinton",2016-07-12,17,119,TRUE,42.03815
+2016,"democrat","Hillary Rodham Clinton",2016-07-13,17,118,TRUE,41.99547
+2016,"democrat","Hillary Rodham Clinton",2016-07-14,17,117,TRUE,42.15539
+2016,"democrat","Hillary Rodham Clinton",2016-07-15,17,116,TRUE,42.10009
+2016,"democrat","Hillary Rodham Clinton",2016-07-16,16,115,TRUE,42.23518
+2016,"democrat","Hillary Rodham Clinton",2016-07-17,16,114,TRUE,42.32452
+2016,"democrat","Hillary Rodham Clinton",2016-07-18,16,113,TRUE,42.18048
+2016,"democrat","Hillary Rodham Clinton",2016-07-19,16,112,TRUE,42.348885
+2016,"democrat","Hillary Rodham Clinton",2016-07-21,16,110,TRUE,42.23481
+2016,"democrat","Hillary Rodham Clinton",2016-07-22,16,109,TRUE,42.18811
+2016,"democrat","Hillary Rodham Clinton",2016-07-23,15,108,TRUE,42.47025
+2016,"democrat","Hillary Rodham Clinton",2016-07-24,15,107,TRUE,41.50692
+2016,"democrat","Hillary Rodham Clinton",2016-07-26,15,105,TRUE,41.05025
+2016,"democrat","Hillary Rodham Clinton",2016-07-27,15,104,TRUE,43.383085
+2016,"democrat","Hillary Rodham Clinton",2016-07-29,15,102,TRUE,44.01765
+2016,"democrat","Hillary Rodham Clinton",2016-07-30,14,101,TRUE,44.589055
+2016,"democrat","Hillary Rodham Clinton",2016-08-01,14,99,TRUE,44.69228
+2016,"democrat","Hillary Rodham Clinton",2016-08-02,14,98,TRUE,45.10708
+2016,"democrat","Hillary Rodham Clinton",2016-08-03,14,97,TRUE,44.9605
+2016,"democrat","Hillary Rodham Clinton",2016-08-04,14,96,TRUE,45.1073
+2016,"democrat","Hillary Rodham Clinton",2016-08-05,14,95,TRUE,45.214625
+2016,"democrat","Hillary Rodham Clinton",2016-08-07,13,93,TRUE,45.64571
+2016,"democrat","Hillary Rodham Clinton",2016-08-08,13,92,TRUE,45.50704
+2016,"democrat","Hillary Rodham Clinton",2016-08-09,13,91,TRUE,45.08843
+2016,"democrat","Hillary Rodham Clinton",2016-08-10,13,90,TRUE,45.11343
+2016,"democrat","Hillary Rodham Clinton",2016-08-11,13,89,TRUE,45.00074
+2016,"democrat","Hillary Rodham Clinton",2016-08-12,13,88,TRUE,45.05894
+2016,"democrat","Hillary Rodham Clinton",2016-08-13,12,87,TRUE,44.74857
+2016,"democrat","Hillary Rodham Clinton",2016-08-15,12,85,TRUE,44.73889
+2016,"democrat","Hillary Rodham Clinton",2016-08-16,12,84,TRUE,44.21989
+2016,"democrat","Hillary Rodham Clinton",2016-08-18,12,82,TRUE,44.09953
+2016,"democrat","Hillary Rodham Clinton",2016-08-19,12,81,TRUE,44.05559
+2016,"democrat","Hillary Rodham Clinton",2016-08-20,11,80,TRUE,44.07226
+2016,"democrat","Hillary Rodham Clinton",2016-08-21,11,79,TRUE,44.04297
+2016,"democrat","Hillary Rodham Clinton",2016-08-22,11,78,TRUE,43.96475
+2016,"democrat","Hillary Rodham Clinton",2016-08-23,11,77,TRUE,43.78408
+2016,"democrat","Hillary Rodham Clinton",2016-08-24,11,76,TRUE,43.86934
+2016,"democrat","Hillary Rodham Clinton",2016-08-25,11,75,TRUE,43.96629
+2016,"democrat","Hillary Rodham Clinton",2016-08-26,11,74,TRUE,43.88086
+2016,"democrat","Hillary Rodham Clinton",2016-08-27,10,73,TRUE,43.86806
+2016,"democrat","Hillary Rodham Clinton",2016-08-28,10,72,FALSE,43.86472
+2016,"democrat","Hillary Rodham Clinton",2016-08-29,10,71,FALSE,43.79922
+2016,"democrat","Hillary Rodham Clinton",2016-08-30,10,70,FALSE,43.562985
+2016,"democrat","Hillary Rodham Clinton",2016-09-01,10,68,FALSE,43.36223
+2016,"democrat","Hillary Rodham Clinton",2016-09-02,10,67,FALSE,43.23134
+2016,"democrat","Hillary Rodham Clinton",2016-09-04,9,65,FALSE,43.015925
+2016,"democrat","Hillary Rodham Clinton",2016-09-06,9,63,FALSE,42.90587
+2016,"democrat","Hillary Rodham Clinton",2016-09-07,9,62,FALSE,42.9903
+2016,"democrat","Hillary Rodham Clinton",2016-09-08,9,61,FALSE,42.85388
+2016,"democrat","Hillary Rodham Clinton",2016-09-10,8,59,FALSE,42.73341
+2016,"democrat","Hillary Rodham Clinton",2016-09-11,8,58,FALSE,42.7317
+2016,"democrat","Hillary Rodham Clinton",2016-09-12,8,57,FALSE,42.66032
+2016,"democrat","Hillary Rodham Clinton",2016-09-13,8,56,FALSE,42.67202
+2016,"democrat","Hillary Rodham Clinton",2016-09-14,8,55,FALSE,42.61724
+2016,"democrat","Hillary Rodham Clinton",2016-09-15,8,54,FALSE,42.56108
+2016,"democrat","Hillary Rodham Clinton",2016-09-16,8,53,FALSE,42.71588
+2016,"democrat","Hillary Rodham Clinton",2016-09-17,7,52,FALSE,42.61554
+2016,"democrat","Hillary Rodham Clinton",2016-09-18,7,51,FALSE,42.66088
+2016,"democrat","Hillary Rodham Clinton",2016-09-19,7,50,FALSE,42.72853
+2016,"democrat","Hillary Rodham Clinton",2016-09-20,7,49,FALSE,42.84356
+2016,"democrat","Hillary Rodham Clinton",2016-09-21,7,48,FALSE,42.87093
+2016,"democrat","Hillary Rodham Clinton",2016-09-22,7,47,FALSE,43.10991
+2016,"democrat","Hillary Rodham Clinton",2016-09-23,7,46,FALSE,43.06268
+2016,"democrat","Hillary Rodham Clinton",2016-09-24,6,45,FALSE,42.94504
+2016,"democrat","Hillary Rodham Clinton",2016-09-25,6,44,FALSE,43.09499
+2016,"democrat","Hillary Rodham Clinton",2016-09-26,6,43,FALSE,43.142
+2016,"democrat","Hillary Rodham Clinton",2016-09-27,6,42,FALSE,43.58094
+2016,"democrat","Hillary Rodham Clinton",2016-09-28,6,41,FALSE,43.67243
+2016,"democrat","Hillary Rodham Clinton",2016-09-29,6,40,FALSE,43.86481
+2016,"democrat","Hillary Rodham Clinton",2016-09-30,6,39,FALSE,43.96511
+2016,"democrat","Hillary Rodham Clinton",2016-10-02,5,37,FALSE,44.25141
+2016,"democrat","Hillary Rodham Clinton",2016-10-03,5,36,FALSE,44.31591
+2016,"democrat","Hillary Rodham Clinton",2016-10-04,5,35,FALSE,44.3817
+2016,"democrat","Hillary Rodham Clinton",2016-10-05,5,34,FALSE,44.71149
+2016,"democrat","Hillary Rodham Clinton",2016-10-06,5,33,FALSE,44.8007
+2016,"democrat","Hillary Rodham Clinton",2016-10-07,5,32,FALSE,44.92714
+2016,"democrat","Hillary Rodham Clinton",2016-10-08,4,31,FALSE,44.90359
+2016,"democrat","Hillary Rodham Clinton",2016-10-09,4,30,FALSE,45.09569
+2016,"democrat","Hillary Rodham Clinton",2016-10-10,4,29,FALSE,45.48658
+2016,"democrat","Hillary Rodham Clinton",2016-10-11,4,28,FALSE,45.5005
+2016,"democrat","Hillary Rodham Clinton",2016-10-12,4,27,FALSE,45.36531
+2016,"democrat","Hillary Rodham Clinton",2016-10-13,4,26,FALSE,45.54258
+2016,"democrat","Hillary Rodham Clinton",2016-10-14,4,25,FALSE,45.62275
+2016,"democrat","Hillary Rodham Clinton",2016-10-15,3,24,FALSE,45.60066
+2016,"democrat","Hillary Rodham Clinton",2016-10-16,3,23,FALSE,45.85267
+2016,"democrat","Hillary Rodham Clinton",2016-10-17,3,22,FALSE,45.94299
+2016,"democrat","Hillary Rodham Clinton",2016-10-18,3,21,FALSE,46.04335
+2016,"democrat","Hillary Rodham Clinton",2016-10-19,3,20,FALSE,46.02682
+2016,"democrat","Hillary Rodham Clinton",2016-10-20,3,19,FALSE,46.03537
+2016,"democrat","Hillary Rodham Clinton",2016-10-21,3,18,FALSE,46.05991
+2016,"democrat","Hillary Rodham Clinton",2016-10-23,2,16,FALSE,46.29092
+2016,"democrat","Hillary Rodham Clinton",2016-10-24,2,15,FALSE,46.42565
+2016,"democrat","Hillary Rodham Clinton",2016-10-25,2,14,FALSE,46.22855
+2016,"democrat","Hillary Rodham Clinton",2016-10-26,2,13,FALSE,46.2124
+2016,"democrat","Hillary Rodham Clinton",2016-10-28,2,11,FALSE,46.10809
+2016,"democrat","Hillary Rodham Clinton",2016-10-29,1,10,FALSE,46.00624
+2016,"democrat","Hillary Rodham Clinton",2016-10-30,1,9,FALSE,46.17724
+2016,"democrat","Hillary Rodham Clinton",2016-10-31,1,8,FALSE,46.06395
+2016,"democrat","Hillary Rodham Clinton",2016-11-01,1,7,FALSE,45.89027
+2016,"democrat","Hillary Rodham Clinton",2016-11-02,1,6,FALSE,45.96022
+2016,"democrat","Hillary Rodham Clinton",2016-11-03,1,5,FALSE,45.73878
+2016,"democrat","Hillary Rodham Clinton",2016-11-04,1,4,FALSE,45.82545
+2016,"democrat","Hillary Rodham Clinton",2016-11-05,0,3,FALSE,45.7489
+2016,"democrat","Hillary Rodham Clinton",2016-11-07,0,1,FALSE,45.83657
+2016,"republican","Donald Trump",2016-03-03,36,250,TRUE,42.9214
+2016,"republican","Donald Trump",2016-03-04,36,249,TRUE,42.70839
+2016,"republican","Donald Trump",2016-03-05,35,248,TRUE,42.56142
+2016,"republican","Donald Trump",2016-03-06,35,247,TRUE,41.99857
+2016,"republican","Donald Trump",2016-03-07,35,246,TRUE,41.91603
+2016,"republican","Donald Trump",2016-03-08,35,245,TRUE,41.82387
+2016,"republican","Donald Trump",2016-03-09,35,244,TRUE,41.71922
+2016,"republican","Donald Trump",2016-03-10,35,243,TRUE,41.80345
+2016,"republican","Donald Trump",2016-03-11,35,242,TRUE,41.98511
+2016,"republican","Donald Trump",2016-03-12,34,241,TRUE,42.36272
+2016,"republican","Donald Trump",2016-03-13,34,240,TRUE,42.206045
+2016,"republican","Donald Trump",2016-03-15,34,238,TRUE,42.36718
+2016,"republican","Donald Trump",2016-03-16,34,237,TRUE,42.30458
+2016,"republican","Donald Trump",2016-03-17,34,236,TRUE,42.39415
+2016,"republican","Donald Trump",2016-03-18,34,235,TRUE,42.348585
+2016,"republican","Donald Trump",2016-03-20,33,233,TRUE,41.60321
+2016,"republican","Donald Trump",2016-03-21,33,232,TRUE,41.57635
+2016,"republican","Donald Trump",2016-03-22,33,231,TRUE,40.85947
+2016,"republican","Donald Trump",2016-03-23,33,230,TRUE,40.78848
+2016,"republican","Donald Trump",2016-03-24,33,229,TRUE,40.57411
+2016,"republican","Donald Trump",2016-03-25,33,228,TRUE,40.45993
+2016,"republican","Donald Trump",2016-03-26,32,227,TRUE,40.623685
+2016,"republican","Donald Trump",2016-03-28,32,225,TRUE,40.47565
+2016,"republican","Donald Trump",2016-03-29,32,224,TRUE,40.43441
+2016,"republican","Donald Trump",2016-03-31,32,222,TRUE,40.71584
+2016,"republican","Donald Trump",2016-04-01,32,221,TRUE,40.68798
+2016,"republican","Donald Trump",2016-04-02,31,220,TRUE,40.36971
+2016,"republican","Donald Trump",2016-04-03,31,219,TRUE,40.13267
+2016,"republican","Donald Trump",2016-04-04,31,218,TRUE,40.04482
+2016,"republican","Donald Trump",2016-04-05,31,217,TRUE,40.12203
+2016,"republican","Donald Trump",2016-04-06,31,216,TRUE,40.04702
+2016,"republican","Donald Trump",2016-04-07,31,215,TRUE,39.94262
+2016,"republican","Donald Trump",2016-04-08,31,214,TRUE,39.87044
+2016,"republican","Donald Trump",2016-04-09,30,213,TRUE,39.83619
+2016,"republican","Donald Trump",2016-04-10,30,212,TRUE,39.59174
+2016,"republican","Donald Trump",2016-04-11,30,211,TRUE,39.56086
+2016,"republican","Donald Trump",2016-04-12,30,210,TRUE,40.00294
+2016,"republican","Donald Trump",2016-04-13,30,209,TRUE,40.42749
+2016,"republican","Donald Trump",2016-04-15,30,207,TRUE,40.65237
+2016,"republican","Donald Trump",2016-04-16,29,206,TRUE,40.67388
+2016,"republican","Donald Trump",2016-04-17,29,205,TRUE,40.71966
+2016,"republican","Donald Trump",2016-04-19,29,203,TRUE,40.81068
+2016,"republican","Donald Trump",2016-04-20,29,202,TRUE,40.93461
+2016,"republican","Donald Trump",2016-04-22,29,200,TRUE,41.217185
+2016,"republican","Donald Trump",2016-04-24,28,198,TRUE,40.76301
+2016,"republican","Donald Trump",2016-04-25,28,197,TRUE,40.88538
+2016,"republican","Donald Trump",2016-04-26,28,196,TRUE,40.95969
+2016,"republican","Donald Trump",2016-04-28,28,194,TRUE,41.36185
+2016,"republican","Donald Trump",2016-04-29,28,193,TRUE,41.55264
+2016,"republican","Donald Trump",2016-05-01,27,191,TRUE,41.51591
+2016,"republican","Donald Trump",2016-05-02,27,190,TRUE,41.58704
+2016,"republican","Donald Trump",2016-05-03,27,189,TRUE,41.66159
+2016,"republican","Donald Trump",2016-05-04,27,188,TRUE,41.76783
+2016,"republican","Donald Trump",2016-05-05,27,187,TRUE,41.97034
+2016,"republican","Donald Trump",2016-05-06,27,186,TRUE,42.08199
+2016,"republican","Donald Trump",2016-05-07,26,185,TRUE,42.07001
+2016,"republican","Donald Trump",2016-05-08,26,184,TRUE,43.31971
+2016,"republican","Donald Trump",2016-05-09,26,183,TRUE,42.08594
+2016,"republican","Donald Trump",2016-05-10,26,182,TRUE,42.466455
+2016,"republican","Donald Trump",2016-05-12,26,180,TRUE,42.62192
+2016,"republican","Donald Trump",2016-05-13,26,179,TRUE,42.68681
+2016,"republican","Donald Trump",2016-05-14,25,178,TRUE,42.67084
+2016,"republican","Donald Trump",2016-05-15,25,177,TRUE,42.41125
+2016,"republican","Donald Trump",2016-05-16,25,176,TRUE,42.45411
+2016,"republican","Donald Trump",2016-05-17,25,175,TRUE,42.54057
+2016,"republican","Donald Trump",2016-05-18,25,174,TRUE,42.72803
+2016,"republican","Donald Trump",2016-05-19,25,173,TRUE,43.21142
+2016,"republican","Donald Trump",2016-05-20,25,172,TRUE,43.59252
+2016,"republican","Donald Trump",2016-05-22,24,170,TRUE,43.65593
+2016,"republican","Donald Trump",2016-05-23,24,169,TRUE,43.43075
+2016,"republican","Donald Trump",2016-05-24,24,168,TRUE,43.37062
+2016,"republican","Donald Trump",2016-05-26,24,166,TRUE,43.45782
+2016,"republican","Donald Trump",2016-05-27,24,165,TRUE,43.43723
+2016,"republican","Donald Trump",2016-05-28,23,164,TRUE,43.359
+2016,"republican","Donald Trump",2016-05-29,23,163,TRUE,43.47695
+2016,"republican","Donald Trump",2016-05-30,23,162,TRUE,42.9847
+2016,"republican","Donald Trump",2016-05-31,23,161,TRUE,42.94847
+2016,"republican","Donald Trump",2016-06-01,23,160,TRUE,42.818915
+2016,"republican","Donald Trump",2016-06-03,23,158,TRUE,42.52071
+2016,"republican","Donald Trump",2016-06-04,22,157,TRUE,42.34121
+2016,"republican","Donald Trump",2016-06-05,22,156,TRUE,41.8954
+2016,"republican","Donald Trump",2016-06-06,22,155,TRUE,41.71124
+2016,"republican","Donald Trump",2016-06-07,22,154,TRUE,41.77028
+2016,"republican","Donald Trump",2016-06-08,22,153,TRUE,39.81857
+2016,"republican","Donald Trump",2016-06-09,22,152,TRUE,38.80278
+2016,"republican","Donald Trump",2016-06-12,21,149,TRUE,38.14864
+2016,"republican","Donald Trump",2016-06-13,21,148,TRUE,37.809935
+2016,"republican","Donald Trump",2016-06-15,21,146,TRUE,37.97659
+2016,"republican","Donald Trump",2016-06-16,21,145,TRUE,38.3853366666667
+2016,"republican","Donald Trump",2016-06-19,20,142,TRUE,38.36926
+2016,"republican","Donald Trump",2016-06-20,20,141,TRUE,38.82962
+2016,"republican","Donald Trump",2016-06-21,20,140,TRUE,38.808015
+2016,"republican","Donald Trump",2016-06-23,20,138,TRUE,38.7165
+2016,"republican","Donald Trump",2016-06-24,20,137,TRUE,38.77316
+2016,"republican","Donald Trump",2016-06-25,19,136,TRUE,38.77773
+2016,"republican","Donald Trump",2016-06-26,19,135,TRUE,38.78666
+2016,"republican","Donald Trump",2016-06-27,19,134,TRUE,38.40215
+2016,"republican","Donald Trump",2016-06-28,19,133,TRUE,38.66706
+2016,"republican","Donald Trump",2016-06-29,19,132,TRUE,38.724215
+2016,"republican","Donald Trump",2016-07-01,19,130,TRUE,39.03957
+2016,"republican","Donald Trump",2016-07-02,18,129,TRUE,39.12633
+2016,"republican","Donald Trump",2016-07-03,18,128,TRUE,39.22176
+2016,"republican","Donald Trump",2016-07-04,18,127,TRUE,39.1653
+2016,"republican","Donald Trump",2016-07-05,18,126,TRUE,39.11433
+2016,"republican","Donald Trump",2016-07-06,18,125,TRUE,39.277235
+2016,"republican","Donald Trump",2016-07-08,18,123,TRUE,39.5132
+2016,"republican","Donald Trump",2016-07-09,17,122,TRUE,38.74421
+2016,"republican","Donald Trump",2016-07-10,17,121,TRUE,39.06358
+2016,"republican","Donald Trump",2016-07-11,17,120,TRUE,39.00086
+2016,"republican","Donald Trump",2016-07-12,17,119,TRUE,38.97839
+2016,"republican","Donald Trump",2016-07-13,17,118,TRUE,39.00632
+2016,"republican","Donald Trump",2016-07-14,17,117,TRUE,39.07936
+2016,"republican","Donald Trump",2016-07-15,17,116,TRUE,38.94312
+2016,"republican","Donald Trump",2016-07-16,16,115,TRUE,39.37487
+2016,"republican","Donald Trump",2016-07-17,16,114,TRUE,39.725865
+2016,"republican","Donald Trump",2016-07-19,16,112,TRUE,40.411825
+2016,"republican","Donald Trump",2016-07-20,16,111,TRUE,40.48289
+2016,"republican","Donald Trump",2016-07-22,16,109,TRUE,41.62041
+2016,"republican","Donald Trump",2016-07-23,15,108,TRUE,42.63998
+2016,"republican","Donald Trump",2016-07-24,15,107,TRUE,43.35638
+2016,"republican","Donald Trump",2016-07-26,15,105,TRUE,43.95656
+2016,"republican","Donald Trump",2016-07-27,15,104,TRUE,42.72345
+2016,"republican","Donald Trump",2016-07-29,15,102,TRUE,41.86614
+2016,"republican","Donald Trump",2016-07-30,14,101,TRUE,41.31393
+2016,"republican","Donald Trump",2016-07-31,14,100,TRUE,40.59044
+2016,"republican","Donald Trump",2016-08-01,14,99,TRUE,40.22011
+2016,"republican","Donald Trump",2016-08-02,14,98,TRUE,39.578475
+2016,"republican","Donald Trump",2016-08-04,14,96,TRUE,39.03553
+2016,"republican","Donald Trump",2016-08-05,14,95,TRUE,38.79219
+2016,"republican","Donald Trump",2016-08-06,13,94,TRUE,38.62396
+2016,"republican","Donald Trump",2016-08-07,13,93,TRUE,38.53794
+2016,"republican","Donald Trump",2016-08-08,13,92,TRUE,38.68027
+2016,"republican","Donald Trump",2016-08-09,13,91,TRUE,37.84196
+2016,"republican","Donald Trump",2016-08-10,13,90,TRUE,37.84456
+2016,"republican","Donald Trump",2016-08-11,13,89,TRUE,37.80242
+2016,"republican","Donald Trump",2016-08-12,13,88,TRUE,37.68069
+2016,"republican","Donald Trump",2016-08-13,12,87,TRUE,37.52863
+2016,"republican","Donald Trump",2016-08-15,12,85,TRUE,37.59656
+2016,"republican","Donald Trump",2016-08-16,12,84,TRUE,37.519565
+2016,"republican","Donald Trump",2016-08-18,12,82,TRUE,37.50729
+2016,"republican","Donald Trump",2016-08-19,12,81,TRUE,37.49392
+2016,"republican","Donald Trump",2016-08-20,11,80,TRUE,37.85382
+2016,"republican","Donald Trump",2016-08-21,11,79,FALSE,37.88445
+2016,"republican","Donald Trump",2016-08-22,11,78,FALSE,37.97769
+2016,"republican","Donald Trump",2016-08-23,11,77,FALSE,37.91701
+2016,"republican","Donald Trump",2016-08-24,11,76,FALSE,38.191065
+2016,"republican","Donald Trump",2016-08-26,11,74,FALSE,38.44696
+2016,"republican","Donald Trump",2016-08-27,10,73,FALSE,38.46603
+2016,"republican","Donald Trump",2016-08-28,10,72,FALSE,38.58344
+2016,"republican","Donald Trump",2016-08-29,10,71,FALSE,38.56061
+2016,"republican","Donald Trump",2016-08-30,10,70,FALSE,38.75118
+2016,"republican","Donald Trump",2016-08-31,10,69,FALSE,38.90142
+2016,"republican","Donald Trump",2016-09-01,10,68,FALSE,38.94855
+2016,"republican","Donald Trump",2016-09-02,10,67,FALSE,39.040445
+2016,"republican","Donald Trump",2016-09-04,9,65,FALSE,39.619725
+2016,"republican","Donald Trump",2016-09-06,9,63,FALSE,39.60244
+2016,"republican","Donald Trump",2016-09-07,9,62,FALSE,39.52224
+2016,"republican","Donald Trump",2016-09-08,9,61,FALSE,39.57595
+2016,"republican","Donald Trump",2016-09-10,8,59,FALSE,39.83234
+2016,"republican","Donald Trump",2016-09-11,8,58,FALSE,39.98423
+2016,"republican","Donald Trump",2016-09-12,8,57,FALSE,39.95979
+2016,"republican","Donald Trump",2016-09-13,8,56,FALSE,40.15223
+2016,"republican","Donald Trump",2016-09-14,8,55,FALSE,40.20077
+2016,"republican","Donald Trump",2016-09-15,8,54,FALSE,40.35649
+2016,"republican","Donald Trump",2016-09-16,8,53,FALSE,40.59585
+2016,"republican","Donald Trump",2016-09-18,7,51,FALSE,40.81042
+2016,"republican","Donald Trump",2016-09-19,7,50,FALSE,40.52131
+2016,"republican","Donald Trump",2016-09-20,7,49,FALSE,40.44974
+2016,"republican","Donald Trump",2016-09-21,7,48,FALSE,40.64812
+2016,"republican","Donald Trump",2016-09-23,7,46,FALSE,40.91531
+2016,"republican","Donald Trump",2016-09-24,6,45,FALSE,41.06914
+2016,"republican","Donald Trump",2016-09-25,6,44,FALSE,41.106
+2016,"republican","Donald Trump",2016-09-26,6,43,FALSE,41.15646
+2016,"republican","Donald Trump",2016-09-27,6,42,FALSE,41.47009
+2016,"republican","Donald Trump",2016-09-28,6,41,FALSE,41.51085
+2016,"republican","Donald Trump",2016-09-29,6,40,FALSE,41.20408
+2016,"republican","Donald Trump",2016-09-30,6,39,FALSE,41.16262
+2016,"republican","Donald Trump",2016-10-01,5,38,FALSE,41.17638
+2016,"republican","Donald Trump",2016-10-02,5,37,FALSE,40.74185
+2016,"republican","Donald Trump",2016-10-03,5,36,FALSE,40.787995
+2016,"republican","Donald Trump",2016-10-05,5,34,FALSE,40.68992
+2016,"republican","Donald Trump",2016-10-06,5,33,FALSE,40.76584
+2016,"republican","Donald Trump",2016-10-07,5,32,FALSE,40.65306
+2016,"republican","Donald Trump",2016-10-08,4,31,FALSE,40.28131
+2016,"republican","Donald Trump",2016-10-10,4,29,FALSE,39.57233
+2016,"republican","Donald Trump",2016-10-11,4,28,FALSE,39.50127
+2016,"republican","Donald Trump",2016-10-12,4,27,FALSE,39.49031
+2016,"republican","Donald Trump",2016-10-13,4,26,FALSE,39.53561
+2016,"republican","Donald Trump",2016-10-14,4,25,FALSE,39.45668
+2016,"republican","Donald Trump",2016-10-15,3,24,FALSE,39.324
+2016,"republican","Donald Trump",2016-10-16,3,23,FALSE,39.19754
+2016,"republican","Donald Trump",2016-10-17,3,22,FALSE,39.04126
+2016,"republican","Donald Trump",2016-10-18,3,21,FALSE,39.30629
+2016,"republican","Donald Trump",2016-10-19,3,20,FALSE,39.25536
+2016,"republican","Donald Trump",2016-10-20,3,19,FALSE,39.16004
+2016,"republican","Donald Trump",2016-10-21,3,18,FALSE,39.1848
+2016,"republican","Donald Trump",2016-10-22,2,17,FALSE,39.16642
+2016,"republican","Donald Trump",2016-10-23,2,16,FALSE,39.62996
+2016,"republican","Donald Trump",2016-10-24,2,15,FALSE,39.46993
+2016,"republican","Donald Trump",2016-10-25,2,14,FALSE,39.69205
+2016,"republican","Donald Trump",2016-10-26,2,13,FALSE,39.830565
+2016,"republican","Donald Trump",2016-10-28,2,11,FALSE,40.00899
+2016,"republican","Donald Trump",2016-10-29,1,10,FALSE,40.18305
+2016,"republican","Donald Trump",2016-10-30,1,9,FALSE,40.33835
+2016,"republican","Donald Trump",2016-10-31,1,8,FALSE,40.48593
+2016,"republican","Donald Trump",2016-11-01,1,7,FALSE,40.66982
+2016,"republican","Donald Trump",2016-11-02,1,6,FALSE,40.81816
+2016,"republican","Donald Trump",2016-11-04,1,4,FALSE,41.28327
+2016,"republican","Donald Trump",2016-11-05,0,3,FALSE,41.4508
+2016,"republican","Donald Trump",2016-11-06,0,2,FALSE,41.65689
+2016,"republican","Donald Trump",2016-11-07,0,1,FALSE,41.88613
