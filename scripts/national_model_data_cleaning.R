@@ -3,7 +3,7 @@
 
 library(tidyverse)
 
-# Cleaning data for the National Model
+# Loading in raw data
 
 polls_past <- read_csv("raw-data/pollavg_1968-2016.csv")
 polls_2020 <- read_csv("raw-data/president_polls.csv")
