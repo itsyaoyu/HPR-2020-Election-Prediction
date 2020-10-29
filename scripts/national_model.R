@@ -17,7 +17,7 @@ econ <- read_csv("data/econ_clean.csv")
 
 full_data <- polls_past %>% 
   inner_join(past_elections, by = c("year", "party")) %>% 
-  inner_join(econ, by = "year")
+  inner_join(econ %>% mutate(year = year + 1), by = "year")
 
 # Training models
 # 1) pv2p ~ average_poll + party
@@ -77,7 +77,7 @@ data_2020 <- polls_2020 %>%
            party == "democrat" ~ FALSE
          ),
          incumbent_party = incumbent,
-         average_gdp = econ %>% filter(year == 2020) %>% pull(average_gdp))
+         average_gdp = econ %>% filter(year == 2019) %>% pull(average_gdp))
 
 # Predicting 2020 using model 5
 

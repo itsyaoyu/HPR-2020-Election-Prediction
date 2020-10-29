@@ -59,14 +59,13 @@ past_elections_clean <- past_elections %>%
 # Cleaning for economic data:
 # 1) Selecting year, quarter, GDP_growth_qt
 # 2) Dropping NAs
-# 3) Filtering for election year and removing Q4 data
+# 3) Filtering for year before election year (due to covid)
 # 4) Averaging GDP per year
 
 econ_clean <- econ %>% 
   select(year, quarter, GDP_growth_qt) %>% 
   drop_na() %>% 
-  filter(year %% 4 == 0,
-         quarter != 4) %>% 
+  filter((year + 1) %% 4 == 0) %>% 
   group_by(year) %>% 
   summarize(average_gdp = mean(GDP_growth_qt), .groups = "drop")
   
