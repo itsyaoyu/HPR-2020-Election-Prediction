@@ -67,3 +67,20 @@ model_outputs <- export_summs(model_1$finalModel, model_2$finalModel, model_3$fi
                             sigma = "sigma"))
 
 # quick_pdf(model_outputs, file = "graphics/national_models.pdf")
+
+# Joining data for 2020 prediction
+
+data_2020 <- polls_2020 %>% 
+  mutate(last_pv2p = past_elections %>% filter(year == 2016) %>% pull(last_pv2p),
+         incumbent = case_when(
+           party == "republican" ~ TRUE,
+           party == "democrat" ~ FALSE
+         ),
+         incumbent_party = incumbent,
+         average_gdp = econ %>% filter(year == 2020) %>% pull(average_gdp))
+
+# Predicting 2020 using model 5
+
+final_model <- lm(pv2p ~ average_poll + incumbent_party*average_gdp, data = full_data)
+
+pred_2020 <- predict.lm(object = final_model, newdata = data_2020, se.fit=TRUE, interval="confidence", level=0.95)
