@@ -56,8 +56,6 @@ past_elections_clean <- past_elections %>%
 
 # write_csv(past_elections_clean, "data/popvote_1948-2016_clean.csv")  
 
-# NOTE: Get Q3 GDP data: https://www.bea.gov/data/gdp/gross-domestic-product
-
 # Cleaning for economic data:
 # 1) Selecting year, quarter, GDP_growth_qt
 # 2) Dropping NAs
