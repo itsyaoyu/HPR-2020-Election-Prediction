@@ -44,7 +44,7 @@ polls_2020_state_clean <- polls_2020 %>%
   )) %>% 
   rename(party = candidate_party)
 
-# write_csv(polls_2020_state_clean, "data/polls_2020_state_clean.csv")
+# write_csv(polls_2020_state_clean, "data/president_polls_state_clean.csv")
 
 # Cleaning for past elections:
 # 1) Pivoting R_pv2p and D_pv2p and fixing party names
@@ -65,6 +65,6 @@ past_elections_state_clean <- past_elections_state %>%
   left_join(past_elections %>% 
               select(year, party, winner, incumbent, incumbent_party), by = c("year", "party"))
 
-# write_csv(past_elections_state_clean, "data/past_elections_state_clean.csv")  
+# write_csv(past_elections_state_clean, "data/popvote_bystate_1948-2016_clean.csv")  
 
 # GDP Data Cleaning is located in the national_model_data_cleaning.R file
