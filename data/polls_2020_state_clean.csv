@@ -1,99 +1,99 @@
 party,state,average_poll
-democrat,Alabama,39.84866666666667
-democrat,Alaska,44.42757575757576
-democrat,Arizona,49.93301204819277
-democrat,Arkansas,39.81103448275862
-democrat,California,62.113235294117644
-democrat,Colorado,56.31925
-democrat,Connecticut,62.125
-democrat,Delaware,63.179655172413796
-democrat,District of Columbia,87.13285714285715
-democrat,Florida,48.84640449438202
-democrat,Georgia,48.72295081967213
-democrat,Hawaii,64.42137931034483
-democrat,Idaho,39.039655172413795
-democrat,Illinois,58.86344827586207
-democrat,Indiana,44.028
-democrat,Iowa,47.79903846153846
-democrat,Kansas,45.605714285714285
-democrat,Kentucky,40.4721875
-democrat,Louisiana,41.199
-democrat,Maryland,65.939375
-democrat,Massachusetts,68.92892857142857
-democrat,Michigan,50.993720930232556
-democrat,Minnesota,53.14787234042553
-democrat,Mississippi,41.6575
-democrat,Missouri,45.32588235294118
-democrat,Montana,43.87486486486487
-democrat,Nevada,51.051842105263155
-democrat,New Hampshire,55.007894736842104
-democrat,New Jersey,59.434411764705885
-democrat,New Mexico,52.957741935483874
-democrat,New York,64.47206896551724
-democrat,North Carolina,49.593333333333334
-democrat,North Dakota,38.656333333333336
-democrat,Ohio,47.22352941176471
-democrat,Oklahoma,39.83064516129032
-democrat,Oregon,59.70433333333333
-democrat,Pennsylvania,50.85908163265306
-democrat,Rhode Island,66.93035714285715
-democrat,South Carolina,45.154871794871795
-democrat,South Dakota,43.316896551724135
-democrat,Tennessee,41.82964285714286
-democrat,Texas,47.18454545454546
-democrat,Utah,43.8058064516129
-democrat,Vermont,65.2048275862069
-democrat,Virginia,54.84542857142857
-democrat,Washington,60.62806451612903
-democrat,West Virginia,33.994193548387095
-democrat,Wisconsin,51.4621
-democrat,Wyoming,32.809285714285714
-republican,Alabama,57.67633333333333
-republican,Alaska,52.096666666666664
-republican,Arizona,45.075301204819276
-republican,Arkansas,57.76827586206897
-republican,California,34.726470588235294
-republican,Colorado,39.98625
-republican,Connecticut,34.78964285714286
-republican,Delaware,34.39655172413793
-republican,District of Columbia,10.273214285714285
-republican,Florida,46.556516853932585
-republican,Georgia,46.98573770491803
-republican,Hawaii,33.00344827586207
-republican,Idaho,58.6
-republican,Illinois,38.12586206896552
-republican,Indiana,53.285666666666664
-republican,Iowa,48.39096153846154
-republican,Kansas,51.93
-republican,Kentucky,57.3053125
-republican,Louisiana,55.724000000000004
-republican,Maryland,31.153125
-republican,Massachusetts,28.886785714285715
-republican,Michigan,43.41069767441861
-republican,Minnesota,42.375744680851064
-republican,Mississippi,56.6775
-republican,Missouri,51.93147058823529
-republican,Montana,53.07783783783784
-republican,Nevada,45.62315789473684
-republican,New Hampshire,42.595
-republican,New Jersey,35.97147058823529
-republican,New Mexico,44.814193548387095
-republican,New York,32.42793103448276
-republican,North Carolina,45.98811111111111
-republican,North Dakota,59.181
-republican,Ohio,48.974901960784315
-republican,Oklahoma,57.93483870967742
-republican,Oregon,38.416
-republican,Pennsylvania,44.60163265306122
-republican,Rhode Island,31.895714285714284
-republican,South Carolina,51.15538461538461
-republican,South Dakota,54.42172413793104
-republican,Tennessee,56.06428571428572
-republican,Texas,48.64218181818182
-republican,Utah,52.79483870967742
-republican,Vermont,32.40827586206897
-republican,Virginia,41.88171428571429
-republican,Washington,36.73129032258065
-republican,West Virginia,63.89225806451613
-republican,Wisconsin,43.2526
-republican,Wyoming,65.43285714285715
+democrat,Alabama,39.77823529411765
+democrat,Alaska,44.345
+democrat,Arizona,49.994166666666665
+democrat,Arkansas,39.57411764705883
+democrat,California,62.12435897435898
+democrat,Colorado,56.631136363636365
+democrat,Connecticut,62.234375
+democrat,Delaware,63.00636363636364
+democrat,District of Columbia,87.17875
+democrat,Florida,48.852673267326736
+democrat,Georgia,48.91971830985916
+democrat,Hawaii,64.30969696969697
+democrat,Idaho,39.156060606060606
+democrat,Illinois,58.698181818181816
+democrat,Indiana,43.881142857142855
+democrat,Iowa,47.95701754385965
+democrat,Kansas,45.329268292682926
+democrat,Kentucky,40.64194444444445
+democrat,Louisiana,40.91057142857143
+democrat,Maryland,65.83945945945946
+democrat,Massachusetts,68.84878787878787
+democrat,Michigan,51.047551020408164
+democrat,Minnesota,53.1688679245283
+democrat,Mississippi,41.406363636363636
+democrat,Missouri,45.34421052631579
+democrat,Montana,44.1946511627907
+democrat,Nevada,50.97659090909091
+democrat,New Hampshire,55.07857142857143
+democrat,New Jersey,59.46763157894737
+democrat,New Mexico,52.96257142857143
+democrat,New York,64.38454545454546
+democrat,North Carolina,49.6328431372549
+democrat,North Dakota,38.90264705882353
+democrat,Ohio,47.16842105263158
+democrat,Oklahoma,39.90714285714286
+democrat,Oregon,59.79794117647059
+democrat,Pennsylvania,50.788
+democrat,Rhode Island,67.0015625
+democrat,South Carolina,45.04869565217391
+democrat,South Dakota,43.21787878787879
+democrat,Tennessee,41.9759375
+democrat,Texas,47.298524590163936
+democrat,Utah,43.85657142857143
+democrat,Vermont,65.42242424242424
+democrat,Virginia,54.77048780487805
+democrat,Washington,60.67057142857143
+democrat,West Virginia,33.88057142857143
+democrat,Wisconsin,51.63827272727273
+democrat,Wyoming,32.645625
+republican,Alabama,57.83205882352941
+republican,Alaska,52.24184210526316
+republican,Arizona,45.096354166666664
+republican,Arkansas,58.067058823529415
+republican,California,34.71025641025641
+republican,Colorado,39.87386363636364
+republican,Connecticut,34.7534375
+republican,Delaware,34.621212121212125
+republican,District of Columbia,10.2390625
+republican,Florida,46.66237623762376
+republican,Georgia,46.899014084507044
+republican,Hawaii,33.124242424242425
+republican,Idaho,58.4969696969697
+republican,Illinois,38.32272727272727
+republican,Indiana,53.21628571428572
+republican,Iowa,48.35666666666667
+republican,Kansas,51.65243902439025
+republican,Kentucky,57.18805555555556
+republican,Louisiana,55.92914285714286
+republican,Maryland,31.156756756756756
+republican,Massachusetts,28.813030303030303
+republican,Michigan,43.36
+republican,Minnesota,42.31433962264151
+republican,Mississippi,56.877878787878785
+republican,Missouri,51.99131578947368
+republican,Montana,52.81116279069767
+republican,Nevada,45.62909090909091
+republican,New Hampshire,42.6097619047619
+republican,New Jersey,36.02710526315789
+republican,New Mexico,44.83542857142857
+republican,New York,32.52757575757576
+republican,North Carolina,46.03490196078431
+republican,North Dakota,59.07147058823529
+republican,Ohio,49.00228070175439
+republican,Oklahoma,57.94228571428572
+republican,Oregon,38.33764705882353
+republican,Pennsylvania,44.61845454545455
+republican,Rhode Island,31.72125
+republican,South Carolina,51.26717391304348
+republican,South Dakota,54.49181818181818
+republican,Tennessee,55.93125
+republican,Texas,48.57081967213115
+republican,Utah,52.818285714285715
+republican,Vermont,32.14666666666667
+republican,Virginia,41.777073170731704
+republican,Washington,36.762
+republican,West Virginia,64.10457142857143
+republican,Wisconsin,43.166
+republican,Wyoming,65.56625
