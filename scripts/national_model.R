@@ -5,6 +5,7 @@ library(tidyverse)
 library(caret)
 library(jtools)
 library(huxtable)
+library(scales)
 
 # Reading in the data
 
@@ -12,6 +13,10 @@ polls_past <- read_csv("data/pollavg_1968-2016_clean.csv")
 polls_2020 <- read_csv("data/president_polls_clean.csv")
 past_elections <- read_csv("data/popvote_1948-2016_clean.csv")
 econ <- read_csv("data/econ_clean.csv")
+
+# Setting seed for replicability
+
+set.seed(1347)
 
 # Joining data for model 1968-2016
 
@@ -84,3 +89,48 @@ data_2020 <- polls_2020 %>%
 final_model <- lm(pv2p ~ average_poll + incumbent_party*average_gdp, data = full_data)
 
 pred_2020 <- predict.lm(object = final_model, newdata = data_2020, se.fit=TRUE, interval="confidence", level=0.95)
+
+# Simulating 10000 draws
+
+sim_2020 <- tibble(id = as.numeric(1:20000),
+                   candidate = rep(c("Biden", "Trump"), 10000),
+                   pred_fit = rep(pred_2020$fit[,1], 10000),
+                   pred_se = rep(pred_2020$se.fit, 10000)) %>% 
+  mutate(pred_prob = map_dbl(.x = pred_fit, .y = pred_se, ~rnorm(n = 1, mean = .x, sd = .y))) %>% 
+  mutate(id = case_when(
+    id %% 2 == 1 ~ id,
+    id %% 2 == 0 ~ id - 1))
+
+# Plot simulations
+
+sim_2020_plot <- sim_2020 %>% 
+  ggplot(aes(x = pred_prob, color = fct_relevel(candidate, "Trump", "Biden"), 
+             fill = fct_relevel(candidate, "Trump", "Biden"))) +
+  geom_density(alpha = 0.2) +
+  annotate(geom = 'text', x = pred_2020$fit[1,1], y = 0.2, label = 'Biden') +
+  annotate(geom = 'text', x = pred_2020$fit[2,1], y = 0.2, label = 'Trump') +
+  theme_classic() +
+  labs(
+    title = "2020 Presidential Two-Party Popular Vote Prediction",
+    subtitle = "results are from 10,000 simulations of our model",
+    x = "Two-Party Popular Vote",
+    y = "Density" ) + 
+  scale_x_continuous(breaks = seq(46, 60, by = 2), labels = percent_format(accuracy = 1, scale = 1)) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  theme(legend.position = "none")
+
+# Saving plot as image (uncomment to save)
+
+# png("graphics/sim_2020_plot.png", units="in", width=7, height=5, res=300)
+# print(sim_2020_plot)
+# dev.off()
+
+# Finding the number of times that Trump has a greater two-paty popular vote
+
+trump_wins <- sim_2020 %>% 
+  select(id, candidate, pred_prob) %>% 
+  pivot_wider(names_from = "candidate", values_from = "pred_prob") %>% 
+  mutate(trump_win = Trump > Biden) %>% 
+  summarize(trump_wins = sum(trump_win))
