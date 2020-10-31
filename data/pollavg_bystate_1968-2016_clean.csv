@@ -33,6 +33,8 @@ year,state,party,average_poll
 1988,Kentucky,republican,44.476560697916696
 1988,Louisiana,democrat,38.25786871527777
 1988,Louisiana,republican,47.7332888560606
+1988,Maine,democrat,42.0887782121212
+1988,Maine,republican,46.1286168181818
 1988,Maryland,democrat,47.60464182255638
 1988,Maryland,republican,42.35215340680868
 1988,Massachusetts,democrat,47.275250905616616
@@ -47,6 +49,8 @@ year,state,party,average_poll
 1988,Missouri,republican,44.781920292416224
 1988,Montana,democrat,40.22709178197675
 1988,Montana,republican,42.77761327398255
+1988,Nebraska,democrat,39.5602075925926
+1988,Nebraska,republican,45.6931731111111
 1988,Nevada,democrat,34.65308854315475
 1988,Nevada,republican,49.3773595654762
 1988,New Hampshire,democrat,31.92217175
@@ -131,6 +135,8 @@ year,state,party,average_poll
 1992,Kentucky,republican,37.81219972557175
 1992,Louisiana,democrat,36.28591094055945
 1992,Louisiana,republican,36.0228606853147
+1992,Maine,democrat,34.2821545555556
+1992,Maine,republican,27.8694454444444
 1992,Maryland,democrat,39.8390997672956
 1992,Maryland,republican,36.1390930581761
 1992,Massachusetts,democrat,36.5789371744186
@@ -145,6 +151,8 @@ year,state,party,average_poll
 1992,Missouri,republican,30.5951153642703
 1992,Montana,democrat,35.11308559
 1992,Montana,republican,33.61181605
+1992,Nebraska,democrat,30.061998059077375
+1992,Nebraska,republican,40.4029241357143
 1992,Nevada,democrat,35.277226545454504
 1992,Nevada,republican,29.8855115454545
 1992,New Hampshire,democrat,42.2465093887076
@@ -227,6 +235,8 @@ year,state,party,average_poll
 1996,Kentucky,republican,39.34904259722223
 1996,Louisiana,democrat,45.70714614434106
 1996,Louisiana,republican,35.86834240457224
+1996,Maine,democrat,49.71488423953823
+1996,Maine,republican,36.5544599168831
 1996,Maryland,democrat,51.46466293846155
 1996,Maryland,republican,36.885094138461554
 1996,Massachusetts,democrat,57.483423309398475
@@ -241,6 +251,8 @@ year,state,party,average_poll
 1996,Missouri,republican,36.514699251717026
 1996,Montana,democrat,40.66204635625
 1996,Montana,republican,39.130478
+1996,Nebraska,democrat,36.37319269525252
+1996,Nebraska,republican,46.5437728161616
 1996,Nevada,democrat,42.276514
 1996,Nevada,republican,42.383449437500005
 1996,New Hampshire,democrat,49.3421107974603
@@ -325,6 +337,8 @@ year,state,party,average_poll
 2000,Kentucky,republican,50.11030888023919
 2000,Louisiana,democrat,38.59183134600986
 2000,Louisiana,republican,44.10374046571428
+2000,Maine,democrat,42.920130670054945
+2000,Maine,republican,38.31538897664836
 2000,Maryland,democrat,49.51938728295376
 2000,Maryland,republican,38.81504765590495
 2000,Massachusetts,democrat,55.13496780079365
@@ -339,6 +353,8 @@ year,state,party,average_poll
 2000,Missouri,republican,44.92898400392157
 2000,Montana,democrat,32.00790205883837
 2000,Montana,republican,52.4437557025974
+2000,Nebraska,democrat,31.76651794666666
+2000,Nebraska,republican,55.78961383833332
 2000,Nevada,democrat,40.58968746969697
 2000,Nevada,republican,46.92433049404762
 2000,New Hampshire,democrat,40.62792112743764
@@ -421,6 +437,8 @@ year,state,party,average_poll
 2004,Kentucky,republican,55.29896495285192
 2004,Louisiana,democrat,36.1335051705827
 2004,Louisiana,republican,51.47521278060777
+2004,Maine,democrat,47.4147703662478
+2004,Maine,republican,43.48963750644841
 2004,Maryland,democrat,51.47830813406432
 2004,Maryland,republican,42.21729705513784
 2004,Massachusetts,democrat,58.359645140282154
@@ -435,6 +453,8 @@ year,state,party,average_poll
 2004,Missouri,republican,49.78453163673469
 2004,Montana,democrat,32.285170134981676
 2004,Montana,republican,56.84119886459098
+2004,Nebraska,democrat,30.498670992481202
+2004,Nebraska,republican,61.1015656616541
 2004,Nevada,democrat,44.87701197066229
 2004,Nevada,republican,49.66537505676692
 2004,New Hampshire,democrat,47.24844426551889
@@ -515,6 +535,8 @@ year,state,party,average_poll
 2008,Kentucky,republican,53.48868131666667
 2008,Louisiana,democrat,39.8990491141636
 2008,Louisiana,republican,52.2670937108262
+2008,Maine,democrat,51.90692580395221
+2008,Maine,republican,39.17251407367322
 2008,Maryland,democrat,54.10116480059525
 2008,Maryland,republican,37.93637607738095
 2008,Massachusetts,democrat,54.84191175555555
@@ -529,6 +551,8 @@ year,state,party,average_poll
 2008,Missouri,republican,47.45944612251462
 2008,Montana,democrat,43.78754132996324
 2008,Montana,republican,49.71772678321954
+2008,Nebraska,democrat,37.154329280448735
+2008,Nebraska,republican,54.51878713621793
 2008,Nevada,democrat,47.02688321439394
 2008,Nevada,republican,46.02420018611111
 2008,New Hampshire,democrat,49.17262130136054
@@ -605,6 +629,8 @@ year,state,party,average_poll
 2012,Kentucky,republican,54.4240862
 2012,Louisiana,democrat,37.460549380779575
 2012,Louisiana,republican,50.94291073991935
+2012,Maine,democrat,52.48619759713203
+2012,Maine,republican,39.24536854626623
 2012,Maryland,democrat,57.00278934650073
 2012,Maryland,republican,36.7178754843589
 2012,Massachusetts,democrat,56.71566089285714
@@ -617,6 +643,8 @@ year,state,party,average_poll
 2012,Missouri,republican,51.552947144444445
 2012,Montana,democrat,41.93580667921245
 2012,Montana,republican,51.17404426931319
+2012,Nebraska,democrat,38.3262352625
+2012,Nebraska,republican,54.7525078184524
 2012,Nevada,democrat,49.062734080158734
 2012,Nevada,republican,46.326365929365075
 2012,New Hampshire,democrat,48.32731342546584
@@ -693,6 +721,8 @@ year,state,party,average_poll
 2016,Kentucky,republican,51.36857627643784
 2016,Louisiana,democrat,36.48267603835979
 2016,Louisiana,republican,48.96390262334656
+2016,Maine,democrat,44.146589051629064
+2016,Maine,republican,37.01668835672515
 2016,Maryland,democrat,60.44383628367347
 2016,Maryland,republican,27.02674732312925
 2016,Massachusetts,democrat,54.39461757959401
@@ -707,6 +737,8 @@ year,state,party,average_poll
 2016,Missouri,republican,47.378478914213574
 2016,Montana,democrat,33.509524505494504
 2016,Montana,republican,48.84419464285715
+2016,Nebraska,democrat,32.177765589920426
+2016,Nebraska,republican,50.72976311777189
 2016,Nevada,democrat,43.858987019841265
 2016,Nevada,republican,42.42871828630217
 2016,New Hampshire,democrat,44.65872148850575

@@ -19,7 +19,7 @@ ec <- read_csv("raw-data/ec_1952-2020.csv")
 
 polls_past_state_clean <- polls_past_state %>% 
   filter(before_convention == FALSE,
-         !state %in% c("ME-1", "ME-2", "NE-1", "NE-2", "NE-3", "Maine", "Nebraska")) %>% 
+         !state %in% c("ME-1", "ME-2", "NE-1", "NE-2", "NE-3")) %>% 
   group_by(year, state, party) %>% 
   summarize(average_poll = mean(avg_poll), .groups = "drop") %>% 
   filter(year >= 1988)
@@ -35,7 +35,7 @@ polls_past_state_clean <- polls_past_state %>%
 
 polls_2020_state_clean <- polls_2020 %>% 
   filter(!is.na(state),
-         !state %in% c("Maine", "Maine CD-1", "Maine CD-2", "Nebraska", "Nebraska CD-1", "Nebraska CD-2")) %>% 
+         !state %in% c("Maine CD-1", "Maine CD-2", "Nebraska CD-1", "Nebraska CD-2")) %>% 
   mutate(start_date = as.Date(end_date, "%m/%d/%y")) %>% 
   filter(start_date >= "2020-09-01") %>% 
   group_by(candidate_party, state) %>% 
