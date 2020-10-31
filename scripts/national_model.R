@@ -12,7 +12,7 @@ library(scales)
 polls_past <- read_csv("data/pollavg_1968-2016_clean.csv")
 polls_2020 <- read_csv("data/president_polls_clean.csv")
 past_elections <- read_csv("data/popvote_1948-2016_clean.csv")
-econ <- read_csv("data/econ_clean.csv")
+job_approval_gallup <- read_csv("data/approval_gallup_1941-2020_clean.csv")
 
 # Setting seed for replicability
 
@@ -22,13 +22,14 @@ set.seed(1347)
 
 full_data <- polls_past %>% 
   inner_join(past_elections, by = c("year", "party")) %>% 
-  inner_join(econ %>% mutate(year = year + 1), by = "year")
+  inner_join(job_approval_gallup, by = "year")
 
 # Training models
 # 1) pv2p ~ average_poll + party
 # 2) pv2p ~ average_poll + last_pv2p + party
-# 3) pv2p ~ average_poll + last_pv2p + average_gdp + party
-# 4) pv2p ~ average_poll + last_pv2p + incumbent_party*average_gdp + party
+# 3) pv2p ~ average_poll + last_pv2p + job_approval + party
+# 4) pv2p ~ average_poll + last_pv2p + incumbent_party*job_approval + party
+# 5) pv2p ~ average_poll + incumbent_party*job_approval
 
 model_1 <- train(pv2p ~ average_poll + party, 
                  data = full_data, method = "lm", trControl = trainControl(method = "LOOCV"))
@@ -36,13 +37,13 @@ model_1 <- train(pv2p ~ average_poll + party,
 model_2 <- train(pv2p ~ average_poll + last_pv2p + party, 
                  data = full_data, method = "lm", trControl = trainControl(method = "LOOCV"))
 
-model_3 <- train(pv2p ~ average_poll + last_pv2p + average_gdp + party, 
+model_3 <- train(pv2p ~ average_poll + last_pv2p + job_approval + party, 
                  data = full_data, method = "lm", trControl = trainControl(method = "LOOCV"))
 
-model_4 <- train(pv2p ~ average_poll + last_pv2p + incumbent_party*average_gdp + party, 
+model_4 <- train(pv2p ~ average_poll + last_pv2p + incumbent_party*job_approval + party, 
                  data = full_data, method = "lm", trControl = trainControl(method = "LOOCV"))
 
-model_5 <- train(pv2p ~ average_poll + incumbent_party*average_gdp, 
+model_5 <- train(pv2p ~ average_poll + incumbent_party*job_approval, 
                  data = full_data, method = "lm", trControl = trainControl(method = "LOOCV"))
 
 # Table of loocv results
@@ -63,9 +64,9 @@ model_outputs <- export_summs(model_1$finalModel, model_2$finalModel, model_3$fi
                        "Average Poll" = "average_poll",
                        "Republican" = "partyrepublican",
                        "Last pv2p" = "last_pv2p",
-                       "Average GDP Growth" = "average_gdp",
+                       "Average Job Approval" = "job_approval",
                        "Incumbent Party" = "incumbent_partyTRUE",
-                       "Incumbent Party:Average GDP Growth" = "`incumbent_partyTRUE:average_gdp`"),
+                       "Incumbent Party:Average Job Approval" = "`incumbent_partyTRUE:job_approval`"),
              statistics = c(N = "nobs",
                             R2 = "r.squared",
                             R2.adj = "adj.r.squared",
@@ -82,11 +83,11 @@ data_2020 <- polls_2020 %>%
            party == "democrat" ~ FALSE
          ),
          incumbent_party = incumbent,
-         average_gdp = econ %>% filter(year == 2019) %>% pull(average_gdp))
+         job_approval = job_approval_gallup %>% filter(year == 2020) %>% pull(job_approval))
 
 # Predicting 2020 using model 5
 
-final_model <- lm(pv2p ~ average_poll + incumbent_party*average_gdp, data = full_data)
+final_model <- lm(pv2p ~ average_poll + incumbent_party*job_approval, data = full_data)
 
 pred_2020 <- predict.lm(object = final_model, newdata = data_2020, se.fit=TRUE, interval="confidence", level=0.95)
 
@@ -135,7 +136,8 @@ trump_wins <- sim_2020 %>%
   mutate(trump_win = Trump > Biden) %>% 
   summarize(trump_wins = sum(trump_win))
 
-# Normalize simulations
+# Normalize simulations plot
+
 sim_2020_normalized <- sim_2020 %>%
   pivot_wider(id_cols = "id", names_from = "candidate", values_from = "pred_prob") %>%
   mutate(total = Biden + Trump,
@@ -147,14 +149,21 @@ sim_2020_normalized <- sim_2020 %>%
          candidate = ifelse(candidate1 == "Biden_pv2p", "Biden", "Trump")) %>%
   select(id, candidate, pred_prob)
 
-#
-sim_2020_normalized %>% 
+# Normalized model mean
+
+sim_2020_normalized_mean <- sim_2020_normalized %>% 
+  group_by(candidate) %>% 
+  summarize(avg = mean(pred_prob))
+
+sim_2020_normalized_plot <- sim_2020_normalized %>% 
   ggplot(aes(x = pred_prob, color = fct_relevel(candidate, "Trump", "Biden"), 
              fill = fct_relevel(candidate, "Trump", "Biden"))) +
   geom_density(alpha = 0.2) +
+  annotate(geom = 'text', x = sim_2020_normalized_mean$avg[1], y = 0.2, label = 'Biden') +
+  annotate(geom = 'text', x = sim_2020_normalized_mean$avg[2], y = 0.2, label = 'Trump') +
   theme_classic() +
   labs(
-    title = "2020 Presidential Two-Party Popular Vote Prediction",
+    title = "Two-Party Popular Vote Predictive Interval",
     subtitle = "results are from 10,000 simulations of our model",
     x = "Two-Party Popular Vote",
     y = "Density" ) + 
@@ -163,3 +172,9 @@ sim_2020_normalized %>%
   scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
   scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
   theme(legend.position = "none")
+
+# Saving plot as image (uncomment to save)
+
+# png("graphics/sim_2020_normalized_plot.png", units="in", width=7, height=5, res=300)
+# print(sim_2020_normalized_plot)
+# dev.off()

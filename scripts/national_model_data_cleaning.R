@@ -9,6 +9,7 @@ polls_past <- read_csv("raw-data/pollavg_1968-2016.csv")
 polls_2020 <- read_csv("raw-data/president_polls.csv")
 past_elections <- read_csv("raw-data/popvote_1948-2016.csv")
 econ <- read_csv("raw-data/econ.csv")
+job_approval_gallup <- read_csv("raw-data/approval_gallup_1941-2020.csv")
 
 # Cleaning for Past Polls:
 # 1) Using only polls after the convention
@@ -70,3 +71,17 @@ econ_clean <- econ %>%
   summarize(average_gdp = mean(GDP_growth_qt), .groups = "drop")
   
 # write_csv(econ_clean, "data/econ_clean.csv")  
+
+# Cleaning job approval data:
+# 1) 
+
+job_approval_gallup_clean <- job_approval_gallup %>% 
+  mutate(year = as.numeric(format(as.Date(poll_startdate, format = "%Y-%m-%d"), "%Y")),
+         month = as.numeric(format(as.Date(poll_startdate, format = "%Y-%m-%d"), "%m"))) %>% 
+  filter(year %% 4 == 0,
+         month %in% 1:10) %>% 
+  group_by(year) %>% 
+  summarize(job_approval = mean(approve), .groups = "drop")
+  
+# write_csv(job_approval_gallup_clean, "data/approval_gallup_1941-2020_clean.csv")
+  
