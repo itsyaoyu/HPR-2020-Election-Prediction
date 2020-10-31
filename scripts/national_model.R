@@ -134,3 +134,32 @@ trump_wins <- sim_2020 %>%
   pivot_wider(names_from = "candidate", values_from = "pred_prob") %>% 
   mutate(trump_win = Trump > Biden) %>% 
   summarize(trump_wins = sum(trump_win))
+
+# Normalize simulations
+sim_2020_normalized <- sim_2020 %>%
+  pivot_wider(id_cols = "id", names_from = "candidate", values_from = "pred_prob") %>%
+  mutate(total = Biden + Trump,
+         Biden_pv2p = Biden / total * 100,
+         Trump_pv2p = Trump / total * 100) %>%
+  select(id, Biden_pv2p, Trump_pv2p) %>%
+  pivot_longer(cols = c("Biden_pv2p", "Trump_pv2p"), names_to = "candidate1") %>%
+  mutate(pred_prob = value,
+         candidate = ifelse(candidate1 == "Biden_pv2p", "Biden", "Trump")) %>%
+  select(id, candidate, pred_prob)
+
+#
+sim_2020_normalized %>% 
+  ggplot(aes(x = pred_prob, color = fct_relevel(candidate, "Trump", "Biden"), 
+             fill = fct_relevel(candidate, "Trump", "Biden"))) +
+  geom_density(alpha = 0.2) +
+  theme_classic() +
+  labs(
+    title = "2020 Presidential Two-Party Popular Vote Prediction",
+    subtitle = "results are from 10,000 simulations of our model",
+    x = "Two-Party Popular Vote",
+    y = "Density" ) + 
+  scale_x_continuous(breaks = seq(46, 60, by = 2), labels = percent_format(accuracy = 1, scale = 1)) +
+  scale_y_continuous(labels = percent_format(accuracy = 1)) +
+  scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  theme(legend.position = "none")
