@@ -76,7 +76,7 @@ model_outputs <- export_summs(model_1$finalModel, model_2$finalModel, model_3$fi
 # Joining data for 2020 prediction
 
 data_2020 <- polls_2020 %>% 
-  mutate(last_pv2p = past_elections %>% filter(year == 2016) %>% pull(last_pv2p),
+  mutate(last_pv2p = past_elections %>% filter(year == 2016) %>% pull(pv2p),
          incumbent = case_when(
            party == "republican" ~ TRUE,
            party == "democrat" ~ FALSE
@@ -90,7 +90,7 @@ final_model <- lm(pv2p ~ average_poll + incumbent_party*average_gdp, data = full
 
 pred_2020 <- predict.lm(object = final_model, newdata = data_2020, se.fit=TRUE, interval="confidence", level=0.95)
 
-# Simulating 10000 draws
+# Simulating 10000 draws to get predictive interval
 
 sim_2020 <- tibble(id = as.numeric(1:20000),
                    candidate = rep(c("Biden", "Trump"), 10000),
@@ -101,7 +101,7 @@ sim_2020 <- tibble(id = as.numeric(1:20000),
     id %% 2 == 1 ~ id,
     id %% 2 == 0 ~ id - 1))
 
-# Plot simulations
+# Plot 10000 draws
 
 sim_2020_plot <- sim_2020 %>% 
   ggplot(aes(x = pred_prob, color = fct_relevel(candidate, "Trump", "Biden"), 
@@ -111,7 +111,7 @@ sim_2020_plot <- sim_2020 %>%
   annotate(geom = 'text', x = pred_2020$fit[2,1], y = 0.2, label = 'Trump') +
   theme_classic() +
   labs(
-    title = "2020 Presidential Two-Party Popular Vote Prediction",
+    title = "Two-Party Popular Vote Predictive Interval",
     subtitle = "results are from 10,000 simulations of our model",
     x = "Two-Party Popular Vote",
     y = "Density" ) + 
