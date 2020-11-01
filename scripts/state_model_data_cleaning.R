@@ -72,17 +72,4 @@ past_elections_state_clean <- past_elections_state %>%
 
 # write_csv(past_elections_state_clean, "data/popvote_bystate_1948-2016_clean.csv")  
 
-# Cleaning electoral college:
-# 1) Gathering 2020 ec data
-
-ec_clean <- ec %>% 
-  filter(year == 2020,
-         state != "Total") %>% 
-  mutate(electors = case_when(
-    state == "D.C." ~ 3,
-    TRUE ~ electors
-  ))
-
-# write_csv(ec_clean, "data/ec_2020.csv")
-
 # GDP Data Cleaning is located in the national_model_data_cleaning.R file

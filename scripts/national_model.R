@@ -166,12 +166,17 @@ sim_2020_normalized_plot <- sim_2020_normalized %>%
     title = "Two-Party Popular Vote Predictive Interval",
     subtitle = "results are from 10,000 simulations of our model",
     x = "Two-Party Popular Vote",
-    y = "Density" ) + 
+    y = "" ) + 
   scale_x_continuous(breaks = seq(46, 60, by = 2), labels = percent_format(accuracy = 1, scale = 1)) +
-  scale_y_continuous(labels = percent_format(accuracy = 1)) +
   scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
   scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
-  theme(legend.position = "none")
+  theme(legend.position = "none",
+        axis.title.y = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.line.y = element_blank(),
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
 
 # Saving plot as image (uncomment to save)
 

@@ -132,6 +132,8 @@ ec_plot <- ec_plot_data %>%
   ggplot(aes(x = "2020", y = total, fill = fct_relevel(win_margin_group, "Strong Trump", "Lean Trump", "Toss-Up", "Lean Biden", "Strong Biden"), label = total)) +
   geom_col(show.legend = FALSE, width = 0.25) + 
   geom_text(position = position_stack(vjust = 0.5)) +
+  geom_hline(yintercept = 270) +
+  annotate(geom = 'text', x = 0.7, y = 300, label = '270') +
   coord_flip() + 
   theme_void() + 
   labs(fill = "") +
@@ -208,6 +210,7 @@ sims_plot <- sims_plot_data %>%
     y = "" ) +
   scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
   scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  scale_x_continuous(breaks = c(150, 200, 250, 300, 350, 400)) +
   theme(legend.position = "none",
         axis.title.y = element_blank(),
         axis.text.y = element_blank(),
