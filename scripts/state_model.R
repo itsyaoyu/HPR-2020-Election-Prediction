@@ -194,7 +194,7 @@ sims_final_data <- democrat_data %>%
 sims_plot_data <- sims_final_data %>% 
   pivot_longer(Biden:Trump, names_to = "candidate", values_to = "ec") 
 
-sims_plot_data %>% 
+sims_plot <- sims_plot_data %>% 
   ggplot(aes(x = ec, color = fct_relevel(candidate, "Trump", "Biden"), 
              fill = fct_relevel(candidate, "Trump", "Biden"))) +
   geom_density(alpha = 0.2) +
@@ -215,3 +215,9 @@ sims_plot_data %>%
         axis.line.y = element_blank(),
         plot.title = element_text(hjust = 0.5),
         plot.subtitle = element_text(hjust = 0.5))
+
+# Saving plot as image (uncomment to save)
+
+# png("graphics/sims_plot.png", units="in", width=7, height=5, res=300)
+# print(sims_plot)
+# dev.off()
