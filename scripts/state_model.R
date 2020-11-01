@@ -66,9 +66,6 @@ data_2020 <- polls_2020 %>%
          year = 2020) %>% 
   left_join(job_approval_gallup, by = "year")
 
-
-
-
 # Predicting 2020
 
 final_models <- full_data %>% 
@@ -146,3 +143,75 @@ ec_plot <- ec_plot_data %>%
 # png("graphics/pred_2020_ec_bar.png", units="in", width=6, height=1.5, res=100)
 # print(ec_plot)
 # dev.off()
+
+# Getting data ready for simulations
+
+sim_data <- data_2020 %>%
+  mutate(party_temp = party) %>% 
+  group_by(state, party_temp) %>% 
+  nest() %>% 
+  mutate(data = map(data, ~unnest(., cols = c()))) %>% 
+  left_join(final_models, by = "state") %>% 
+  mutate(pred = map(.x = model, .y = data, ~predict.lm(object = .x, newdata = as.data.frame(.y), se.fit=TRUE, interval="confidence", level=0.95))) %>% 
+  select(state, party_temp, pred) %>% 
+  mutate(pred_fit = map_dbl(pred, ~.x$fit[,1]),
+         pred_se = map_dbl(pred, ~.x$se.fit))
+
+# Simulating 10000 draws to get predictive interval of ec wins
+
+sim_2020 <- tibble(key = rep(seq(1, 10000), 102)) %>% 
+  arrange(key) %>% 
+  mutate(party = rep(sim_data$party_temp, 10000),
+         state = rep(sim_data$state, 10000),
+         pred_fit = rep(sim_data$pred_fit, 10000),
+         pred_se = rep(sim_data$pred_se, 10000)) %>% 
+  mutate(pred_prob = map_dbl(.x = pred_fit, .y = pred_se, ~rnorm(n = 1, mean = .x, sd = .y))) %>% 
+  mutate(state = ifelse(state == "District of Columbia", "D.C.", state))
+
+# Cleaning and scaling simulated data
+
+democrat_data <- sim_2020 %>% 
+  filter(party == "democrat") %>% 
+  select(key, state, pred_prob) %>% 
+  rename(democrat = pred_prob)
+
+republican_data <- sim_2020 %>% 
+  filter(party == "republican") %>% 
+  select(key, state, pred_prob) %>% 
+  rename(republican = pred_prob)
+
+sims_final_data <- democrat_data %>% 
+  inner_join(republican_data, by = c("key", "state")) %>% 
+  inner_join(ec %>% select(-year), by = "state") %>% 
+  mutate(biden_win = ifelse(democrat > republican, electors, 0)) %>% 
+  mutate(trump_win = ifelse(democrat < republican, electors, 0)) %>% 
+  select(key, state, biden_win, trump_win) %>% 
+  group_by(key) %>% 
+  summarize(Biden = sum(biden_win),
+            Trump = sum(trump_win),
+            .groups = "drop")
+
+sims_plot_data <- sims_final_data %>% 
+  pivot_longer(Biden:Trump, names_to = "candidate", values_to = "ec") 
+
+sims_plot_data %>% 
+  ggplot(aes(x = ec, color = fct_relevel(candidate, "Trump", "Biden"), 
+             fill = fct_relevel(candidate, "Trump", "Biden"))) +
+  geom_density(alpha = 0.2) +
+  annotate(geom = 'text', x = mean(sims_final_data$Biden), y = 0.005, label = 'Biden') +
+  annotate(geom = 'text', x = mean(sims_final_data$Trump), y = 0.005, label = 'Trump') +
+  theme_classic() +
+  labs(
+    title = "Electoral College Vote Predictive Interval",
+    subtitle = "results are from 10,000 simulations of our state models",
+    x = "Electoral College Vote",
+    y = "" ) +
+  scale_color_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  scale_fill_manual(values=c("#619CFF", "#F8766D"), breaks = c("Biden", "Trump")) +
+  theme(legend.position = "none",
+        axis.title.y = element_blank(),
+        axis.text.y = element_blank(),
+        axis.ticks.y = element_blank(),
+        axis.line.y = element_blank(),
+        plot.title = element_text(hjust = 0.5),
+        plot.subtitle = element_text(hjust = 0.5))
