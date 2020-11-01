@@ -102,7 +102,7 @@ sim_2020 <- tibble(id = as.numeric(1:20000),
     id %% 2 == 1 ~ id,
     id %% 2 == 0 ~ id - 1))
 
-# Plot 10000 draws
+# Plot 10000 draws (OLD: un-normalized)
 
 sim_2020_plot <- sim_2020 %>% 
   ggplot(aes(x = pred_prob, color = fct_relevel(candidate, "Trump", "Biden"), 
@@ -136,7 +136,7 @@ trump_wins <- sim_2020 %>%
   mutate(trump_win = Trump > Biden) %>% 
   summarize(trump_wins = sum(trump_win))
 
-# Normalize simulations plot
+# Normalize simulations plot (NEW)
 
 sim_2020_normalized <- sim_2020 %>%
   pivot_wider(id_cols = "id", names_from = "candidate", values_from = "pred_prob") %>%

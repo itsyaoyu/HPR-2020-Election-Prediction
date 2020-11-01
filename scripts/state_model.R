@@ -193,8 +193,12 @@ sims_final_data <- democrat_data %>%
             Trump = sum(trump_win),
             .groups = "drop")
 
+# Preparing the data for plotting
+
 sims_plot_data <- sims_final_data %>% 
   pivot_longer(Biden:Trump, names_to = "candidate", values_to = "ec") 
+
+# Plotting the simulated ec votes
 
 sims_plot <- sims_plot_data %>% 
   ggplot(aes(x = ec, color = fct_relevel(candidate, "Trump", "Biden"), 

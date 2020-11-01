@@ -8,7 +8,6 @@ library(tidyverse)
 polls_past <- read_csv("raw-data/pollavg_1968-2016.csv")
 polls_2020 <- read_csv("raw-data/president_polls.csv")
 past_elections <- read_csv("raw-data/popvote_1948-2016.csv")
-econ <- read_csv("raw-data/econ.csv")
 job_approval_gallup <- read_csv("raw-data/approval_gallup_1941-2020.csv")
 
 # Cleaning for Past Polls:
@@ -57,23 +56,9 @@ past_elections_clean <- past_elections %>%
 
 # write_csv(past_elections_clean, "data/popvote_1948-2016_clean.csv")  
 
-# Cleaning for economic data:
-# 1) Selecting year, quarter, GDP_growth_qt
-# 2) Dropping NAs
-# 3) Filtering for year before election year (due to covid)
-# 4) Averaging GDP per year
-
-econ_clean <- econ %>% 
-  select(year, quarter, GDP_growth_qt) %>% 
-  drop_na() %>% 
-  filter((year + 1) %% 4 == 0) %>% 
-  group_by(year) %>% 
-  summarize(average_gdp = mean(GDP_growth_qt), .groups = "drop")
-  
-# write_csv(econ_clean, "data/econ_clean.csv")  
-
 # Cleaning job approval data:
-# 1) 
+# 1) Selecting data from Jan to Oct of election years
+# 2) Averaging the approval ratings of each year
 
 job_approval_gallup_clean <- job_approval_gallup %>% 
   mutate(year = as.numeric(format(as.Date(poll_startdate, format = "%Y-%m-%d"), "%Y")),

@@ -72,4 +72,4 @@ past_elections_state_clean <- past_elections_state %>%
 
 # write_csv(past_elections_state_clean, "data/popvote_bystate_1948-2016_clean.csv")  
 
-# GDP Data Cleaning is located in the national_model_data_cleaning.R file
+# Presidential Job Approval Data Cleaning is located in the national_model_data_cleaning.R file
