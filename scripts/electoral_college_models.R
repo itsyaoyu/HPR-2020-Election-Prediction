@@ -14,7 +14,6 @@ polls_2020 <- read_csv("data/president_polls_state_clean.csv")
 polls_past_state <- read_csv("data/pollavg_bystate_1968-2016_clean.csv")
 past_elections_state <- read_csv("data/popvote_bystate_1948-2016_clean.csv")
 ec <- read_csv("data/ec_2020.csv")
-econ <- read_csv("data/econ_clean.csv")
 job_approval_gallup <- read_csv("data/approval_gallup_1941-2020_clean.csv")
 
 # Setting seed for replicability
@@ -27,25 +26,23 @@ set.seed(1347)
 
 full_data <- past_elections_state %>% 
   left_join(polls_past_state, by = c("state", "year", "party")) %>% 
-  drop_na() %>% 
-  left_join(econ %>% mutate(year = year + 1), by = "year") %>% 
+  drop_na() %>%
   left_join(job_approval_gallup, by = "year") %>% 
   group_by(state) %>% 
   group_nest() %>% 
   mutate(data = map(data, ~unnest(., cols = c())))
 
 # Training models 
-# lm(pv2p ~ average_poll + incumbent_party*average_gdp, data = full_data)
 
-#models <- full_data %>% 
-#  mutate(model = map(data, ~train(pv2p ~ average_poll + incumbent_party*job_approval + party, 
-#                                  data = .x, method = "lm", trControl = trainControl(method = "LOOCV")))) %>% 
-#  select(-data)
+models <- full_data %>% 
+  mutate(model = map(data, ~train(pv2p ~ average_poll + incumbent_party*job_approval, 
+                                  data = .x, method = "lm", trControl = trainControl(method = "LOOCV")))) %>% 
+  select(-data)
 
-#model_results <- models %>% 
-#  mutate(r_squared = map_dbl(model, ~summary(.x)$r.squared)) %>%
-#  mutate(r_squared_loocv = map_dbl(model, ~.x$results[,3])) %>%
-#  mutate(rmse = map_dbl(model, ~.x$results[,2]))
+model_results <- models %>% 
+  mutate(r_squared = map_dbl(model, ~summary(.x)$r.squared)) %>%
+  mutate(r_squared_loocv = map_dbl(model, ~.x$results[,3])) %>%
+  mutate(rmse = map_dbl(model, ~.x$results[,2]))
 
 # Joining data for 2020 prediction
 
@@ -60,9 +57,6 @@ data_2020 <- polls_2020 %>%
            party == "democrat" ~ FALSE
          ),
          incumbent_party = incumbent,
-         average_gdp = econ %>% 
-           filter(year == 2019) %>% 
-           pull(average_gdp),
          year = 2020) %>% 
   left_join(job_approval_gallup, by = "year")
 
@@ -107,8 +101,6 @@ pred_2020_scaled_plot <- pred_2020_scaled %>%
   theme_statebins() +
   scale_fill_manual(values = c("#619CFF", "#C3D7F7", "#BABABA", "#FACECA", "#F8766D"),
                     breaks = c("Strong Biden", "Lean Biden", "Toss-Up", "Lean Trump", "Strong Trump")) +
-#  scale_fill_manual(values = c("#0145ED", "#4CB2F9", "#a396c0", "#FA7988", "#EB001C"),
-#                    breaks = c("Strong Biden", "Lean Biden", "Toss-Up", "Lean Trump", "Strong Trump")) +
   labs(title = "2020 Presidential Election Prediction Map",
        fill = "")
 
